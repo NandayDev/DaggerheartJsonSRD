@@ -1,6 +1,6 @@
 {
     "Abandoned Grove": {
-        "name": "Abandoned Grove",
+        "name": "Abandoned grove",
         "tier": 1,
         "type": "Exploration",
         "description": "A former druidic grove lying fallow and fully reclaimed by nature.",
@@ -92,7 +92,7 @@
         ]
     },
     "Burning Heart of the Woods": {
-        "name": "Burning Heart of the Woods",
+        "name": "Burning heart of the woods",
         "tier": 3,
         "type": "Exploration",
         "description": "Thick indigo ash fills the air around a towering moss-covered tree that burns eternally with flames a sickly shade of blue.",
@@ -148,7 +148,7 @@
         ]
     },
     "Bustling Marketplace": {
-        "name": "Bustling Marketplace",
+        "name": "Bustling marketplace",
         "tier": 1,
         "type": "Social",
         "description": "The economic heart of the settlement, with local artisans, traveling merchants, and patrons across social classes.",
@@ -192,7 +192,7 @@
         ]
     },
     "Castle Siege": {
-        "name": "Castle Siege",
+        "name": "Castle siege",
         "tier": 3,
         "type": "Event",
         "description": "An active siege with an attacking force fighting to gain entry to a fortified castle.",
@@ -240,7 +240,7 @@
         ]
     },
     "Chaos Realm": {
-        "name": "Chaos Realm",
+        "name": "Chaos realm",
         "tier": 4,
         "type": "Traversal",
         "description": "An otherworldly space where the laws of reality are unstable and dangerous.",
@@ -293,7 +293,7 @@
         ]
     },
     "Cliffside Ascent": {
-        "name": "Cliffside Ascent",
+        "name": "Cliffside ascent",
         "tier": 1,
         "type": "Traversal",
         "description": "A steep, rocky cliffside tall enough to make traversal dangerous.",
@@ -331,7 +331,7 @@
         ]
     },
     "Cult Ritual": {
-        "name": "Cult Ritual",
+        "name": "Cult ritual",
         "tier": 2,
         "type": "Event",
         "description": "A fallen cult assembles around a sigil of the defeated gods and a bonfire that burns a sickly shade of green.",
@@ -379,7 +379,7 @@
         ]
     },
     "Divine Usurpation": {
-        "name": "Divine Usurpation",
+        "name": "Divine usurpation",
         "tier": 4,
         "type": "Event",
         "description": "A massive ritual designed to breach the gates of the Hallows Above and unseat the New Gods themselves.",
@@ -440,7 +440,7 @@
         ]
     },
     "Hallowed Temple": {
-        "name": "Hallowed Temple",
+        "name": "Hallowed temple",
         "tier": 2,
         "type": "Social",
         "description": "A bustling yet well-kept temple that provides healing and hosts regular services, overseen by a priest or seraph.",
@@ -479,7 +479,7 @@
         ]
     },
     "Haunted City": {
-        "name": "Haunted City",
+        "name": "Haunted city",
         "tier": 2,
         "type": "Exploration",
         "description": "An abandoned city populated by the restless spirits of eras past.",
@@ -523,7 +523,7 @@
         ]
     },
     "Imperial Court": {
-        "name": "Imperial Court",
+        "name": "Imperial court",
         "tier": 4,
         "type": "Social",
         "description": "The dazzling mansion of a powerful empire, lavishly appointed with stolen treasures.",
@@ -570,7 +570,7 @@
         ]
     },
     "Local Tavern": {
-        "name": "Local Tavern",
+        "name": "Local tavern",
         "tier": 1,
         "type": "Social",
         "description": "A lively tavern that serves as the social hub for its town.",
@@ -587,7 +587,7 @@
         ],
         "features": [
             {
-                "name": "What’s the Talk of the Town?",
+                "name": "What's the Talk of the Town?",
                 "type": "Passive",
                 "description": "A PC can ask the bartender, staff, or patrons about local events, rumors, and potential work with a Presence Roll. On a success, they can pick two of the below details to learn—or three if they critically succeed. On a failure, they can pick one and mark a Stress as the local carries on about something irrelevant.\n\n- A fascinating rumor with a connection to a PC's background\n- A promising job for the party involving a nearby threat or situation\n- Local folklore that relates to something they've seen\n- Town gossip that hints at a community problem\n\n*Who has what kind of information? What gossip do the locals start spreading about the PCs?*",
                 "fearCost": 0
@@ -619,7 +619,7 @@
         ]
     },
     "Mountain Pass": {
-        "name": "Mountain Pass",
+        "name": "Mountain pass",
         "tier": 2,
         "type": "Traversal",
         "description": "Stony peaks that pierce the clouds, with a twisting path winding its way up and over through many switchbacks.",
@@ -665,7 +665,7 @@
         ]
     },
     "Necromancers Ossuary": {
-        "name": "Necromancers Ossuary",
+        "name": "Necromancer's ossuary",
         "tier": 4,
         "type": "Exploration",
         "description": "A dusty crypt with a library, twisting corridors, and abundant sarcophagi; spattered with the blood of ill-fated invaders.",
@@ -709,7 +709,7 @@
         ]
     },
     "Outpost Town": {
-        "name": "Outpost Town",
+        "name": "Outpost town",
         "tier": 1,
         "type": "Social",
         "description": "A small town on the outskirts of a nation or region, close to a dungeon, tombs, or other adventuring destinations.",
@@ -745,7 +745,7 @@
                 "fearCost": 0
             },
             {
-                "name": "It’d Be a Shame If Something Happened to Your Store",
+                "name": "It'd Be a Shame If Something Happened to Your Store",
                 "type": "Action",
                 "description": "The PCs witness as agents of a local crime boss shake down a general goods store.\n\n*What trouble does it cause if the PCs intervene?*",
                 "fearCost": 0
@@ -759,7 +759,7 @@
         ]
     },
     "Pitched Battle": {
-        "name": "Pitched Battle",
+        "name": "Pitched battle",
         "tier": 3,
         "type": "Event",
         "description": "A massive combat between two large groups of armed combatants.",
@@ -803,7 +803,7 @@
         ]
     },
     "Raging River": {
-        "name": "Raging River",
+        "name": "Raging river",
         "tier": 1,
         "type": "Traversal",
         "description": "A swift-moving river without a bridge crossing, deep enough to sweep away most people.",

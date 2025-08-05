@@ -322,7 +322,7 @@
         "tier": 4
     },
     "Monetts Cloak": {
-        "name": "Monett’s cloak",
+        "name": "Monett's cloak",
         "baseThresholds": {
             "lower": 16,
             "higher": 39

@@ -1,16 +1,16 @@
 {
     "A Soldiers Bond": {
-        "name": "A SOLDIER’S BOND",
+        "name": "A soldier's bond",
         "domain": "Blade",
         "level": 2,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "Once per long rest, when you compliment someone or ask them about something they’re good at, you can both gain 3 Hope."
+            "Once per long rest, when you compliment someone or ask them about something they're good at, you can both gain 3 Hope."
         ]
     },
     "Adjust Reality": {
-        "name": "ADJUST REALITY",
+        "name": "Adjust reality",
         "domain": "Arcana",
         "level": 10,
         "type": "Spell",
@@ -20,7 +20,7 @@
         ]
     },
     "Arcana-Touched": {
-        "name": "ARCANA-TOUCHED",
+        "name": "Arcana-touched",
         "domain": "Arcana",
         "level": 7,
         "type": "Ability",
@@ -32,7 +32,7 @@
         ]
     },
     "Arcane Reflection": {
-        "name": "ARCANE REFLECTION",
+        "name": "Arcane reflection",
         "domain": "Arcana",
         "level": 8,
         "type": "Spell",
@@ -42,40 +42,40 @@
         ]
     },
     "Armorer": {
-        "name": "ARMORER",
+        "name": "Armorer",
         "domain": "Valor",
         "level": 5,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "While you’re wearing armor, gain a +1 bonus to your Armor Score.",
+            "While you're wearing armor, gain a +1 bonus to your Armor Score.",
             "During a rest, when you choose to repair your armor as a downtime move, your allies also clear an Armor Slot."
         ]
     },
     "Astral Projection": {
-        "name": "ASTRAL PROJECTION",
+        "name": "Astral projection",
         "domain": "Grace",
         "level": 8,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you’ve been before.",
-            "You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it’s of magical origin. This effect lasts until your next rest or your projection takes any damage."
+            "Once per long rest, mark a Stress to create a projected copy of yourself that can appear anywhere you've been before.",
+            "You can see and hear through the projection as though it were you and affect the world as though you were there. A creature investigating the projection can tell it's of magical origin. This effect lasts until your next rest or your projection takes any damage."
         ]
     },
     "Banish": {
-        "name": "BANISH",
+        "name": "Banish",
         "domain": "Codex",
         "level": 6,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "Make a Spellcast Roll against a target within Close range. On a success, roll a number of d20s equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn’t banished. Once per rest on a failure, they are banished from this realm.",
+            "Make a Spellcast Roll against a target within Close range. On a success, roll a number of d20s equal to your Spellcast trait. The target must make a reaction roll with a Difficulty equal to your highest result. On a success, the target must mark a Stress but isn't banished. Once per rest on a failure, they are banished from this realm.",
             "When the PCs roll with Fear, the Difficulty gains a -1 penalty and the target makes another reaction roll. On a success, they return from banishment."
         ]
     },
     "Bare Bones": {
-        "name": "BARE BONES",
+        "name": "Bare bones",
         "domain": "Valor",
         "level": 1,
         "type": "Ability",
@@ -89,17 +89,17 @@
         ]
     },
     "Battle Cry": {
-        "name": "BATTLE CRY",
+        "name": "Battle cry",
         "domain": "Blade",
         "level": 8,
         "type": "Ability",
         "recallCost": 2,
         "descriptions": [
-            "Once per long rest, while you’re charging into danger, you can muster a rousing call that inspires your allies. All allies who can hear you each clear a Stress and gain a Hope. Additionally, your allies gain advantage on attack rolls until you or an ally rolls a failure with Fear."
+            "Once per long rest, while you're charging into danger, you can muster a rousing call that inspires your allies. All allies who can hear you each clear a Stress and gain a Hope. Additionally, your allies gain advantage on attack rolls until you or an ally rolls a failure with Fear."
         ]
     },
     "Battle Monster": {
-        "name": "BATTLE MONSTER",
+        "name": "Battle monster",
         "domain": "Blade",
         "level": 10,
         "type": "Ability",
@@ -109,7 +109,7 @@
         ]
     },
     "Battle-Hardened": {
-        "name": "BATTLE-HARDENED",
+        "name": "Battle-hardened",
         "domain": "Blade",
         "level": 6,
         "type": "Ability",
@@ -119,7 +119,7 @@
         ]
     },
     "Blade-Touched": {
-        "name": "BLADE-TOUCHED",
+        "name": "Blade-touched",
         "domain": "Blade",
         "level": 7,
         "type": "Ability",
@@ -131,7 +131,7 @@
         ]
     },
     "Blink Out": {
-        "name": "BLINK OUT",
+        "name": "Blink out",
         "domain": "Arcana",
         "level": 4,
         "type": "Spell",
@@ -141,7 +141,7 @@
         ]
     },
     "Body Basher": {
-        "name": "BODY BASHER",
+        "name": "Body basher",
         "domain": "Valor",
         "level": 2,
         "type": "Ability",
@@ -151,7 +151,7 @@
         ]
     },
     "Bold Presence": {
-        "name": "BOLD PRESENCE",
+        "name": "Bold presence",
         "domain": "Valor",
         "level": 2,
         "type": "Ability",
@@ -162,7 +162,7 @@
         ]
     },
     "Bolt Beacon": {
-        "name": "BOLT BEACON",
+        "name": "Bolt beacon",
         "domain": "Splendor",
         "level": 1,
         "type": "Spell",
@@ -172,7 +172,7 @@
         ]
     },
     "Bone-Touched": {
-        "name": "BONE-TOUCHED",
+        "name": "Bone-touched",
         "domain": "Bone",
         "level": 7,
         "type": "Ability",
@@ -184,20 +184,20 @@
         ]
     },
     "Book of Ava": {
-        "name": "BOOK OF AVA",
+        "name": "Book of ava",
         "domain": "Codex",
         "level": 1,
         "type": "Grimoire",
         "recallCost": 2,
         "descriptions": [
             "Power Push: Make a Spellcast Roll against a target within Melee range.",
-            "On a success, they’re knocked back to Far range and take d10+2 magic damage using your Proficiency.",
-            "Tova’s Armor: Spend a Hope to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tova’s Armor again.",
-            "Ice Spike: Make a Spellcast Roll (12) to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target’s Difficulty instead. On a success, deal d6 physical damage using your Proficiency."
+            "On a success, they're knocked back to Far range and take d10+2 magic damage using your Proficiency.",
+            "Tova's Armor: Spend a Hope to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tova's Armor again.",
+            "Ice Spike: Make a Spellcast Roll (12) to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target's Difficulty instead. On a success, deal d6 physical damage using your Proficiency."
         ]
     },
     "Book of Exota": {
-        "name": "BOOK OF EXOTA",
+        "name": "Book of exota",
         "domain": "Codex",
         "level": 4,
         "type": "Grimoire",
@@ -208,7 +208,7 @@
         ]
     },
     "Book of Grynn": {
-        "name": "BOOK OF GRYNN",
+        "name": "Book of grynn",
         "domain": "Codex",
         "level": 4,
         "type": "Grimoire",
@@ -220,30 +220,30 @@
         ]
     },
     "Book of Homet": {
-        "name": "BOOK OF HOMET",
+        "name": "Book of homet",
         "domain": "Codex",
         "level": 7,
         "type": "Grimoire",
         "recallCost": 0,
         "descriptions": [
             "Pass Through: Make a Spellcast Roll (13). Once per rest on a success, you and all creatures touching you can pass through a wall or door within Close range. The effect ends once everyone is on the other side.",
-            "Plane Gate: Make a Spellcast Roll (14). Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you’ve been to before. This gateway lasts until your next rest."
+            "Plane Gate: Make a Spellcast Roll (14). Once per long rest on a success, open a gateway to a location in another dimension or plane of existence you've been to before. This gateway lasts until your next rest."
         ]
     },
     "Book of Illiat": {
-        "name": "BOOK OF ILLIAT",
+        "name": "Book of illiat",
         "domain": "Codex",
         "level": 1,
         "type": "Grimoire",
         "recallCost": 2,
         "descriptions": [
-            "Slumber: Make a Spellcast Roll against a target within Very Close range. On a success, they’re Asleep until they take damage or the GM spends a Fear on their turn to clear this condition.",
+            "Slumber: Make a Spellcast Roll against a target within Very Close range. On a success, they're Asleep until they take damage or the GM spends a Fear on their turn to clear this condition.",
             "Arcane Barrage: Once per rest, spend any number of Hope and shoot magical projectiles that strike a target of your choice within Close range. Roll a number of d6s equal to the Hope spent and deal that much magic damage to the target.",
             "Telepathy: Spend a Hope to open a line of mental communication with one target you can see. This connection lasts until your next rest or you cast Telepathy again."
         ]
     },
     "Book of Korvax": {
-        "name": "BOOK OF KORVAX",
+        "name": "Book of korvax",
         "domain": "Codex",
         "level": 3,
         "type": "Grimoire",
@@ -255,29 +255,29 @@
         ]
     },
     "Book of Norai": {
-        "name": "BOOK OF NORAI",
+        "name": "Book of norai",
         "domain": "Codex",
         "level": 3,
         "type": "Grimoire",
         "recallCost": 2,
         "descriptions": [
-            "Mystic Tether: Make a Spellcast Roll against a target within Far range. On a success, they’re temporarily Restrained and must mark a Stress. If you target a flying creature, this spell grounds and temporarily Restrains them.",
+            "Mystic Tether: Make a Spellcast Roll against a target within Far range. On a success, they're temporarily Restrained and must mark a Stress. If you target a flying creature, this spell grounds and temporarily Restrains them.",
             "Fireball: Make a Spellcast Roll against a target within Very Far range. On a success, hurl a sphere of fire toward them that explodes on impact. The target and all creatures within Very Close range of them must make a Reaction Roll (13). Targets who fail take 4d20+5 magic damage using your Proficiency. Targets who succeed take half damage."
         ]
     },
     "Book of Ronin": {
-        "name": "BOOK OF RONIN",
+        "name": "Book of ronin",
         "domain": "Codex",
         "level": 9,
         "type": "Grimoire",
         "recallCost": 4,
         "descriptions": [
             "Transform: Make a Spellcast Roll (15). On a success, transform into an inanimate object no larger than twice your normal size. You can remain in this shape until you take damage.",
-            "Eternal Enervation: Once per long rest, make a Spellcast Roll against a target within Close range. On a success, they become permanently Vulnerable. They can’t clear this condition by any means."
+            "Eternal Enervation: Once per long rest, make a Spellcast Roll against a target within Close range. On a success, they become permanently Vulnerable. They can't clear this condition by any means."
         ]
     },
     "Book of Sitil": {
-        "name": "BOOK OF SITIL",
+        "name": "Book of sitil",
         "domain": "Codex",
         "level": 2,
         "type": "Grimoire",
@@ -290,7 +290,7 @@
         ]
     },
     "Book of Tyfar": {
-        "name": "BOOK OF TYFAR",
+        "name": "Book of tyfar",
         "domain": "Codex",
         "level": 1,
         "type": "Grimoire",
@@ -302,30 +302,30 @@
         ]
     },
     "Book of Vagras": {
-        "name": "BOOK OF VAGRAS",
+        "name": "Book of vagras",
         "domain": "Codex",
         "level": 2,
         "type": "Grimoire",
         "recallCost": 2,
         "descriptions": [
-            "Runic Lock: Make a Spellcast Roll (15) on an object you’re touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.",
+            "Runic Lock: Make a Spellcast Roll (15) on an object you're touching that can close (such as a lock, chest, or box). Once per rest on a success, you can lock the object so it can only be opened by creatures of your choice. Someone with access to magic and an hour of time to study the spell can break it.",
             "Arcane Door: When you have no adversaries within Melee range, make a Spellcast Roll (13). On a success, spend a Hope to create a portal from where you are to a point within Far range you can see. It closes once a creature has passed through it.",
             "Reveal: Make a Spellcast Roll. If there is anything magically hidden within Close range, it is revealed."
         ]
     },
     "Book of Vyola": {
-        "name": "BOOK OF VYOLA",
+        "name": "Book of vyola",
         "domain": "Codex",
         "level": 8,
         "type": "Grimoire",
         "recallCost": 2,
         "descriptions": [
-            "Memory Delve: Make a Spellcast Roll against a target within Far range. On a success, peer into the target’s mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.",
+            "Memory Delve: Make a Spellcast Roll against a target within Far range. On a success, peer into the target's mind and ask the GM a question. The GM describes any memories the target has pertaining to the answer.",
             "Shared Clarity: Once per long rest, spend a Hope to choose two willing creatures. When one of them would mark Stress, they can choose between the two of them who marks it. This spell lasts until their next rest."
         ]
     },
     "Book of Yarrow": {
-        "name": "BOOK OF YARROW",
+        "name": "Book of yarrow",
         "domain": "Codex",
         "level": 10,
         "type": "Grimoire",
@@ -336,7 +336,7 @@
         ]
     },
     "Boost": {
-        "name": "BOOST",
+        "name": "Boost",
         "domain": "Bone",
         "level": 4,
         "type": "Ability",
@@ -346,7 +346,7 @@
         ]
     },
     "Brace": {
-        "name": "BRACE",
+        "name": "Brace",
         "domain": "Bone",
         "level": 3,
         "type": "Ability",
@@ -356,7 +356,7 @@
         ]
     },
     "Breaking Blow": {
-        "name": "BREAKING BLOW",
+        "name": "Breaking blow",
         "domain": "Bone",
         "level": 8,
         "type": "Ability",
@@ -366,7 +366,7 @@
         ]
     },
     "Chain Lightning": {
-        "name": "CHAIN LIGHTNING",
+        "name": "Chain lightning",
         "domain": "Arcana",
         "level": 5,
         "type": "Spell",
@@ -376,7 +376,7 @@
         ]
     },
     "Champions Edge": {
-        "name": "CHAMPION’S EDGE",
+        "name": "Champion's edge",
         "domain": "Blade",
         "level": 5,
         "type": "Ability",
@@ -386,22 +386,22 @@
             "- You clear a Hit Point.",
             "- You clear an Armor Slot.",
             "- The target must mark an additional Hit Point.",
-            "You can’t choose the same option more than once."
+            "You can't choose the same option more than once."
         ]
     },
     "Chokehold": {
-        "name": "CHOKEHOLD",
+        "name": "Chokehold",
         "domain": "Midnight",
         "level": 3,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "When you position yourself behind a creature who’s about your size, you can mark a Stress to pull them into a chokehold, making them temporarily Vulnerable.",
+            "When you position yourself behind a creature who's about your size, you can mark a Stress to pull them into a chokehold, making them temporarily Vulnerable.",
             "When a creature attacks a target who is Vulnerable in this way, they deal an extra 2d6 damage."
         ]
     },
     "Cinder Grasp": {
-        "name": "CINDER GRASP",
+        "name": "Cinder grasp",
         "domain": "Arcana",
         "level": 2,
         "type": "Spell",
@@ -412,17 +412,17 @@
         ]
     },
     "Cloaking Blast": {
-        "name": "CLOAKING BLAST",
+        "name": "Cloaking blast",
         "domain": "Arcana",
         "level": 7,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "When you make a successful Spellcast Roll to cast a different spell, you can spend a Hope to become Cloaked. While Cloaked, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary’s line of sight or make an attack, you are no longer Cloaked."
+            "When you make a successful Spellcast Roll to cast a different spell, you can spend a Hope to become Cloaked. While Cloaked, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary's line of sight or make an attack, you are no longer Cloaked."
         ]
     },
     "Codex-Touched": {
-        "name": "CODEX-TOUCHED",
+        "name": "Codex-touched",
         "domain": "Codex",
         "level": 7,
         "type": "Ability",
@@ -434,7 +434,7 @@
         ]
     },
     "Confusing Aura": {
-        "name": "CONFUSING AURA",
+        "name": "Confusing aura",
         "domain": "Arcana",
         "level": 8,
         "type": "Spell",
@@ -444,7 +444,7 @@
         ]
     },
     "Conjure Swarm": {
-        "name": "CONJURE SWARM",
+        "name": "Conjure swarm",
         "domain": "Sage",
         "level": 2,
         "type": "Spell",
@@ -455,7 +455,7 @@
         ]
     },
     "Conjured Steeds": {
-        "name": "CONJURED STEEDS",
+        "name": "Conjured steeds",
         "domain": "Sage",
         "level": 6,
         "type": "Spell",
@@ -465,17 +465,17 @@
         ]
     },
     "Copycat": {
-        "name": "COPYCAT",
+        "name": "Copycat",
         "domain": "Grace",
         "level": 9,
         "type": "Spell",
         "recallCost": 3,
         "descriptions": [
-            "Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player’s loadout. Spend Hope equal to half the card’s level to gain access to the feature. It lasts until your next rest or they place the card in their vault."
+            "Once per long rest, this card can mimic the features of another domain card of level 8 or lower in another player's loadout. Spend Hope equal to half the card's level to gain access to the feature. It lasts until your next rest or they place the card in their vault."
         ]
     },
     "Corrosive Projectile": {
-        "name": "CORROSIVE PROJECTILE",
+        "name": "Corrosive projectile",
         "domain": "Sage",
         "level": 3,
         "type": "Spell",
@@ -485,7 +485,7 @@
         ]
     },
     "Counterspell": {
-        "name": "COUNTERSPELL",
+        "name": "Counterspell",
         "domain": "Arcana",
         "level": 3,
         "type": "Spell",
@@ -495,7 +495,7 @@
         ]
     },
     "Critical Inspiration": {
-        "name": "CRITICAL INSPIRATION",
+        "name": "Critical inspiration",
         "domain": "Valor",
         "level": 3,
         "type": "Ability",
@@ -505,7 +505,7 @@
         ]
     },
     "Cruel Precision": {
-        "name": "CRUEL PRECISION",
+        "name": "Cruel precision",
         "domain": "Bone",
         "level": 7,
         "type": "Ability",
@@ -515,13 +515,13 @@
         ]
     },
     "Dark Whispers": {
-        "name": "DARK WHISPERS",
+        "name": "Dark whispers",
         "domain": "Midnight",
         "level": 6,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "You can speak into the mind of any person with whom you’ve made physical contact. Once you’ve opened a channel with them, they can speak back into your mind. Additionally, you can mark a Stress to make a Spellcast Roll against them. On a success, you can ask the GM one of the following questions and receive an answer:",
+            "You can speak into the mind of any person with whom you've made physical contact. Once you've opened a channel with them, they can speak back into your mind. Additionally, you can mark a Stress to make a Spellcast Roll against them. On a success, you can ask the GM one of the following questions and receive an answer:",
             "- Where are they?",
             "- What are they doing?",
             "- What are they afraid of?",
@@ -529,7 +529,7 @@
         ]
     },
     "Deadly Focus": {
-        "name": "DEADLY FOCUS",
+        "name": "Deadly focus",
         "domain": "Blade",
         "level": 4,
         "type": "Ability",
@@ -539,7 +539,7 @@
         ]
     },
     "Death Grip": {
-        "name": "DEATH GRIP",
+        "name": "Death grip",
         "domain": "Sage",
         "level": 4,
         "type": "Spell",
@@ -553,18 +553,18 @@
         ]
     },
     "Deathrun": {
-        "name": "DEATHRUN",
+        "name": "Deathrun",
         "domain": "Bone",
         "level": 10,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "Spend 3 Hope to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon’s range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.",
-            "You can’t target the same adversary more than once per attack."
+            "Spend 3 Hope to run a straight path through the battlefield to a point within Far range, making an attack against all adversaries within your weapon's range along that path. Choose the order in which you deal damage to the targets you succeeded against. For the first, roll your weapon damage with a +1 bonus to your Proficiency. Then remove a die from your damage roll and deal the remaining damage to the next target. Continue to remove a die for each subsequent target until you have no more damage dice or adversaries.",
+            "You can't target the same adversary more than once per attack."
         ]
     },
     "Deft Deceiver": {
-        "name": "DEFT DECEIVER",
+        "name": "Deft deceiver",
         "domain": "Grace",
         "level": 1,
         "type": "Ability",
@@ -574,7 +574,7 @@
         ]
     },
     "Deft Maneuvers": {
-        "name": "DEFT MANEUVERS",
+        "name": "Deft maneuvers",
         "domain": "Bone",
         "level": 1,
         "type": "Ability",
@@ -585,17 +585,17 @@
         ]
     },
     "Disintegration Wave": {
-        "name": "DISINTEGRATION WAVE",
+        "name": "Disintegration wave",
         "domain": "Codex",
         "level": 9,
         "type": "Spell",
         "recallCost": 4,
         "descriptions": [
-            "Make a Spellcast Roll (18). Once per long rest on a success, the GM tells you which adversaries within Far range have a Difficulty of 18 or lower. Mark a Stress for each one you wish to hit with this spell. They are killed and can’t come back to life by any means."
+            "Make a Spellcast Roll (18). Once per long rest on a success, the GM tells you which adversaries within Far range have a Difficulty of 18 or lower. Mark a Stress for each one you wish to hit with this spell. They are killed and can't come back to life by any means."
         ]
     },
     "Divination": {
-        "name": "DIVINATION",
+        "name": "Divination",
         "domain": "Splendor",
         "level": 4,
         "type": "Spell",
@@ -605,18 +605,18 @@
         ]
     },
     "Earthquake": {
-        "name": "EARTHQUAKE",
+        "name": "Earthquake",
         "domain": "Arcana",
         "level": 9,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Make a Spellcast Roll (16). Once per rest on a success, all targets within Very Far range who aren’t flying must make a Reaction Roll (18). Targets who fail take 3d10+8 physical damage and are temporarily Vulnerable. Targets who succeed take half damage.",
+            "Make a Spellcast Roll (16). Once per rest on a success, all targets within Very Far range who aren't flying must make a Reaction Roll (18). Targets who fail take 3d10+8 physical damage and are temporarily Vulnerable. Targets who succeed take half damage.",
             "Additionally, when you succeed on the Spellcast Roll, all terrain within Very Far range becomes difficult to move through and structures within this range might sustain damage or crumble."
         ]
     },
     "Eclipse": {
-        "name": "ECLIPSE",
+        "name": "Eclipse",
         "domain": "Midnight",
         "level": 10,
         "type": "Spell",
@@ -628,7 +628,7 @@
         ]
     },
     "Encore": {
-        "name": "ENCORE",
+        "name": "Encore",
         "domain": "Grace",
         "level": 10,
         "type": "Spell",
@@ -638,7 +638,7 @@
         ]
     },
     "Endless Charisma": {
-        "name": "ENDLESS CHARISMA",
+        "name": "Endless charisma",
         "domain": "Grace",
         "level": 7,
         "type": "Ability",
@@ -648,17 +648,17 @@
         ]
     },
     "Enrapture": {
-        "name": "ENRAPTURE",
+        "name": "Enrapture",
         "domain": "Grace",
         "level": 1,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll against a target within Close range. On a success, they become temporarily Enraptured. While Enraptured, a target’s attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Once per rest on a success, you can mark a Stress to force the Enraptured target to mark a Stress as well."
+            "Make a Spellcast Roll against a target within Close range. On a success, they become temporarily Enraptured. While Enraptured, a target's attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Once per rest on a success, you can mark a Stress to force the Enraptured target to mark a Stress as well."
         ]
     },
     "Falling Sky": {
-        "name": "FALLING SKY",
+        "name": "Falling sky",
         "domain": "Arcana",
         "level": 10,
         "type": "Spell",
@@ -668,7 +668,7 @@
         ]
     },
     "Fane of the Wilds": {
-        "name": "FANE OF THE WILDS",
+        "name": "Fane of the wilds",
         "domain": "Sage",
         "level": 9,
         "type": "Ability",
@@ -681,7 +681,7 @@
         ]
     },
     "Ferocity": {
-        "name": "FEROCITY",
+        "name": "Ferocity",
         "domain": "Bone",
         "level": 2,
         "type": "Ability",
@@ -691,17 +691,17 @@
         ]
     },
     "Final Words": {
-        "name": "FINAL WORDS",
+        "name": "Final words",
         "domain": "Splendor",
         "level": 2,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "You can infuse a corpse with a moment of life to speak with it. Make a Spellcast Roll (13). On a success with Hope, the corpse answers up to three questions. On a success with Fear, the corpse answers one question. The corpse answers truthfully, but it can’t impart information it didn’t know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust."
+            "You can infuse a corpse with a moment of life to speak with it. Make a Spellcast Roll (13). On a success with Hope, the corpse answers up to three questions. On a success with Fear, the corpse answers one question. The corpse answers truthfully, but it can't impart information it didn't know in life. On a failure, or once the corpse has finished answering your questions, the body turns to dust."
         ]
     },
     "Flight": {
-        "name": "FLIGHT",
+        "name": "Flight",
         "domain": "Arcana",
         "level": 3,
         "type": "Spell",
@@ -711,17 +711,17 @@
         ]
     },
     "Floating Eye": {
-        "name": "FLOATING EYE",
+        "name": "Floating eye",
         "domain": "Arcana",
         "level": 2,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "Spend a Hope to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you’re looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends."
+            "Spend a Hope to create a single, small floating orb that you can move anywhere within Very Far range. While this spell is active, you can see through the orb as though you're looking out from its position. You can transition between using your own senses and seeing through the orb freely. If the orb takes damage or moves out of range, the spell ends."
         ]
     },
     "Forager": {
-        "name": "FORAGER",
+        "name": "Forager",
         "domain": "Sage",
         "level": 6,
         "type": "Ability",
@@ -737,7 +737,7 @@
         ]
     },
     "Force of Nature": {
-        "name": "FORCE OF NATURE",
+        "name": "Force of nature",
         "domain": "Sage",
         "level": 10,
         "type": "Spell",
@@ -746,12 +746,12 @@
             "Mark a Stress to transform into a hulking nature spirit, gaining the following benefits:",
             "- When you succeed on an attack or Spellcast Roll, gain a +10 bonus to the damage roll.",
             "- When you deal enough damage to defeat a creature within Close range, you absorb them and clear an Armor Slot.",
-            "- You can’t be Restrained.",
-            "Before you make an action roll, you must spend a Hope. If you can’t, you revert to your normal form."
+            "- You can't be Restrained.",
+            "Before you make an action roll, you must spend a Hope. If you can't, you revert to your normal form."
         ]
     },
     "Forceful Push": {
-        "name": "FORCEFUL PUSH",
+        "name": "Forceful push",
         "domain": "Valor",
         "level": 1,
         "type": "Ability",
@@ -762,7 +762,7 @@
         ]
     },
     "Forest Sprites": {
-        "name": "FOREST SPRITES",
+        "name": "Forest sprites",
         "domain": "Sage",
         "level": 8,
         "type": "Spell",
@@ -775,7 +775,7 @@
         ]
     },
     "Fortified Armor": {
-        "name": "FORTIFIED ARMOR",
+        "name": "Fortified armor",
         "domain": "Blade",
         "level": 4,
         "type": "Ability",
@@ -785,18 +785,18 @@
         ]
     },
     "Frenzy": {
-        "name": "FRENZY",
+        "name": "Frenzy",
         "domain": "Blade",
         "level": 8,
         "type": "Ability",
         "recallCost": 3,
         "descriptions": [
             "Once per long rest, you can go into a Frenzy until there are no more adversaries within sight.",
-            "While Frenzied, you can’t use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold."
+            "While Frenzied, you can't use Armor Slots, and you gain a +10 bonus to your damage rolls and a +8 bonus to your Severe damage threshold."
         ]
     },
     "Full Surge": {
-        "name": "FULL SURGE",
+        "name": "Full surge",
         "domain": "Valor",
         "level": 8,
         "type": "Ability",
@@ -806,7 +806,7 @@
         ]
     },
     "Get Back Up": {
-        "name": "GET BACK UP",
+        "name": "Get back up",
         "domain": "Blade",
         "level": 1,
         "type": "Ability",
@@ -816,22 +816,22 @@
         ]
     },
     "Gifted Tracker": {
-        "name": "GIFTED TRACKER",
+        "name": "Gifted tracker",
         "domain": "Sage",
         "level": 1,
         "type": "Ability",
         "recallCost": 0,
         "descriptions": [
-            "When you’re tracking a specific creature or group of creatures based on signs of their passage, you can spend any number of Hope and ask the GM that many questions from the following list.",
+            "When you're tracking a specific creature or group of creatures based on signs of their passage, you can spend any number of Hope and ask the GM that many questions from the following list.",
             "- What direction did they go?",
             "- How long ago did they pass through?",
             "- What were they doing in this location?",
             "- How many of them were here?",
-            "When you encounter creatures you’ve tracked in this way, gain a +1 bonus to your Evasion against them."
+            "When you encounter creatures you've tracked in this way, gain a +1 bonus to your Evasion against them."
         ]
     },
     "Glancing Blow": {
-        "name": "GLANCING BLOW",
+        "name": "Glancing blow",
         "domain": "Blade",
         "level": 7,
         "type": "Ability",
@@ -841,17 +841,17 @@
         ]
     },
     "Glyph of Nightfall": {
-        "name": "GLYPH OF NIGHTFALL",
+        "name": "Glyph of nightfall",
         "domain": "Midnight",
         "level": 4,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll against a target within Very Close range. On a success, spend a Hope to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target’s Difficulty by a value equal to your Knowledge (minimum 1)."
+            "Make a Spellcast Roll against a target within Very Close range. On a success, spend a Hope to conjure a dark glyph upon their body that exposes their weak points, temporarily reducing the target's Difficulty by a value equal to your Knowledge (minimum 1)."
         ]
     },
     "Goad Them On": {
-        "name": "GOAD THEM ON",
+        "name": "Goad them on",
         "domain": "Valor",
         "level": 4,
         "type": "Ability",
@@ -861,7 +861,7 @@
         ]
     },
     "Gore and Glory": {
-        "name": "GORE AND GLORY",
+        "name": "Gore and glory",
         "domain": "Blade",
         "level": 9,
         "type": "Ability",
@@ -872,7 +872,7 @@
         ]
     },
     "Grace-Touched": {
-        "name": "GRACE-TOUCHED",
+        "name": "Grace-touched",
         "domain": "Grace",
         "level": 7,
         "type": "Ability",
@@ -884,7 +884,7 @@
         ]
     },
     "Ground Pound": {
-        "name": "GROUND POUND",
+        "name": "Ground pound",
         "domain": "Valor",
         "level": 8,
         "type": "Ability",
@@ -894,7 +894,7 @@
         ]
     },
     "Healing Field": {
-        "name": "HEALING FIELD",
+        "name": "Healing field",
         "domain": "Sage",
         "level": 4,
         "type": "Spell",
@@ -905,17 +905,17 @@
         ]
     },
     "Healing Hands": {
-        "name": "HEALING HANDS",
+        "name": "Healing hands",
         "domain": "Splendor",
         "level": 2,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll (13) and target a creature other than yourself within Melee range. On a success, mark a Stress to clear 2 Hit Points or 2 Stress on the target. On a failure, mark a Stress to clear a Hit Point or a Stress on the target. You can’t heal the same target again until your next long rest."
+            "Make a Spellcast Roll (13) and target a creature other than yourself within Melee range. On a success, mark a Stress to clear 2 Hit Points or 2 Stress on the target. On a failure, mark a Stress to clear a Hit Point or a Stress on the target. You can't heal the same target again until your next long rest."
         ]
     },
     "Healing Strike": {
-        "name": "HEALING STRIKE",
+        "name": "Healing strike",
         "domain": "Splendor",
         "level": 7,
         "type": "Spell",
@@ -925,39 +925,39 @@
         ]
     },
     "Hold the Line": {
-        "name": "HOLD THE LINE",
+        "name": "Hold the line",
         "domain": "Valor",
         "level": 9,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "Describe the defensive stance you take and spend a Hope. If an adversary moves within Very Close range, they’re pulled into Melee range and Restrained.",
+            "Describe the defensive stance you take and spend a Hope. If an adversary moves within Very Close range, they're pulled into Melee range and Restrained.",
             "This condition lasts until you move or fail a roll with Fear, or the GM spends 2 Fear on their turn to clear it."
         ]
     },
     "Hush": {
-        "name": "HUSH",
+        "name": "Hush",
         "domain": "Midnight",
         "level": 5,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
             "Make a Spellcast Roll against a target within Close range. On a success, spend a Hope to conjure suppressive magic around the target that encompasses everything within Very Close range of them and follows them as they move.",
-            "The target and anything within the area is Silenced until the GM spends a Fear on their turn to clear this condition, you cast Hush again, or you take Major damage. While Silenced, they can’t make noise and can’t cast spells."
+            "The target and anything within the area is Silenced until the GM spends a Fear on their turn to clear this condition, you cast Hush again, or you take Major damage. While Silenced, they can't make noise and can't cast spells."
         ]
     },
     "Hypnotic Shimmer": {
-        "name": "HYPNOTIC SHIMMER",
+        "name": "Hypnotic shimmer",
         "domain": "Grace",
         "level": 3,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll against all adversaries in front of you within Close range. Once per rest on a success, create an illusion of flashing colors and lights that temporarily Stuns targets you succeed against and forces them to mark a Stress. While Stunned, they can’t use reactions and can’t take any other actions until they clear this condition."
+            "Make a Spellcast Roll against all adversaries in front of you within Close range. Once per rest on a success, create an illusion of flashing colors and lights that temporarily Stuns targets you succeed against and forces them to mark a Stress. While Stunned, they can't use reactions and can't take any other actions until they clear this condition."
         ]
     },
     "I Am Your Shield": {
-        "name": "I AM YOUR SHIELD",
+        "name": "I am your shield",
         "domain": "Valor",
         "level": 1,
         "type": "Ability",
@@ -967,17 +967,17 @@
         ]
     },
     "I See It Coming": {
-        "name": "I SEE IT COMING",
+        "name": "I see it coming",
         "domain": "Bone",
         "level": 1,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "When you’re targeted by an attack made from beyond Melee range, you can mark a Stress to roll a d4 and gain a bonus to your Evasion equal to the result against the attack."
+            "When you're targeted by an attack made from beyond Melee range, you can mark a Stress to roll a d4 and gain a bonus to your Evasion equal to the result against the attack."
         ]
     },
     "Inevitable": {
-        "name": "INEVITABLE",
+        "name": "Inevitable",
         "domain": "Valor",
         "level": 6,
         "type": "Ability",
@@ -987,7 +987,7 @@
         ]
     },
     "Inspirational Words": {
-        "name": "INSPIRATIONAL WORDS",
+        "name": "Inspirational words",
         "domain": "Grace",
         "level": 1,
         "type": "Ability",
@@ -1001,7 +1001,7 @@
         ]
     },
     "Invigoration": {
-        "name": "INVIGORATION",
+        "name": "Invigoration",
         "domain": "Splendor",
         "level": 10,
         "type": "Spell",
@@ -1011,18 +1011,18 @@
         ]
     },
     "Invisibility": {
-        "name": "INVISIBILITY",
+        "name": "Invisibility",
         "domain": "Grace",
         "level": 3,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll (10). On a success, mark a Stress and choose yourself or an ally within Melee range to become Invisible. An Invisible creature can’t be seen except through magical means and attack rolls against them are made with disadvantage. Place a number of tokens on this card equal to your Spellcast trait. When the Invisible creature takes an action, spend a token from this card. After the action that spends the last token is resolved, the effect ends.",
+            "Make a Spellcast Roll (10). On a success, mark a Stress and choose yourself or an ally within Melee range to become Invisible. An Invisible creature can't be seen except through magical means and attack rolls against them are made with disadvantage. Place a number of tokens on this card equal to your Spellcast trait. When the Invisible creature takes an action, spend a token from this card. After the action that spends the last token is resolved, the effect ends.",
             "You can only hold Invisibility on one creature at a time."
         ]
     },
     "Know Thy Enemy": {
-        "name": "KNOW THY ENEMY",
+        "name": "Know thy enemy",
         "domain": "Bone",
         "level": 5,
         "type": "Ability",
@@ -1033,11 +1033,11 @@
             "- Their Difficulty and damage thresholds.",
             "- Their attacks and standard attack damage dice.",
             "- Their features and Experiences.",
-            "Additionally on a success, you can mark a Stress to remove a Stress from the GM’s Fear Pool."
+            "Additionally on a success, you can mark a Stress to remove a Stress from the GM's Fear Pool."
         ]
     },
     "Lead by Example": {
-        "name": "LEAD BY EXAMPLE",
+        "name": "Lead by example",
         "domain": "Valor",
         "level": 9,
         "type": "Ability",
@@ -1047,7 +1047,7 @@
         ]
     },
     "Lean on Me": {
-        "name": "LEAN ON ME",
+        "name": "Lean on me",
         "domain": "Valor",
         "level": 3,
         "type": "Ability",
@@ -1057,7 +1057,7 @@
         ]
     },
     "Life Ward": {
-        "name": "LIFE WARD",
+        "name": "Life ward",
         "domain": "Splendor",
         "level": 4,
         "type": "Spell",
@@ -1068,7 +1068,7 @@
         ]
     },
     "Manifest Wall": {
-        "name": "MANIFEST WALL",
+        "name": "Manifest wall",
         "domain": "Codex",
         "level": 5,
         "type": "Spell",
@@ -1078,28 +1078,28 @@
         ]
     },
     "Mass Disguise": {
-        "name": "MASS DISGUISE",
+        "name": "Mass disguise",
         "domain": "Midnight",
         "level": 6,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "When you have a few minutes of silence to focus, you can mark a Stress to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you’ve seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny.",
+            "When you have a few minutes of silence to focus, you can mark a Stress to change the appearance of all willing creatures within Close range. Their new forms must share a general body structure and size, and can be somebody or something you've seen before or entirely fabricated. A disguised creature has advantage on Presence Rolls to avoid scrutiny.",
             "Activate a Countdown (8). It ticks down as a consequence the GM chooses. When it triggers, the disguise drops."
         ]
     },
     "Mass Enrapture": {
-        "name": "MASS ENRAPTURE",
+        "name": "Mass enrapture",
         "domain": "Grace",
         "level": 8,
         "type": "Spell",
         "recallCost": 3,
         "descriptions": [
-            "Make a Spellcast Roll against all targets within Far range. Targets you succeed against become temporarily Enraptured. While Enraptured, a target’s attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Mark a Stress to force all Enraptured targets to mark a Stress, ending this spell."
+            "Make a Spellcast Roll against all targets within Far range. Targets you succeed against become temporarily Enraptured. While Enraptured, a target's attention is fixed on you, narrowing their field of view and drowning out any sound but your voice. Mark a Stress to force all Enraptured targets to mark a Stress, ending this spell."
         ]
     },
     "Master of the Craft": {
-        "name": "MASTER OF THE CRAFT",
+        "name": "Master of the craft",
         "domain": "Grace",
         "level": 9,
         "type": "Ability",
@@ -1109,18 +1109,18 @@
         ]
     },
     "Mending Touch": {
-        "name": "MENDING TOUCH",
+        "name": "Mending touch",
         "domain": "Splendor",
         "level": 1,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you’re helping, you can spend 2 Hope to clear a Hit Point or a Stress on them.",
+            "You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you're helping, you can spend 2 Hope to clear a Hit Point or a Stress on them.",
             "Once per long rest, when you spend this healing time learning something new about them or revealing something about yourself, you can clear 2 Hit Points or 2 Stress on them instead."
         ]
     },
     "Midnight Spirit": {
-        "name": "MIDNIGHT SPIRIT",
+        "name": "Midnight spirit",
         "domain": "Midnight",
         "level": 2,
         "type": "Spell",
@@ -1131,7 +1131,7 @@
         ]
     },
     "Midnight-Touched": {
-        "name": "MIDNIGHT-TOUCHED",
+        "name": "Midnight-touched",
         "domain": "Midnight",
         "level": 7,
         "type": "Ability",
@@ -1143,7 +1143,7 @@
         ]
     },
     "Natural Familiar": {
-        "name": "NATURAL FAMILIAR",
+        "name": "Natural familiar",
         "domain": "Sage",
         "level": 2,
         "type": "Spell",
@@ -1154,18 +1154,18 @@
         ]
     },
     "Natures Tongue": {
-        "name": "NATURE’S TONGUE",
+        "name": "Nature's tongue",
         "domain": "Sage",
         "level": 1,
         "type": "Ability",
         "recallCost": 0,
         "descriptions": [
-            "You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an Instinct Roll (12). On a success, they’ll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost.",
+            "You can speak the language of the natural world. When you want to speak to the plants and animals around you, make an Instinct Roll (12). On a success, they'll give you the information they know. On a roll with Fear, their knowledge might be limited or come at a cost.",
             "Additionally, before you make a Spellcast Roll while within a natural environment, you can spend a Hope to gain a +2 bonus to the roll."
         ]
     },
     "Never Upstaged": {
-        "name": "NEVER UPSTAGED",
+        "name": "Never upstaged",
         "domain": "Grace",
         "level": 6,
         "type": "Ability",
@@ -1175,17 +1175,17 @@
         ]
     },
     "Night Terror": {
-        "name": "NIGHT TERROR",
+        "name": "Night terror",
         "domain": "Midnight",
         "level": 9,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Once per long rest, choose any targets within Very Close range to perceive you as a nightmarish horror. The targets must succeed on a Reaction Roll (16) or become temporarily Horrified. While Horrified, they’re Vulnerable. Steal a number of Fear from the GM equal to the number of targets that are Horrified (up to the number of Fear in the GM’s pool). Roll a number of d6s equal to the number of stolen Fear and deal the total damage to each Horrified target. Discard the stolen Fear."
+            "Once per long rest, choose any targets within Very Close range to perceive you as a nightmarish horror. The targets must succeed on a Reaction Roll (16) or become temporarily Horrified. While Horrified, they're Vulnerable. Steal a number of Fear from the GM equal to the number of targets that are Horrified (up to the number of Fear in the GM's pool). Roll a number of d6s equal to the number of stolen Fear and deal the total damage to each Horrified target. Discard the stolen Fear."
         ]
     },
     "Not Good Enough": {
-        "name": "NOT GOOD ENOUGH",
+        "name": "Not good enough",
         "domain": "Blade",
         "level": 1,
         "type": "Ability",
@@ -1195,39 +1195,39 @@
         ]
     },
     "Notorious": {
-        "name": "NOTORIOUS",
+        "name": "Notorious",
         "domain": "Grace",
         "level": 10,
         "type": "Ability",
         "recallCost": 0,
         "descriptions": [
-            "People know who you are and what you’ve done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can mark a Stress before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).",
-            "This card doesn’t count against your loadout’s domain card maximum of 5 and can’t be placed in your vault."
+            "People know who you are and what you've done, and they treat you differently because of it. When you leverage your notoriety to get what you want, you can mark a Stress before you roll to gain a +10 bonus to the result. Your food and drinks are always free wherever you go, and everything else you buy is reduced in price by one bag of gold (to a minimum of one handful).",
+            "This card doesn't count against your loadout's domain card maximum of 5 and can't be placed in your vault."
         ]
     },
     "On the Brink": {
-        "name": "ON THE BRINK",
+        "name": "On the brink",
         "domain": "Bone",
         "level": 9,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "When you have 2 or fewer Hit Points unmarked, you don’t take Minor damage."
+            "When you have 2 or fewer Hit Points unmarked, you don't take Minor damage."
         ]
     },
     "Onslaught": {
-        "name": "ONSLAUGHT",
+        "name": "Onslaught",
         "domain": "Blade",
         "level": 10,
         "type": "Ability",
         "recallCost": 3,
         "descriptions": [
-            "When you successfully make an attack with your weapon, you never deal damage beneath a target’s Major damage threshold (the target always marks a minimum of 2 Hit Points).",
-            "Additionally, when a creature within your weapon’s range deals damage to an ally with an attack that doesn’t include you, you can mark a Stress to force them to make a Reaction Roll (15). On a failure, the target must mark a Hit Point."
+            "When you successfully make an attack with your weapon, you never deal damage beneath a target's Major damage threshold (the target always marks a minimum of 2 Hit Points).",
+            "Additionally, when a creature within your weapon's range deals damage to an ally with an attack that doesn't include you, you can mark a Stress to force them to make a Reaction Roll (15). On a failure, the target must mark a Hit Point."
         ]
     },
     "Overwhelming Aura": {
-        "name": "OVERWHELMING AURA",
+        "name": "Overwhelming aura",
         "domain": "Splendor",
         "level": 9,
         "type": "Spell",
@@ -1238,17 +1238,17 @@
         ]
     },
     "Phantom Retreat": {
-        "name": "PHANTOM RETREAT",
+        "name": "Phantom retreat",
         "domain": "Midnight",
         "level": 5,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Spend a Hope to activate Phantom Retreat where you’re currently standing. Spend another Hope at any time before your next rest to disappear from where you are and reappear where you were standing when you activated Phantom Retreat. This spell ends after you reappear."
+            "Spend a Hope to activate Phantom Retreat where you're currently standing. Spend another Hope at any time before your next rest to disappear from where you are and reappear where you were standing when you activated Phantom Retreat. This spell ends after you reappear."
         ]
     },
     "Pick and Pull": {
-        "name": "PICK AND PULL",
+        "name": "Pick and pull",
         "domain": "Midnight",
         "level": 1,
         "type": "Ability",
@@ -1258,7 +1258,7 @@
         ]
     },
     "Plant Dominion": {
-        "name": "PLANT DOMINION",
+        "name": "Plant dominion",
         "domain": "Sage",
         "level": 9,
         "type": "Spell",
@@ -1268,7 +1268,7 @@
         ]
     },
     "Premonition": {
-        "name": "PREMONITION",
+        "name": "Premonition",
         "domain": "Arcana",
         "level": 5,
         "type": "Spell",
@@ -1278,7 +1278,7 @@
         ]
     },
     "Preservation Blast": {
-        "name": "PRESERVATION BLAST",
+        "name": "Preservation blast",
         "domain": "Arcana",
         "level": 4,
         "type": "Spell",
@@ -1288,7 +1288,7 @@
         ]
     },
     "Rage Up": {
-        "name": "RAGE UP",
+        "name": "Rage up",
         "domain": "Blade",
         "level": 6,
         "type": "Ability",
@@ -1298,7 +1298,7 @@
         ]
     },
     "Rain of Blades": {
-        "name": "RAIN OF BLADES",
+        "name": "Rain of blades",
         "domain": "Midnight",
         "level": 1,
         "type": "Spell",
@@ -1309,7 +1309,7 @@
         ]
     },
     "Rapid Riposte": {
-        "name": "RAPID RIPOSTE",
+        "name": "Rapid riposte",
         "domain": "Bone",
         "level": 6,
         "type": "Ability",
@@ -1319,7 +1319,7 @@
         ]
     },
     "Reapers Strike": {
-        "name": "REAPER’S STRIKE",
+        "name": "Reaper's strike",
         "domain": "Blade",
         "level": 9,
         "type": "Ability",
@@ -1329,7 +1329,7 @@
         ]
     },
     "Reassurance": {
-        "name": "REASSURANCE",
+        "name": "Reassurance",
         "domain": "Splendor",
         "level": 1,
         "type": "Ability",
@@ -1339,7 +1339,7 @@
         ]
     },
     "Reckless": {
-        "name": "RECKLESS",
+        "name": "Reckless",
         "domain": "Blade",
         "level": 2,
         "type": "Ability",
@@ -1349,7 +1349,7 @@
         ]
     },
     "Recovery": {
-        "name": "RECOVERY",
+        "name": "Recovery",
         "domain": "Bone",
         "level": 6,
         "type": "Ability",
@@ -1359,7 +1359,7 @@
         ]
     },
     "Redirect": {
-        "name": "REDIRECT",
+        "name": "Redirect",
         "domain": "Bone",
         "level": 4,
         "type": "Ability",
@@ -1369,7 +1369,7 @@
         ]
     },
     "Rejuvenation Barrier": {
-        "name": "REJUVENATION BARRIER",
+        "name": "Rejuvenation barrier",
         "domain": "Sage",
         "level": 8,
         "type": "Spell",
@@ -1380,7 +1380,7 @@
         ]
     },
     "Restoration": {
-        "name": "RESTORATION",
+        "name": "Restoration",
         "domain": "Splendor",
         "level": 6,
         "type": "Spell",
@@ -1392,18 +1392,18 @@
         ]
     },
     "Resurrection": {
-        "name": "RESURRECTION",
+        "name": "Resurrection",
         "domain": "Splendor",
         "level": 10,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
             "Make a Spellcast Roll (20). On a success, restore one creature who has been dead no longer than 100 years to full strength. Then roll a d6. On a result of 5 or lower, place this card in your vault permanently.",
-            "On a failure, you can’t cast Resurrection again for a week."
+            "On a failure, you can't cast Resurrection again for a week."
         ]
     },
     "Rift Walker": {
-        "name": "RIFT WALKER",
+        "name": "Rift walker",
         "domain": "Arcana",
         "level": 6,
         "type": "Spell",
@@ -1414,7 +1414,7 @@
         ]
     },
     "Rise Up": {
-        "name": "RISE UP",
+        "name": "Rise up",
         "domain": "Valor",
         "level": 6,
         "type": "Ability",
@@ -1425,7 +1425,7 @@
         ]
     },
     "Rousing Strike": {
-        "name": "ROUSING STRIKE",
+        "name": "Rousing strike",
         "domain": "Valor",
         "level": 5,
         "type": "Ability",
@@ -1435,18 +1435,18 @@
         ]
     },
     "Rune Ward": {
-        "name": "RUNE WARD",
+        "name": "Rune ward",
         "domain": "Arcana",
         "level": 1,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it’s important to you. The ward’s holder can spend a Hope to reduce incoming damage by 1d8.",
-            "If the Ward Die result is 8, the ward’s power ends after it reduces damage this turn. It can be recharged for free on your next rest."
+            "You have a deeply personal trinket that can be infused with protective magic and held as a ward by you or an ally. Describe what it is and why it's important to you. The ward's holder can spend a Hope to reduce incoming damage by 1d8.",
+            "If the Ward Die result is 8, the ward's power ends after it reduces damage this turn. It can be recharged for free on your next rest."
         ]
     },
     "Safe Haven": {
-        "name": "SAFE HAVEN",
+        "name": "Safe haven",
         "domain": "Codex",
         "level": 8,
         "type": "Spell",
@@ -1457,29 +1457,29 @@
         ]
     },
     "Sage-Touched": {
-        "name": "SAGE-TOUCHED",
+        "name": "Sage-touched",
         "domain": "Sage",
         "level": 7,
         "type": "Ability",
         "recallCost": 2,
         "descriptions": [
             "When 4 or more of the domain cards in your loadout are from the Sage domain, gain the following benefits:",
-            "- While you’re in a natural environment, you gain a +2 bonus to your Spellcast Rolls.",
+            "- While you're in a natural environment, you gain a +2 bonus to your Spellcast Rolls.",
             "- Once per rest, you can double your Agility or Instinct when making a roll that uses that trait. You must choose to do this before you roll."
         ]
     },
     "Salvation Beam": {
-        "name": "SALVATION BEAM",
+        "name": "Salvation beam",
         "domain": "Splendor",
         "level": 9,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Make a Spellcast Roll (16). On a success, mark any number of Stress to target a line of allies within Far range. You can clear Hit Points on the targets equal to the number of Stress marked, divided among them however you’d like."
+            "Make a Spellcast Roll (16). On a success, mark any number of Stress to target a line of allies within Far range. You can clear Hit Points on the targets equal to the number of Stress marked, divided among them however you'd like."
         ]
     },
     "Scramble": {
-        "name": "SCRAMBLE",
+        "name": "Scramble",
         "domain": "Blade",
         "level": 3,
         "type": "Ability",
@@ -1489,7 +1489,7 @@
         ]
     },
     "Second Wind": {
-        "name": "SECOND WIND",
+        "name": "Second wind",
         "domain": "Splendor",
         "level": 3,
         "type": "Ability",
@@ -1499,7 +1499,7 @@
         ]
     },
     "Sensory Projection": {
-        "name": "SENSORY PROJECTION",
+        "name": "Sensory projection",
         "domain": "Arcana",
         "level": 9,
         "type": "Spell",
@@ -1509,7 +1509,7 @@
         ]
     },
     "Shadowbind": {
-        "name": "SHADOWBIND",
+        "name": "Shadowbind",
         "domain": "Midnight",
         "level": 2,
         "type": "Spell",
@@ -1519,28 +1519,28 @@
         ]
     },
     "Shadowhunter": {
-        "name": "SHADOWHUNTER",
+        "name": "Shadowhunter",
         "domain": "Midnight",
         "level": 8,
         "type": "Ability",
         "recallCost": 2,
         "descriptions": [
-            "Your prowess is enhanced under the cover of shadow. While you’re shrouded in low light or darkness, you gain a +1 bonus to your Evasion and make attack rolls with advantage."
+            "Your prowess is enhanced under the cover of shadow. While you're shrouded in low light or darkness, you gain a +1 bonus to your Evasion and make attack rolls with advantage."
         ]
     },
     "Shape Material": {
-        "name": "SHAPE MATERIAL",
+        "name": "Shape material",
         "domain": "Splendor",
         "level": 5,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Spend a Hope to shape a section of natural material you’re touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.",
-            "You can only affect the material within Close range of where you’re touching it."
+            "Spend a Hope to shape a section of natural material you're touching (such as stone, ice, or wood) to suit your purpose. The area of the material can be no larger than you. For example, you can form a rudimentary tool or create a door.",
+            "You can only affect the material within Close range of where you're touching it."
         ]
     },
     "Share the Burden": {
-        "name": "SHARE THE BURDEN",
+        "name": "Share the burden",
         "domain": "Grace",
         "level": 6,
         "type": "Spell",
@@ -1550,7 +1550,7 @@
         ]
     },
     "Shield Aura": {
-        "name": "SHIELD AURA",
+        "name": "Shield aura",
         "domain": "Splendor",
         "level": 8,
         "type": "Spell",
@@ -1561,7 +1561,7 @@
         ]
     },
     "Shrug It Off": {
-        "name": "SHRUG IT OFF",
+        "name": "Shrug it off",
         "domain": "Valor",
         "level": 7,
         "type": "Ability",
@@ -1571,7 +1571,7 @@
         ]
     },
     "Sigil of Retribution": {
-        "name": "SIGIL OF RETRIBUTION",
+        "name": "Sigil of retribution",
         "domain": "Codex",
         "level": 6,
         "type": "Spell",
@@ -1581,17 +1581,17 @@
         ]
     },
     "Signature Move": {
-        "name": "SIGNATURE MOVE",
+        "name": "Signature move",
         "domain": "Bone",
         "level": 5,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you’re taking, you can roll a d20 as your Hope Die. On a success, clear a Stress."
+            "Name and describe your signature combat move. Once per rest, when you perform this signature move as part of an action you're taking, you can roll a d20 as your Hope Die. On a success, clear a Stress."
         ]
     },
     "Smite": {
-        "name": "SMITE",
+        "name": "Smite",
         "domain": "Splendor",
         "level": 5,
         "type": "Spell",
@@ -1601,7 +1601,7 @@
         ]
     },
     "Soothing Speech": {
-        "name": "SOOTHING SPEECH",
+        "name": "Soothing speech",
         "domain": "Grace",
         "level": 4,
         "type": "Ability",
@@ -1611,17 +1611,17 @@
         ]
     },
     "Specter of the Dark": {
-        "name": "SPECTER OF THE DARK",
+        "name": "Specter of the dark",
         "domain": "Midnight",
         "level": 10,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Mark a Stress to become Spectral until you make an action roll targeting another creature. While Spectral, you’re immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you’re in this form."
+            "Mark a Stress to become Spectral until you make an action roll targeting another creature. While Spectral, you're immune to physical damage and can float and pass through solid objects. Other creatures can still see you while you're in this form."
         ]
     },
     "Spellcharge": {
-        "name": "SPELLCHARGE",
+        "name": "Spellcharge",
         "domain": "Midnight",
         "level": 8,
         "type": "Spell",
@@ -1632,7 +1632,7 @@
         ]
     },
     "Splendor-Touched": {
-        "name": "SPLENDOR-TOUCHED",
+        "name": "Splendor-touched",
         "domain": "Splendor",
         "level": 7,
         "type": "Ability",
@@ -1644,17 +1644,17 @@
         ]
     },
     "Splintering Strike": {
-        "name": "SPLINTERING STRIKE",
+        "name": "Splintering strike",
         "domain": "Bone",
         "level": 9,
         "type": "Ability",
         "recallCost": 3,
         "descriptions": [
-            "Spend a Hope and make an attack against all adversaries within your weapon’s range. Once per long rest, on a success against any targets, roll your weapon’s damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them."
+            "Spend a Hope and make an attack against all adversaries within your weapon's range. Once per long rest, on a success against any targets, roll your weapon's damage and distribute that damage however you wish between the targets you succeeded against. Before you deal damage to each target, roll an additional damage die and add its result to the damage you deal to them."
         ]
     },
     "Stealth Expertise": {
-        "name": "STEALTH EXPERTISE",
+        "name": "Stealth expertise",
         "domain": "Midnight",
         "level": 4,
         "type": "Ability",
@@ -1665,7 +1665,7 @@
         ]
     },
     "Strategic Approach": {
-        "name": "STRATEGIC APPROACH",
+        "name": "Strategic approach",
         "domain": "Bone",
         "level": 2,
         "type": "Ability",
@@ -1679,18 +1679,18 @@
         ]
     },
     "Stunning Sunlight": {
-        "name": "STUNNING SUNLIGHT",
+        "name": "Stunning sunlight",
         "domain": "Splendor",
         "level": 8,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
             "Make a Spellcast Roll to unleash powerful rays of burning sunlight against all adversaries in front of you within Far range. On a success, spend any number of Hope and force that many targets you succeeded against to make a Reaction Roll (14).",
-            "Targets who succeed take 3d20+3 magic damage. Targets who fail take 4d20+5 magic damage and are temporarily Stunned. While Stunned, they can’t use reactions and can’t take any other actions until they clear this condition."
+            "Targets who succeed take 3d20+3 magic damage. Targets who fail take 4d20+5 magic damage and are temporarily Stunned. While Stunned, they can't use reactions and can't take any other actions until they clear this condition."
         ]
     },
     "Support Tank": {
-        "name": "SUPPORT TANK",
+        "name": "Support tank",
         "domain": "Valor",
         "level": 4,
         "type": "Ability",
@@ -1700,17 +1700,17 @@
         ]
     },
     "Swift Step": {
-        "name": "SWIFT STEP",
+        "name": "Swift step",
         "domain": "Bone",
         "level": 10,
         "type": "Ability",
         "recallCost": 2,
         "descriptions": [
-            "When an attack made against you fails, clear a Stress. If you can’t clear a Stress, gain a Hope."
+            "When an attack made against you fails, clear a Stress. If you can't clear a Stress, gain a Hope."
         ]
     },
     "Tactician": {
-        "name": "TACTICIAN",
+        "name": "Tactician",
         "domain": "Bone",
         "level": 3,
         "type": "Ability",
@@ -1721,42 +1721,42 @@
         ]
     },
     "Telekinesis": {
-        "name": "TELEKINESIS",
+        "name": "Telekinesis",
         "domain": "Arcana",
         "level": 6,
         "type": "Spell",
         "recallCost": 0,
         "descriptions": [
-            "Make a Spellcast Roll against a target within Far range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you’re trying to attack. On a success, deal 12d4 physical damage to the second target using your Proficiency Die."
+            "Make a Spellcast Roll against a target within Far range. On a success, you can use your mind to move them anywhere within Far range of their original position. You can throw the lifted target as an attack by making an additional Spellcast Roll against the second target you're trying to attack. On a success, deal 12d4 physical damage to the second target using your Proficiency Die."
         ]
     },
     "Teleport": {
-        "name": "TELEPORT",
+        "name": "Teleport",
         "domain": "Codex",
         "level": 5,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you’ve been before. Choose one of the following options, then make a Spellcast Roll (16):",
+            "Once per long rest, you can instantly teleport yourself and any number of willing targets within Close range to a place you've been before. Choose one of the following options, then make a Spellcast Roll (16):",
             "- If you know the place very well, gain a +3 bonus.",
-            "- If you’ve visited the place frequently, gain a +1 bonus.",
-            "- If you’ve visited the place infrequently, gain no modifier.",
-            "- If you’ve only been there once, gain a -2 penalty.",
+            "- If you've visited the place frequently, gain a +1 bonus.",
+            "- If you've visited the place infrequently, gain no modifier.",
+            "- If you've only been there once, gain a -2 penalty.",
             "On a success, you appear where you were intending to go. On a failure, you appear off course, with the range of failure determining how far off course."
         ]
     },
     "Tell No Lies": {
-        "name": "TELL NO LIES",
+        "name": "Tell no lies",
         "domain": "Grace",
         "level": 2,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll against a target within Very Close range. On a success, they can’t lie to you while they remain within Close range, but they are not compelled to speak. If you ask them a question and they refuse to answer, they must mark a Stress and the effect ends. The target is typically unaware this spell has been cast on them until it causes them to utter the truth."
+            "Make a Spellcast Roll against a target within Very Close range. On a success, they can't lie to you while they remain within Close range, but they are not compelled to speak. If you ask them a question and they refuse to answer, they must mark a Stress and the effect ends. The target is typically unaware this spell has been cast on them until it causes them to utter the truth."
         ]
     },
     "Tempest": {
-        "name": "TEMPEST",
+        "name": "Tempest",
         "domain": "Sage",
         "level": 10,
         "type": "Spell",
@@ -1764,44 +1764,44 @@
         "descriptions": [
             "Choose one of the following tempests and make a Spellcast Roll against all targets within Far range. Targets you succeed against experience its effects until the GM spends a Fear on their turn to end this spell.",
             "- Blizzard: Deal 2d20+8 magic damage and targets are temporarily Vulnerable.",
-            "- Hurricane: Deal 3d10+10 magic damage and choose a direction the wind is blowing. Targets can’t move against the wind.",
+            "- Hurricane: Deal 3d10+10 magic damage and choose a direction the wind is blowing. Targets can't move against the wind.",
             "- Sandstorm: Deal 5d6+9 magic damage. Attacks made from beyond Melee range have disadvantage."
         ]
     },
     "Thorn Skin": {
-        "name": "THORN SKIN",
+        "name": "Thorn skin",
         "domain": "Sage",
         "level": 5,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Once per rest, spend a Hope to sprout thorns all over your body. When you do, place a number of tokens equal to your Spellcast trait on this card. When you take damage, you can spend any number of tokens to roll that number of d6s. Add the results together and reduce the incoming damage by that amount. If you’re within Melee range of the attacker, deal that amount of damage back to them.",
+            "Once per rest, spend a Hope to sprout thorns all over your body. When you do, place a number of tokens equal to your Spellcast trait on this card. When you take damage, you can spend any number of tokens to roll that number of d6s. Add the results together and reduce the incoming damage by that amount. If you're within Melee range of the attacker, deal that amount of damage back to them.",
             "When you take a rest, clear all unspent tokens."
         ]
     },
     "Thought Delver": {
-        "name": "THOUGHT DELVER",
+        "name": "Thought delver",
         "domain": "Grace",
         "level": 5,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
             "You can peek into the minds of others. Spend a Hope to read the vague surface thoughts of a target within Far range. Make a Spellcast Roll against the target to delve for deeper, more hidden thoughts.",
-            "On a roll with Fear, the target might, at the GM’s discretion, become aware that you’re reading their thoughts."
+            "On a roll with Fear, the target might, at the GM's discretion, become aware that you're reading their thoughts."
         ]
     },
     "Through Your Eyes": {
-        "name": "THROUGH YOUR EYES",
+        "name": "Through your eyes",
         "domain": "Grace",
         "level": 4,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Choose a target within Very Far range. You can see through their eyes and hear through their ears. You can transition between using your own senses or the target’s freely until you cast another spell or until your next rest."
+            "Choose a target within Very Far range. You can see through their eyes and hear through their ears. You can transition between using your own senses or the target's freely until you cast another spell or until your next rest."
         ]
     },
     "Towering Stalk": {
-        "name": "TOWERING STALK",
+        "name": "Towering stalk",
         "domain": "Sage",
         "level": 3,
         "type": "Spell",
@@ -1812,7 +1812,7 @@
         ]
     },
     "Transcendent Union": {
-        "name": "TRANSCENDENT UNION",
+        "name": "Transcendent union",
         "domain": "Codex",
         "level": 10,
         "type": "Spell",
@@ -1822,7 +1822,7 @@
         ]
     },
     "Troublemaker": {
-        "name": "TROUBLEMAKER",
+        "name": "Troublemaker",
         "domain": "Grace",
         "level": 2,
         "type": "Ability",
@@ -1832,18 +1832,18 @@
         ]
     },
     "Twilight Toll": {
-        "name": "TWILIGHT TOLL",
+        "name": "Twilight toll",
         "domain": "Midnight",
         "level": 9,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
-            "Choose a target within Far range. When you succeed on an action roll against them that doesn’t result in making a damage roll, place a token on this card. When you deal damage to this target, spend any number of tokens to add a d12 for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time.",
+            "Choose a target within Far range. When you succeed on an action roll against them that doesn't result in making a damage roll, place a token on this card. When you deal damage to this target, spend any number of tokens to add a d12 for each token spent to your damage roll. You can only hold Twilight Toll on one creature at a time.",
             "When you choose a new target or take a rest, clear all unspent tokens."
         ]
     },
     "Unbreakable": {
-        "name": "UNBREAKABLE",
+        "name": "Unbreakable",
         "domain": "Valor",
         "level": 10,
         "type": "Ability",
@@ -1853,7 +1853,7 @@
         ]
     },
     "Uncanny Disguise": {
-        "name": "UNCANNY DISGUISE",
+        "name": "Uncanny disguise",
         "domain": "Midnight",
         "level": 1,
         "type": "Spell",
@@ -1864,7 +1864,7 @@
         ]
     },
     "Unleash Chaos": {
-        "name": "UNLEASH CHAOS",
+        "name": "Unleash chaos",
         "domain": "Arcana",
         "level": 1,
         "type": "Spell",
@@ -1876,7 +1876,7 @@
         ]
     },
     "Untouchable": {
-        "name": "UNTOUCHABLE",
+        "name": "Untouchable",
         "domain": "Bone",
         "level": 1,
         "type": "Ability",
@@ -1886,7 +1886,7 @@
         ]
     },
     "Unyielding Armor": {
-        "name": "UNYIELDING ARMOR",
+        "name": "Unyielding armor",
         "domain": "Valor",
         "level": 10,
         "type": "Ability",
@@ -1896,7 +1896,7 @@
         ]
     },
     "Valor-Touched": {
-        "name": "VALOR-TOUCHED",
+        "name": "Valor-touched",
         "domain": "Valor",
         "level": 7,
         "type": "Ability",
@@ -1908,7 +1908,7 @@
         ]
     },
     "Vanishing Dodge": {
-        "name": "VANISHING DODGE",
+        "name": "Vanishing dodge",
         "domain": "Midnight",
         "level": 7,
         "type": "Spell",
@@ -1918,17 +1918,17 @@
         ]
     },
     "Veil of Night": {
-        "name": "VEIL OF NIGHT",
+        "name": "Veil of night",
         "domain": "Midnight",
         "level": 3,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll (13). On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You’re considered Hidden to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell."
+            "Make a Spellcast Roll (13). On a success, you can create a temporary curtain of darkness between two points within Far range. Only you can see through this darkness. You're considered Hidden to adversaries on the other side of the veil, and you have advantage on attacks you make through the darkness. The veil remains until you cast another spell."
         ]
     },
     "Versatile Fighter": {
-        "name": "VERSATILE FIGHTER",
+        "name": "Versatile fighter",
         "domain": "Blade",
         "level": 3,
         "type": "Ability",
@@ -1939,7 +1939,7 @@
         ]
     },
     "Vicious Entangle": {
-        "name": "VICIOUS ENTANGLE",
+        "name": "Vicious entangle",
         "domain": "Sage",
         "level": 1,
         "type": "Spell",
@@ -1950,7 +1950,7 @@
         ]
     },
     "Vitality": {
-        "name": "VITALITY",
+        "name": "Vitality",
         "domain": "Blade",
         "level": 5,
         "type": "Ability",
@@ -1964,18 +1964,18 @@
         ]
     },
     "Voice of Reason": {
-        "name": "VOICE OF REASON",
+        "name": "Voice of reason",
         "domain": "Splendor",
         "level": 3,
         "type": "Ability",
         "recallCost": 1,
         "descriptions": [
             "You speak with an unmatched power and authority. You have advantage on action rolls to de-escalate violent situations or convince someone to follow your lead.",
-            "Additionally, you’re emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls."
+            "Additionally, you're emboldened in moments of duress. When all of your Stress slots are marked, you gain a +1 bonus to your Proficiency for damage rolls."
         ]
     },
     "Wall Walk": {
-        "name": "WALL WALK",
+        "name": "Wall walk",
         "domain": "Arcana",
         "level": 1,
         "type": "Spell",
@@ -1985,7 +1985,7 @@
         ]
     },
     "Whirlwind": {
-        "name": "WHIRLWIND",
+        "name": "Whirlwind",
         "domain": "Blade",
         "level": 1,
         "type": "Ability",
@@ -1995,29 +1995,29 @@
         ]
     },
     "Wild Fortress": {
-        "name": "WILD FORTRESS",
+        "name": "Wild fortress",
         "domain": "Sage",
         "level": 5,
         "type": "Spell",
         "recallCost": 1,
         "descriptions": [
-            "Make a Spellcast Roll (13). On a success, spend 2 Hope to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can’t be targeted by attacks and can’t make attacks. Attacks made against the dome automatically succeed. The dome has the following damage thresholds and lasts until it marks 3 Hit Points. Place tokens on this card to represent marking Hit Points.",
+            "Make a Spellcast Roll (13). On a success, spend 2 Hope to grow a natural barricade in the shape of a dome that you and one ally can take cover within. While inside the dome, a creature can't be targeted by attacks and can't make attacks. Attacks made against the dome automatically succeed. The dome has the following damage thresholds and lasts until it marks 3 Hit Points. Place tokens on this card to represent marking Hit Points.",
             "Thresholds: 15/30"
         ]
     },
     "Wild Surge": {
-        "name": "WILD SURGE",
+        "name": "Wild surge",
         "domain": "Sage",
         "level": 7,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
             "Once per long rest, mark a Stress to channel the natural world around you and enhance yourself. Describe how your appearance changes, then place a d6 on this card with the 1 value facing up.",
-            "While the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die’s value by one. When the die’s value would exceed 6 or you take a rest, this form drops and you must mark an additional Stress."
+            "While the Wild Surge Die is active, you add its value to every action roll you make. After you add its value to a roll, increase the Wild Surge Die's value by one. When the die's value would exceed 6 or you take a rest, this form drops and you must mark an additional Stress."
         ]
     },
     "Words of Discord": {
-        "name": "WORDS OF DISCORD",
+        "name": "Words of discord",
         "domain": "Grace",
         "level": 5,
         "type": "Spell",
@@ -2028,7 +2028,7 @@
         ]
     },
     "Wrangle": {
-        "name": "WRANGLE",
+        "name": "Wrangle",
         "domain": "Bone",
         "level": 8,
         "type": "Ability",
@@ -2038,13 +2038,13 @@
         ]
     },
     "Zone of Protection": {
-        "name": "ZONE OF PROTECTION",
+        "name": "Zone of protection",
         "domain": "Splendor",
         "level": 6,
         "type": "Spell",
         "recallCost": 2,
         "descriptions": [
-            "Make a Spellcast Roll (16). Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a d6 on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die’s value. You then increase the die’s value by one. When the die’s value would exceed 6, this effect ends."
+            "Make a Spellcast Roll (16). Once per long rest on a success, choose a point within Far range and create a visible zone of protection there for all allies within Very Close range of that point. When you do, place a d6 on this card with the 1 value facing up. When an ally in this zone takes damage, they reduce it by the die's value. You then increase the die's value by one. When the die's value would exceed 6, this effect ends."
         ]
     }
 }

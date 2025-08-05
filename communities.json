@@ -23,7 +23,7 @@
         "individualDescription": "Orderborne are often ambitious, benevolent, pensive, prudent, sardonic, and stoic.",
         "communityFeature": {
             "name": "Dedicated",
-            "description": "Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you’re embodying one of these principles through your current action, you can roll a **d20** as your Hope Die."
+            "description": "Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you're embodying one of these principles through your current action, you can roll a **d20** as your Hope Die."
         }
     },
     "Ridgeborne": {
@@ -59,7 +59,7 @@
         "individualDescription": "Underborne are often composed, elusive, indomitable, innovative, resourceful, and unpretentious.",
         "communityFeature": {
             "name": "Low-Light Living",
-            "description": "When you’re in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area."
+            "description": "When you're in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area."
         }
     },
     "Wanderborne": {
@@ -68,7 +68,7 @@
         "individualDescription": "Wanderborne are often inscrutable, magnanimous, mirthful, reliable, savvy, and unorthodox.",
         "communityFeature": {
             "name": "Nomadic Pack",
-            "description": "Add a Nomadic Pack to your inventory. Once per session, you can spend a Hope to reach into this pack and pull out a mundane item that’s useful to your situation. Work with the GM to figure out what item you take out."
+            "description": "Add a Nomadic Pack to your inventory. Once per session, you can spend a Hope to reach into this pack and pull out a mundane item that's useful to your situation. Work with the GM to figure out what item you take out."
         }
     },
     "Wildborne": {

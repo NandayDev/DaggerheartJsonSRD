@@ -1,6 +1,6 @@
 {
     "Aantari Bow": {
-        "name": "Aantari Bow",
+        "name": "Aantari bow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -17,7 +17,7 @@
         "tier": 4
     },
     "Advanced Arcane Gauntlets": {
-        "name": "Advanced Arcane Gauntlets",
+        "name": "Advanced arcane gauntlets",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -30,7 +30,7 @@
         "tier": 3
     },
     "Advanced Battleaxe": {
-        "name": "Advanced Battleaxe",
+        "name": "Advanced battleaxe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -43,7 +43,7 @@
         "tier": 3
     },
     "Advanced Broadsword": {
-        "name": "Advanced Broadsword",
+        "name": "Advanced broadsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -60,7 +60,7 @@
         "tier": 3
     },
     "Advanced Crossbow": {
-        "name": "Advanced Crossbow",
+        "name": "Advanced crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -73,7 +73,7 @@
         "tier": 3
     },
     "Advanced Cutlass": {
-        "name": "Advanced Cutlass",
+        "name": "Advanced cutlass",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -86,7 +86,7 @@
         "tier": 3
     },
     "Advanced Dagger": {
-        "name": "Advanced Dagger",
+        "name": "Advanced dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -99,7 +99,7 @@
         "tier": 3
     },
     "Advanced Dualstaff": {
-        "name": "Advanced Dualstaff",
+        "name": "Advanced dualstaff",
         "trait": "Instinct",
         "range": "Far",
         "damage": {
@@ -112,7 +112,7 @@
         "tier": 3
     },
     "Advanced Glowing Rings": {
-        "name": "Advanced Glowing Rings",
+        "name": "Advanced glowing rings",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -125,7 +125,7 @@
         "tier": 3
     },
     "Advanced Grappler": {
-        "name": "Advanced Grappler",
+        "name": "Advanced grappler",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -142,7 +142,7 @@
         "tier": 3
     },
     "Advanced Greatstaff": {
-        "name": "Advanced Greatstaff",
+        "name": "Advanced greatstaff",
         "trait": "Knowledge",
         "range": "Very Far",
         "damage": {
@@ -159,7 +159,7 @@
         "tier": 3
     },
     "Advanced Greatsword": {
-        "name": "Advanced Greatsword",
+        "name": "Advanced greatsword",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -176,7 +176,7 @@
         "tier": 3
     },
     "Advanced Halberd": {
-        "name": "Advanced Halberd",
+        "name": "Advanced halberd",
         "trait": "Strength",
         "range": "Very Close",
         "damage": {
@@ -193,7 +193,7 @@
         "tier": 3
     },
     "Advanced Hallowed Axe": {
-        "name": "Advanced Hallowed Axe",
+        "name": "Advanced hallowed axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -206,7 +206,7 @@
         "tier": 3
     },
     "Advanced Hand Crossbow": {
-        "name": "Advanced Hand Crossbow",
+        "name": "Advanced hand crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -219,7 +219,7 @@
         "tier": 3
     },
     "Advanced Hand Runes": {
-        "name": "Advanced Hand Runes",
+        "name": "Advanced hand runes",
         "trait": "Instinct",
         "range": "Very Close",
         "damage": {
@@ -232,7 +232,7 @@
         "tier": 3
     },
     "Advanced Longbow": {
-        "name": "Advanced Longbow",
+        "name": "Advanced longbow",
         "trait": "Agility",
         "range": "Very Far",
         "damage": {
@@ -249,7 +249,7 @@
         "tier": 3
     },
     "Advanced Longsword": {
-        "name": "Advanced Longsword",
+        "name": "Advanced longsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -262,7 +262,7 @@
         "tier": 3
     },
     "Advanced Mace": {
-        "name": "Advanced Mace",
+        "name": "Advanced mace",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -275,7 +275,7 @@
         "tier": 3
     },
     "Advanced Quarterstaff": {
-        "name": "Advanced Quarterstaff",
+        "name": "Advanced quarterstaff",
         "trait": "Instinct",
         "range": "Melee",
         "damage": {
@@ -288,7 +288,7 @@
         "tier": 3
     },
     "Advanced Rapier": {
-        "name": "Advanced Rapier",
+        "name": "Advanced rapier",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -305,7 +305,7 @@
         "tier": 3
     },
     "Advanced Returning Blade": {
-        "name": "Advanced Returning Blade",
+        "name": "Advanced returning blade",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -322,7 +322,7 @@
         "tier": 3
     },
     "Advanced Round Shield": {
-        "name": "Advanced Round Shield",
+        "name": "Advanced round shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -339,7 +339,7 @@
         "tier": 3
     },
     "Advanced Scepter": {
-        "name": "Advanced Scepter",
+        "name": "Advanced scepter",
         "trait": "Presence",
         "range": "Far",
         "damage": {
@@ -356,7 +356,7 @@
         "tier": 3
     },
     "Advanced Shortbow": {
-        "name": "Advanced Shortbow",
+        "name": "Advanced shortbow",
         "trait": "Agility",
         "range": "Far",
         "damage": {
@@ -369,7 +369,7 @@
         "tier": 3
     },
     "Advanced Shortstaff": {
-        "name": "Advanced Shortstaff",
+        "name": "Advanced shortstaff",
         "trait": "Instinct",
         "range": "Close",
         "damage": {
@@ -382,7 +382,7 @@
         "tier": 3
     },
     "Advanced Shortsword": {
-        "name": "Advanced Shortsword",
+        "name": "Advanced shortsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -399,7 +399,7 @@
         "tier": 3
     },
     "Advanced Small Dagger": {
-        "name": "Advanced Small Dagger",
+        "name": "Advanced small dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -416,7 +416,7 @@
         "tier": 3
     },
     "Advanced Spear": {
-        "name": "Advanced Spear",
+        "name": "Advanced spear",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -429,7 +429,7 @@
         "tier": 3
     },
     "Advanced Tower Shield": {
-        "name": "Advanced Tower Shield",
+        "name": "Advanced tower shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -446,7 +446,7 @@
         "tier": 3
     },
     "Advanced Wand": {
-        "name": "Advanced Wand",
+        "name": "Advanced wand",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -459,7 +459,7 @@
         "tier": 3
     },
     "Advanced Warhammer": {
-        "name": "Advanced Warhammer",
+        "name": "Advanced warhammer",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -476,7 +476,7 @@
         "tier": 3
     },
     "Advanced Whip": {
-        "name": "Advanced Whip",
+        "name": "Advanced whip",
         "trait": "Presence",
         "range": "Very Close",
         "damage": {
@@ -493,7 +493,7 @@
         "tier": 3
     },
     "Arcane Gauntlets": {
-        "name": "Arcane Gauntlets",
+        "name": "Arcane gauntlets",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -506,7 +506,7 @@
         "tier": 1
     },
     "Axe of Fortunis": {
-        "name": "Axe of Fortunis",
+        "name": "Axe of fortunis",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -536,7 +536,7 @@
         "tier": 1
     },
     "Black Powder Revolver": {
-        "name": "Black Powder Revolver",
+        "name": "Black powder revolver",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -553,7 +553,7 @@
         "tier": 3
     },
     "Bladed Whip": {
-        "name": "Bladed Whip",
+        "name": "Bladed whip",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -570,7 +570,7 @@
         "tier": 2
     },
     "Blessed Anlace": {
-        "name": "Blessed Anlace",
+        "name": "Blessed anlace",
         "trait": "Instinct",
         "range": "Melee",
         "damage": {
@@ -689,7 +689,7 @@
         "tier": 3
     },
     "Casting Sword": {
-        "name": "Casting Sword",
+        "name": "Casting sword",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -719,7 +719,7 @@
         "tier": 1
     },
     "Curved Dagger": {
-        "name": "Curved Dagger",
+        "name": "Curved dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -762,7 +762,7 @@
         "tier": 1
     },
     "Devouring Dagger": {
-        "name": "Devouring Dagger",
+        "name": "Devouring dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -779,7 +779,7 @@
         "tier": 2
     },
     "Double Flail": {
-        "name": "Double Flail",
+        "name": "Double flail",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -796,7 +796,7 @@
         "tier": 3
     },
     "Dual-Ended Sword": {
-        "name": "Dual-Ended Sword",
+        "name": "Dual-ended sword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -826,7 +826,7 @@
         "tier": 1
     },
     "Ego Blade": {
-        "name": "Ego Blade",
+        "name": "Ego blade",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -843,7 +843,7 @@
         "tier": 2
     },
     "Elder Bow": {
-        "name": "Elder Bow",
+        "name": "Elder bow",
         "trait": "Instinct",
         "range": "Far",
         "damage": {
@@ -860,7 +860,7 @@
         "tier": 2
     },
     "Extended Polearm": {
-        "name": "Extended Polearm",
+        "name": "Extended polearm",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -877,7 +877,7 @@
         "tier": 4
     },
     "Finehair Bow": {
-        "name": "Finehair Bow",
+        "name": "Finehair bow",
         "trait": "Agility",
         "range": "Very Far",
         "damage": {
@@ -911,7 +911,7 @@
         "tier": 3
     },
     "Flickerfly Blade": {
-        "name": "Flickerfly Blade",
+        "name": "Flickerfly blade",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -928,7 +928,7 @@
         "tier": 3
     },
     "Floating Bladeshards": {
-        "name": "Floating Bladeshards",
+        "name": "Floating bladeshards",
         "trait": "Instinct",
         "range": "Close",
         "damage": {
@@ -945,7 +945,7 @@
         "tier": 4
     },
     "Fusion Gloves": {
-        "name": "Fusion Gloves",
+        "name": "Fusion gloves",
         "trait": "Knowledge",
         "range": "Very Far",
         "damage": {
@@ -979,7 +979,7 @@
         "tier": 3
     },
     "Gilded Bow": {
-        "name": "Gilded Bow",
+        "name": "Gilded bow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -996,7 +996,7 @@
         "tier": 3
     },
     "Gilded Falchion": {
-        "name": "Gilded Falchion",
+        "name": "Gilded falchion",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1013,7 +1013,7 @@
         "tier": 2
     },
     "Glowing Rings": {
-        "name": "Glowing Rings",
+        "name": "Glowing rings",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -1111,7 +1111,7 @@
         "tier": 1
     },
     "Hallowed Axe": {
-        "name": "Hallowed Axe",
+        "name": "Hallowed axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1124,7 +1124,7 @@
         "tier": 1
     },
     "Hammer of Exota": {
-        "name": "Hammer of Exota",
+        "name": "Hammer of exota",
         "trait": "Instinct",
         "range": "Melee",
         "damage": {
@@ -1141,7 +1141,7 @@
         "tier": 2
     },
     "Hammer of Wrath": {
-        "name": "Hammer of Wrath",
+        "name": "Hammer of wrath",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1158,7 +1158,7 @@
         "tier": 3
     },
     "Hand Cannon": {
-        "name": "Hand Cannon",
+        "name": "Hand cannon",
         "trait": "Finesse",
         "range": "Very Far",
         "damage": {
@@ -1175,7 +1175,7 @@
         "tier": 4
     },
     "Hand Crossbow": {
-        "name": "Hand Crossbow",
+        "name": "Hand crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -1188,7 +1188,7 @@
         "tier": 1
     },
     "Hand Runes": {
-        "name": "Hand Runes",
+        "name": "Hand runes",
         "trait": "Instinct",
         "range": "Very Close",
         "damage": {
@@ -1201,7 +1201,7 @@
         "tier": 1
     },
     "Hand Sling": {
-        "name": "Hand Sling",
+        "name": "Hand sling",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -1218,7 +1218,7 @@
         "tier": 3
     },
     "Ilmaris Rifle": {
-        "name": "Ilmaris Rifle",
+        "name": "Ilmari's rifle",
         "trait": "Finesse",
         "range": "Very Far",
         "damage": {
@@ -1235,7 +1235,7 @@
         "tier": 3
     },
     "Impact Gauntlet": {
-        "name": "Impact Gauntlet",
+        "name": "Impact gauntlet",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1252,7 +1252,7 @@
         "tier": 4
     },
     "Improved Arcane Gauntlets": {
-        "name": "Improved Arcane Gauntlets",
+        "name": "Improved arcane gauntlets",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1265,7 +1265,7 @@
         "tier": 2
     },
     "Improved Battleaxe": {
-        "name": "Improved Battleaxe",
+        "name": "Improved battleaxe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1278,7 +1278,7 @@
         "tier": 2
     },
     "Improved Broadsword": {
-        "name": "Improved Broadsword",
+        "name": "Improved broadsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -1295,7 +1295,7 @@
         "tier": 2
     },
     "Improved Crossbow": {
-        "name": "Improved Crossbow",
+        "name": "Improved crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -1308,7 +1308,7 @@
         "tier": 2
     },
     "Improved Cutlass": {
-        "name": "Improved Cutlass",
+        "name": "Improved cutlass",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -1321,7 +1321,7 @@
         "tier": 2
     },
     "Improved Dagger": {
-        "name": "Improved Dagger",
+        "name": "Improved dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -1334,7 +1334,7 @@
         "tier": 2
     },
     "Improved Dualstaff": {
-        "name": "Improved Dualstaff",
+        "name": "Improved dualstaff",
         "trait": "Instinct",
         "range": "Far",
         "damage": {
@@ -1347,7 +1347,7 @@
         "tier": 2
     },
     "Improved Glowing Rings": {
-        "name": "Improved Glowing Rings",
+        "name": "Improved glowing rings",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -1360,7 +1360,7 @@
         "tier": 2
     },
     "Improved Grappler": {
-        "name": "Improved Grappler",
+        "name": "Improved grappler",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -1377,7 +1377,7 @@
         "tier": 2
     },
     "Improved Greatstaff": {
-        "name": "Improved Greatstaff",
+        "name": "Improved greatstaff",
         "trait": "Knowledge",
         "range": "Very Far",
         "damage": {
@@ -1394,7 +1394,7 @@
         "tier": 2
     },
     "Improved Greatsword": {
-        "name": "Improved Greatsword",
+        "name": "Improved greatsword",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1411,7 +1411,7 @@
         "tier": 2
     },
     "Improved Halberd": {
-        "name": "Improved Halberd",
+        "name": "Improved halberd",
         "trait": "Strength",
         "range": "Very Close",
         "damage": {
@@ -1428,7 +1428,7 @@
         "tier": 2
     },
     "Improved Hallowed Axe": {
-        "name": "Improved Hallowed Axe",
+        "name": "Improved hallowed axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1441,7 +1441,7 @@
         "tier": 2
     },
     "Improved Hand Crossbow": {
-        "name": "Improved Hand Crossbow",
+        "name": "Improved hand crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -1454,7 +1454,7 @@
         "tier": 2
     },
     "Improved Hand Runes": {
-        "name": "Improved Hand Runes",
+        "name": "Improved hand runes",
         "trait": "Instinct",
         "range": "Very Close",
         "damage": {
@@ -1467,7 +1467,7 @@
         "tier": 2
     },
     "Improved Longbow": {
-        "name": "Improved Longbow",
+        "name": "Improved longbow",
         "trait": "Agility",
         "range": "Very Far",
         "damage": {
@@ -1484,7 +1484,7 @@
         "tier": 2
     },
     "Improved Longsword": {
-        "name": "Improved Longsword",
+        "name": "Improved longsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -1497,7 +1497,7 @@
         "tier": 2
     },
     "Improved Mace": {
-        "name": "Improved Mace",
+        "name": "Improved mace",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1510,7 +1510,7 @@
         "tier": 2
     },
     "Improved Quarterstaff": {
-        "name": "Improved Quarterstaff",
+        "name": "Improved quarterstaff",
         "trait": "Instinct",
         "range": "Melee",
         "damage": {
@@ -1523,7 +1523,7 @@
         "tier": 2
     },
     "Improved Rapier": {
-        "name": "Improved Rapier",
+        "name": "Improved rapier",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -1540,7 +1540,7 @@
         "tier": 2
     },
     "Improved Returning Blade": {
-        "name": "Improved Returning Blade",
+        "name": "Improved returning blade",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -1557,7 +1557,7 @@
         "tier": 2
     },
     "Improved Round Shield": {
-        "name": "Improved Round Shield",
+        "name": "Improved round shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1574,7 +1574,7 @@
         "tier": 2
     },
     "Improved Scepter": {
-        "name": "Improved Scepter",
+        "name": "Improved scepter",
         "trait": "Presence",
         "range": "Far",
         "damage": {
@@ -1591,7 +1591,7 @@
         "tier": 2
     },
     "Improved Shortbow": {
-        "name": "Improved Shortbow",
+        "name": "Improved shortbow",
         "trait": "Agility",
         "range": "Far",
         "damage": {
@@ -1604,7 +1604,7 @@
         "tier": 2
     },
     "Improved Shortstaff": {
-        "name": "Improved Shortstaff",
+        "name": "Improved shortstaff",
         "trait": "Instinct",
         "range": "Close",
         "damage": {
@@ -1617,7 +1617,7 @@
         "tier": 2
     },
     "Improved Shortsword": {
-        "name": "Improved Shortsword",
+        "name": "Improved shortsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -1634,7 +1634,7 @@
         "tier": 2
     },
     "Improved Small Dagger": {
-        "name": "Improved Small Dagger",
+        "name": "Improved small dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -1651,7 +1651,7 @@
         "tier": 2
     },
     "Improved Spear": {
-        "name": "Improved Spear",
+        "name": "Improved spear",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -1664,7 +1664,7 @@
         "tier": 2
     },
     "Improved Tower Shield": {
-        "name": "Improved Tower Shield",
+        "name": "Improved tower shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1681,7 +1681,7 @@
         "tier": 2
     },
     "Improved Wand": {
-        "name": "Improved Wand",
+        "name": "Improved wand",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -1694,7 +1694,7 @@
         "tier": 2
     },
     "Improved Warhammer": {
-        "name": "Improved Warhammer",
+        "name": "Improved warhammer",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1711,7 +1711,7 @@
         "tier": 2
     },
     "Improved Whip": {
-        "name": "Improved Whip",
+        "name": "Improved whip",
         "trait": "Presence",
         "range": "Very Close",
         "damage": {
@@ -1728,7 +1728,7 @@
         "tier": 2
     },
     "Keepers Staff": {
-        "name": "Keepers Staff",
+        "name": "Keeper's staff",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -1745,7 +1745,7 @@
         "tier": 2
     },
     "Knuckle Blades": {
-        "name": "Knuckle Blades",
+        "name": "Knuckle blades",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1762,7 +1762,7 @@
         "tier": 2
     },
     "Knuckle Claws": {
-        "name": "Knuckle Claws",
+        "name": "Knuckle claws",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1779,7 +1779,7 @@
         "tier": 4
     },
     "Labrys Axe": {
-        "name": "Labrys Axe",
+        "name": "Labrys axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1796,7 +1796,7 @@
         "tier": 3
     },
     "Legendary Arcane Gauntlets": {
-        "name": "Legendary Arcane Gauntlets",
+        "name": "Legendary arcane gauntlets",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1809,7 +1809,7 @@
         "tier": 4
     },
     "Legendary Battleaxe": {
-        "name": "Legendary Battleaxe",
+        "name": "Legendary battleaxe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1822,7 +1822,7 @@
         "tier": 4
     },
     "Legendary Broadsword": {
-        "name": "Legendary Broadsword",
+        "name": "Legendary broadsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -1839,7 +1839,7 @@
         "tier": 4
     },
     "Legendary Crossbow": {
-        "name": "Legendary Crossbow",
+        "name": "Legendary crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -1852,7 +1852,7 @@
         "tier": 4
     },
     "Legendary Cutlass": {
-        "name": "Legendary Cutlass",
+        "name": "Legendary cutlass",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -1865,7 +1865,7 @@
         "tier": 4
     },
     "Legendary Dagger": {
-        "name": "Legendary Dagger",
+        "name": "Legendary dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -1878,7 +1878,7 @@
         "tier": 4
     },
     "Legendary Dualstaff": {
-        "name": "Legendary Dualstaff",
+        "name": "Legendary dualstaff",
         "trait": "Instinct",
         "range": "Far",
         "damage": {
@@ -1891,7 +1891,7 @@
         "tier": 4
     },
     "Legendary Glowing Rings": {
-        "name": "Legendary Glowing Rings",
+        "name": "Legendary glowing rings",
         "trait": "Agility",
         "range": "Very Close",
         "damage": {
@@ -1904,7 +1904,7 @@
         "tier": 4
     },
     "Legendary Grappler": {
-        "name": "Legendary Grappler",
+        "name": "Legendary grappler",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -1921,7 +1921,7 @@
         "tier": 4
     },
     "Legendary Greatstaff": {
-        "name": "Legendary Greatstaff",
+        "name": "Legendary greatstaff",
         "trait": "Knowledge",
         "range": "Very Far",
         "damage": {
@@ -1938,7 +1938,7 @@
         "tier": 4
     },
     "Legendary Greatsword": {
-        "name": "Legendary Greatsword",
+        "name": "Legendary greatsword",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1955,7 +1955,7 @@
         "tier": 4
     },
     "Legendary Halberd": {
-        "name": "Legendary Halberd",
+        "name": "Legendary halberd",
         "trait": "Strength",
         "range": "Very Close",
         "damage": {
@@ -1972,7 +1972,7 @@
         "tier": 4
     },
     "Legendary Hallowed Axe": {
-        "name": "Legendary Hallowed Axe",
+        "name": "Legendary hallowed axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -1985,7 +1985,7 @@
         "tier": 4
     },
     "Legendary Hand Crossbow": {
-        "name": "Legendary Hand Crossbow",
+        "name": "Legendary hand crossbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {
@@ -1998,7 +1998,7 @@
         "tier": 4
     },
     "Legendary Hand Runes": {
-        "name": "Legendary Hand Runes",
+        "name": "Legendary hand runes",
         "trait": "Instinct",
         "range": "Very Close",
         "damage": {
@@ -2011,7 +2011,7 @@
         "tier": 4
     },
     "Legendary Longbow": {
-        "name": "Legendary Longbow",
+        "name": "Legendary longbow",
         "trait": "Agility",
         "range": "Very Far",
         "damage": {
@@ -2028,7 +2028,7 @@
         "tier": 4
     },
     "Legendary Longsword": {
-        "name": "Legendary Longsword",
+        "name": "Legendary longsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -2041,7 +2041,7 @@
         "tier": 4
     },
     "Legendary Mace": {
-        "name": "Legendary Mace",
+        "name": "Legendary mace",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2054,7 +2054,7 @@
         "tier": 4
     },
     "Legendary Quarterstaff": {
-        "name": "Legendary Quarterstaff",
+        "name": "Legendary quarterstaff",
         "trait": "Instinct",
         "range": "Melee",
         "damage": {
@@ -2067,7 +2067,7 @@
         "tier": 4
     },
     "Legendary Rapier": {
-        "name": "Legendary Rapier",
+        "name": "Legendary rapier",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -2084,7 +2084,7 @@
         "tier": 4
     },
     "Legendary Returning Blade": {
-        "name": "Legendary Returning Blade",
+        "name": "Legendary returning blade",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -2101,7 +2101,7 @@
         "tier": 4
     },
     "Legendary Round Shield": {
-        "name": "Legendary Round Shield",
+        "name": "Legendary round shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2118,7 +2118,7 @@
         "tier": 4
     },
     "Legendary Scepter": {
-        "name": "Legendary Scepter",
+        "name": "Legendary scepter",
         "trait": "Presence",
         "range": "Far",
         "damage": {
@@ -2135,7 +2135,7 @@
         "tier": 4
     },
     "Legendary Shortbow": {
-        "name": "Legendary Shortbow",
+        "name": "Legendary shortbow",
         "trait": "Agility",
         "range": "Far",
         "damage": {
@@ -2148,7 +2148,7 @@
         "tier": 4
     },
     "Legendary Shortstaff": {
-        "name": "Legendary Shortstaff",
+        "name": "Legendary shortstaff",
         "trait": "Instinct",
         "range": "Close",
         "damage": {
@@ -2161,7 +2161,7 @@
         "tier": 4
     },
     "Legendary Shortsword": {
-        "name": "Legendary Shortsword",
+        "name": "Legendary shortsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": {
@@ -2178,7 +2178,7 @@
         "tier": 4
     },
     "Legendary Small Dagger": {
-        "name": "Legendary Small Dagger",
+        "name": "Legendary small dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -2195,7 +2195,7 @@
         "tier": 4
     },
     "Legendary Spear": {
-        "name": "Legendary Spear",
+        "name": "Legendary spear",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -2208,7 +2208,7 @@
         "tier": 4
     },
     "Legendary Tower Shield": {
-        "name": "Legendary Tower Shield",
+        "name": "Legendary tower shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2225,7 +2225,7 @@
         "tier": 4
     },
     "Legendary Wand": {
-        "name": "Legendary Wand",
+        "name": "Legendary wand",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -2238,7 +2238,7 @@
         "tier": 4
     },
     "Legendary Warhammer": {
-        "name": "Legendary Warhammer",
+        "name": "Legendary warhammer",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2255,7 +2255,7 @@
         "tier": 4
     },
     "Legendary Whip": {
-        "name": "Legendary Whip",
+        "name": "Legendary whip",
         "trait": "Presence",
         "range": "Very Close",
         "damage": {
@@ -2315,7 +2315,7 @@
         "tier": 1
     },
     "Mage Orb": {
-        "name": "Mage Orb",
+        "name": "Mage orb",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -2332,7 +2332,7 @@
         "tier": 3
     },
     "Magus Revolver": {
-        "name": "Magus Revolver",
+        "name": "Magus revolver",
         "trait": "Finesse",
         "range": "Very Far",
         "damage": {
@@ -2349,7 +2349,7 @@
         "tier": 4
     },
     "Meridian Cutlass": {
-        "name": "Meridian Cutlass",
+        "name": "Meridian cutlass",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -2366,7 +2366,7 @@
         "tier": 3
     },
     "Midas Scythe": {
-        "name": "Midas Scythe",
+        "name": "Midas scythe",
         "trait": "Knowledge",
         "range": "Melee",
         "damage": {
@@ -2383,7 +2383,7 @@
         "tier": 4
     },
     "Parrying Dagger": {
-        "name": "Parrying Dagger",
+        "name": "Parrying dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -2400,7 +2400,7 @@
         "tier": 2
     },
     "Powered Gauntlet": {
-        "name": "Powered Gauntlet",
+        "name": "Powered gauntlet",
         "trait": "Knowledge",
         "range": "Close",
         "damage": {
@@ -2417,7 +2417,7 @@
         "tier": 3
     },
     "Primer Shard": {
-        "name": "Primer Shard",
+        "name": "Primer shard",
         "trait": "Instinct",
         "range": "Very Close",
         "damage": {
@@ -2464,7 +2464,7 @@
         "tier": 1
     },
     "Retractable Saber": {
-        "name": "Retractable Saber",
+        "name": "Retractable saber",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -2481,7 +2481,7 @@
         "tier": 3
     },
     "Returning Axe": {
-        "name": "Returning Axe",
+        "name": "Returning axe",
         "trait": "Agility",
         "range": "Close",
         "damage": {
@@ -2498,7 +2498,7 @@
         "tier": 2
     },
     "Returning Blade": {
-        "name": "Returning Blade",
+        "name": "Returning blade",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -2515,7 +2515,7 @@
         "tier": 1
     },
     "Ricochet Axes": {
-        "name": "Ricochet Axes",
+        "name": "Ricochet axes",
         "trait": "Agility",
         "range": "Far",
         "damage": {
@@ -2532,7 +2532,7 @@
         "tier": 4
     },
     "Round Shield": {
-        "name": "Round Shield",
+        "name": "Round shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2549,7 +2549,7 @@
         "tier": 1
     },
     "Runes of Ruination": {
-        "name": "Runes of Ruination",
+        "name": "Runes of ruination",
         "trait": "Knowledge",
         "range": "Very Close",
         "damage": {
@@ -2566,7 +2566,7 @@
         "tier": 3
     },
     "Scepter of Elias": {
-        "name": "Scepter of Elias",
+        "name": "Scepter of elias",
         "trait": "Presence",
         "range": "Far",
         "damage": {
@@ -2643,7 +2643,7 @@
         "tier": 1
     },
     "Siphoning Gauntlets": {
-        "name": "Siphoning Gauntlets",
+        "name": "Siphoning gauntlets",
         "trait": "Presence",
         "range": "Melee",
         "damage": {
@@ -2660,7 +2660,7 @@
         "tier": 4
     },
     "Sledge Axe": {
-        "name": "Sledge Axe",
+        "name": "Sledge axe",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2677,7 +2677,7 @@
         "tier": 4
     },
     "Small Dagger": {
-        "name": "Small Dagger",
+        "name": "Small dagger",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -2707,7 +2707,7 @@
         "tier": 1
     },
     "Spiked Bow": {
-        "name": "Spiked Bow",
+        "name": "Spiked bow",
         "trait": "Agility",
         "range": "Very Far",
         "damage": {
@@ -2724,7 +2724,7 @@
         "tier": 3
     },
     "Spiked Shield": {
-        "name": "Spiked Shield",
+        "name": "Spiked shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2741,7 +2741,7 @@
         "tier": 2
     },
     "Steelforged Halberd": {
-        "name": "Steelforged Halberd",
+        "name": "Steelforged halberd",
         "trait": "Strength",
         "range": "Very Close",
         "damage": {
@@ -2758,7 +2758,7 @@
         "tier": 2
     },
     "Swinging Ropeblade": {
-        "name": "Swinging Ropeblade",
+        "name": "Swinging ropeblade",
         "trait": "Presence",
         "range": "Close",
         "damage": {
@@ -2775,7 +2775,7 @@
         "tier": 4
     },
     "Sword of Light and Flame": {
-        "name": "Sword of Light and Flame",
+        "name": "Sword of light and flame",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2792,7 +2792,7 @@
         "tier": 4
     },
     "Talon Blades": {
-        "name": "Talon Blades",
+        "name": "Talon blades",
         "trait": "Finesse",
         "range": "Close",
         "damage": {
@@ -2826,7 +2826,7 @@
         "tier": 4
     },
     "Tower Shield": {
-        "name": "Tower Shield",
+        "name": "Tower shield",
         "trait": "Strength",
         "range": "Melee",
         "damage": {
@@ -2843,7 +2843,7 @@
         "tier": 1
     },
     "Urok Broadsword": {
-        "name": "Urok Broadsword",
+        "name": "Urok broadsword",
         "trait": "Finesse",
         "range": "Melee",
         "damage": {
@@ -2860,7 +2860,7 @@
         "tier": 2
     },
     "Wand of Enthrallment": {
-        "name": "Wand of Enthrallment",
+        "name": "Wand of enthrallment",
         "trait": "Presence",
         "range": "Far",
         "damage": {
@@ -2877,7 +2877,7 @@
         "tier": 2
     },
     "Wand of Essek": {
-        "name": "Wand of Essek",
+        "name": "Wand of essek",
         "trait": "Knowledge",
         "range": "Far",
         "damage": {
@@ -2907,7 +2907,7 @@
         "tier": 1
     },
     "War Scythe": {
-        "name": "War Scythe",
+        "name": "War scythe",
         "trait": "Finesse",
         "range": "Very Close",
         "damage": {
@@ -2958,7 +2958,7 @@
         "tier": 1
     },
     "Widgast Pendant": {
-        "name": "Widgast Pendant",
+        "name": "Widgast pendant",
         "trait": "Knowledge",
         "range": "Close",
         "damage": {
@@ -2975,7 +2975,7 @@
         "tier": 3
     },
     "Yutari Bloodbow": {
-        "name": "Yutari Bloodbow",
+        "name": "Yutari bloodbow",
         "trait": "Finesse",
         "range": "Far",
         "damage": {

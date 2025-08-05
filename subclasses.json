@@ -1,6 +1,6 @@
 {
     "Beastbound": {
-        "name": "Beastboundmd",
+        "name": "Beastbound",
         "description": "Play the Beastbound if you want to form a deep bond with an animal ally.",
         "spellcastTrait": "Agility",
         "foundationFeatures": [
@@ -31,7 +31,7 @@
         ]
     },
     "Call of the Brave": {
-        "name": "Call of the Bravemd",
+        "name": "Call of the brave",
         "description": "Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.",
         "foundationFeatures": [
             {
@@ -58,7 +58,7 @@
         ]
     },
     "Call of the Slayer": {
-        "name": "Call of the Slayermd",
+        "name": "Call of the slayer",
         "description": "Play the Call of the Slayer if you want to strike down adversaries with immense force.",
         "foundationFeatures": [
             {
@@ -81,7 +81,7 @@
         ]
     },
     "Divine Wielder": {
-        "name": "Divine Wieldermd",
+        "name": "Divine wielder",
         "description": "Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.",
         "spellcastTrait": "Strength",
         "foundationFeatures": [
@@ -109,7 +109,7 @@
         ]
     },
     "Elemental Origin": {
-        "name": "Elemental Originmd",
+        "name": "Elemental origin",
         "description": "Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.",
         "spellcastTrait": "Instinct",
         "foundationFeatures": [
@@ -134,7 +134,7 @@
         ]
     },
     "Nightwalker": {
-        "name": "Nightwalkermd",
+        "name": "Nightwalker",
         "description": "Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.",
         "spellcastTrait": "Finesse",
         "foundationFeatures": [
@@ -167,7 +167,7 @@
         ]
     },
     "Primal Origin": {
-        "name": "Primal Originmd",
+        "name": "Primal origin",
         "description": "Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.",
         "spellcastTrait": "Instinct",
         "foundationFeatures": [
@@ -192,7 +192,7 @@
         ]
     },
     "School of Knowledge": {
-        "name": "School of Knowledgemd",
+        "name": "School of knowledge",
         "description": "Play the School of Knowledge if you want a keen understanding of the world around you.",
         "spellcastTrait": "Knowledge",
         "foundationFeatures": [
@@ -228,7 +228,7 @@
         ]
     },
     "School of War": {
-        "name": "School of Warmd",
+        "name": "School of war",
         "description": "Play the School of War if you want to utilize trained magic for violence.",
         "spellcastTrait": "Knowledge",
         "foundationFeatures": [
@@ -264,7 +264,7 @@
         ]
     },
     "Stalwart": {
-        "name": "Stalwartmd",
+        "name": "Stalwart",
         "description": "Play the Stalwart if you want to take heavy blows and keep fighting.",
         "foundationFeatures": [
             {
@@ -299,7 +299,7 @@
         ]
     },
     "Syndicate": {
-        "name": "Syndicatemd",
+        "name": "Syndicate",
         "description": "Play the Syndicate if you want to have a web of contacts everywhere you go.",
         "spellcastTrait": "Finesse",
         "foundationFeatures": [
@@ -322,7 +322,7 @@
         ]
     },
     "Troubadour": {
-        "name": "Troubadourmd",
+        "name": "Troubadour",
         "description": "Play the Troubadour if you want to play music to bolster your allies.",
         "spellcastTrait": "Presence",
         "foundationFeatures": [
@@ -345,7 +345,7 @@
         ]
     },
     "Vengeance": {
-        "name": "Vengeancemd",
+        "name": "Vengeance",
         "description": "Play the Vengeance if you want to strike down enemies who harm you or your allies.",
         "foundationFeatures": [
             {
@@ -373,7 +373,7 @@
         ]
     },
     "Warden of Renewal": {
-        "name": "Warden of Renewalmd",
+        "name": "Warden of renewal",
         "description": "Play the Warden of Renewal if you want to use powerful magic to heal your party.",
         "spellcastTrait": "Instinct",
         "foundationFeatures": [
@@ -393,7 +393,7 @@
                 "description": "You can target creatures within Very Close range with your “Regeneration” feature."
             },
             {
-                "name": "Warden’s Protection",
+                "name": "Warden's Protection",
                 "description": "Once per long rest, spend 2 Hope to clear 2 Hit Points on 1d4 allies within Close range.",
                 "hopeCost": 2
             }
@@ -407,7 +407,7 @@
         ]
     },
     "Warden of the Elements": {
-        "name": "Warden of the Elementsmd",
+        "name": "Warden of the elements",
         "description": "Play the Warden of the Elements if you want to embody the natural elements of the wild.",
         "spellcastTrait": "Instinct",
         "foundationFeatures": [
@@ -433,7 +433,7 @@
         ]
     },
     "Wayfinder": {
-        "name": "Wayfindermd",
+        "name": "Wayfinder",
         "description": "Play the Wayfinder if you want to hunt your prey and strike with deadly force.",
         "spellcastTrait": "Agility",
         "foundationFeatures": [
@@ -462,7 +462,7 @@
         ]
     },
     "Winged Sentinel": {
-        "name": "Winged Sentinelmd",
+        "name": "Winged sentinel",
         "description": "Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.",
         "spellcastTrait": "Strength",
         "foundationFeatures": [
@@ -491,7 +491,7 @@
         ]
     },
     "Wordsmith": {
-        "name": "Wordsmithmd",
+        "name": "Wordsmith",
         "description": "Play the Wordsmith if you want to use clever wordplay and captivate crowds.",
         "spellcastTrait": "Presence",
         "foundationFeatures": [

@@ -1,0 +1,428 @@
+{
+    "Advanced Chainmail Armor": {
+        "name": "Advanced chainmail armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 31
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Heavy",
+            "description": "-1 to Evasion"
+        },
+        "tier": 3
+    },
+    "Advanced Full Plate Armor": {
+        "name": "Advanced full plate armor",
+        "baseThresholds": {
+            "lower": 15,
+            "higher": 35
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Very Heavy",
+            "description": "-2 to Evasion; -1 to Agility"
+        },
+        "tier": 3
+    },
+    "Advanced Gambeson Armor": {
+        "name": "Advanced gambeson armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 23
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Flexible",
+            "description": "+1 to Evasion"
+        },
+        "tier": 3
+    },
+    "Advanced Leather Armor": {
+        "name": "Advanced leather armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 27
+        },
+        "baseScore": 5,
+        "tier": 3
+    },
+    "Bellamie Fine Armor": {
+        "name": "Bellamie fine armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 27
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Gilded",
+            "description": "+1 to Presence"
+        },
+        "tier": 3
+    },
+    "Bladefare Armor": {
+        "name": "Bladefare armor",
+        "baseThresholds": {
+            "lower": 16,
+            "higher": 39
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Physical",
+            "description": "You can't mark an Armor Slot to reduce magic damage."
+        },
+        "tier": 3
+    },
+    "Chainmail Armor": {
+        "name": "Chainmail armor",
+        "baseThresholds": {
+            "lower": 7,
+            "higher": 15
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Heavy",
+            "description": "-1 to Evasion"
+        },
+        "tier": 1
+    },
+    "Channeling Armor": {
+        "name": "Channeling armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 36
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Channeling",
+            "description": "+1 to Spellcast Rolls"
+        },
+        "tier": 4
+    },
+    "Dragonscale Armor": {
+        "name": "Dragonscale armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 27
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Impenetrable",
+            "description": "Once per short rest, when you would mark your last Hit Point, you can instead mark a Stress."
+        },
+        "tier": 3
+    },
+    "Dunamis Silkchain": {
+        "name": "Dunamis silkchain",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 36
+        },
+        "baseScore": 7,
+        "feature": {
+            "name": "Timeslowing",
+            "description": "Mark an Armor Slot to roll a d4 and add its result as a bonus to your Evasion against an incoming attack."
+        },
+        "tier": 4
+    },
+    "Elundrian Chain Armor": {
+        "name": "Elundrian chain armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 21
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Warded",
+            "description": "You reduce incoming magic damage by your Armor Score before applying it to your damage thresholds."
+        },
+        "tier": 2
+    },
+    "Emberwoven Armor": {
+        "name": "Emberwoven armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 36
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Burning",
+            "description": "When an adversary attacks you within Melee range, they mark a Stress."
+        },
+        "tier": 4
+    },
+    "Full Fortified Armor": {
+        "name": "Full fortified armor",
+        "baseThresholds": {
+            "lower": 15,
+            "higher": 40
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Fortified",
+            "description": "When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one."
+        },
+        "tier": 4
+    },
+    "Full Plate Armor": {
+        "name": "Full plate armor",
+        "baseThresholds": {
+            "lower": 8,
+            "higher": 17
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Very Heavy",
+            "description": "-2 to Evasion; -1 to Agility"
+        },
+        "tier": 1
+    },
+    "Gambeson Armor": {
+        "name": "Gambeson armor",
+        "baseThresholds": {
+            "lower": 5,
+            "higher": 11
+        },
+        "baseScore": 3,
+        "feature": {
+            "name": "Flexible",
+            "description": "+1 to Evasion"
+        },
+        "tier": 1
+    },
+    "Harrowbone Armor": {
+        "name": "Harrowbone armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 21
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Resilient",
+            "description": "Before you mark your last Armor Slot, roll a d6. On a result of 6, reduce the severity by one threshold without marking an Armor Slot."
+        },
+        "tier": 2
+    },
+    "Improved Chainmail Armor": {
+        "name": "Improved chainmail armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 24
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Heavy",
+            "description": "-1 to Evasion"
+        },
+        "tier": 2
+    },
+    "Improved Full Plate Armor": {
+        "name": "Improved full plate armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 28
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Very Heavy",
+            "description": "-2 to Evasion; -1 to Agility"
+        },
+        "tier": 2
+    },
+    "Improved Gambeson Armor": {
+        "name": "Improved gambeson armor",
+        "baseThresholds": {
+            "lower": 7,
+            "higher": 16
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Flexible",
+            "description": "+1 to Evasion"
+        },
+        "tier": 2
+    },
+    "Improved Leather Armor": {
+        "name": "Improved leather armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 20
+        },
+        "baseScore": 4,
+        "tier": 2
+    },
+    "Irontree Breastplate Armor": {
+        "name": "Irontree breastplate armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 20
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Reinforced",
+            "description": "When you mark your last Armor Slot, increase your damage thresholds by +2 until you clear at least 1 Armor Slot."
+        },
+        "tier": 2
+    },
+    "Leather Armor": {
+        "name": "Leather armor",
+        "baseThresholds": {
+            "lower": 6,
+            "higher": 13
+        },
+        "baseScore": 3,
+        "tier": 1
+    },
+    "Legendary Chainmail Armor": {
+        "name": "Legendary chainmail armor",
+        "baseThresholds": {
+            "lower": 15,
+            "higher": 40
+        },
+        "baseScore": 7,
+        "feature": {
+            "name": "Heavy",
+            "description": "-1 to Evasion"
+        },
+        "tier": 4
+    },
+    "Legendary Full Plate Armor": {
+        "name": "Legendary full plate armor",
+        "baseThresholds": {
+            "lower": 17,
+            "higher": 44
+        },
+        "baseScore": 7,
+        "feature": {
+            "name": "Very Heavy",
+            "description": "-2 to Evasion; -1 to Agility"
+        },
+        "tier": 4
+    },
+    "Legendary Gambeson Armor": {
+        "name": "Legendary gambeson armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 32
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Flexible",
+            "description": "+1 to Evasion"
+        },
+        "tier": 4
+    },
+    "Legendary Leather Armor": {
+        "name": "Legendary leather armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 36
+        },
+        "baseScore": 6,
+        "tier": 4
+    },
+    "Monetts Cloak": {
+        "name": "Monett’s cloak",
+        "baseThresholds": {
+            "lower": 16,
+            "higher": 39
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Magic",
+            "description": "You can't mark an Armor Slot to reduce physical damage."
+        },
+        "tier": 3
+    },
+    "Rosewild Armor": {
+        "name": "Rosewild armor",
+        "baseThresholds": {
+            "lower": 11,
+            "higher": 23
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Hopeful",
+            "description": "When you would spend a Hope, you can mark an Armor Slot instead."
+        },
+        "tier": 2
+    },
+    "Runes of Fortification": {
+        "name": "Runes of fortification",
+        "baseThresholds": {
+            "lower": 17,
+            "higher": 43
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Painful",
+            "description": "Each time you mark an Armor Slot, you must mark a Stress."
+        },
+        "tier": 3
+    },
+    "Runetan Floating Armor": {
+        "name": "Runetan floating armor",
+        "baseThresholds": {
+            "lower": 9,
+            "higher": 20
+        },
+        "baseScore": 4,
+        "feature": {
+            "name": "Shifting",
+            "description": "When you are targeted for an attack, you can mark an Armor Slot to give the attack roll against you disadvantage."
+        },
+        "tier": 2
+    },
+    "Savior Chainmail": {
+        "name": "Savior chainmail",
+        "baseThresholds": {
+            "lower": 18,
+            "higher": 48
+        },
+        "baseScore": 8,
+        "feature": {
+            "name": "Difficult",
+            "description": "-1 to all character traits and Evasion"
+        },
+        "tier": 4
+    },
+    "Spiked Plate Armor": {
+        "name": "Spiked plate armor",
+        "baseThresholds": {
+            "lower": 10,
+            "higher": 25
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Sharp",
+            "description": "On a successful attack against a target within Melee range, add a d4 to the damage roll."
+        },
+        "tier": 3
+    },
+    "Tyris Soft Armor": {
+        "name": "Tyris soft armor",
+        "baseThresholds": {
+            "lower": 8,
+            "higher": 18
+        },
+        "baseScore": 5,
+        "feature": {
+            "name": "Quiet",
+            "description": "You gain a +2 bonus to rolls you make to move silently."
+        },
+        "tier": 2
+    },
+    "Veritas Opal Armor": {
+        "name": "Veritas opal armor",
+        "baseThresholds": {
+            "lower": 13,
+            "higher": 36
+        },
+        "baseScore": 6,
+        "feature": {
+            "name": "Truthseeking",
+            "description": "This armor glows when another creature within Close range tells a lie."
+        },
+        "tier": 4
+    }
+}

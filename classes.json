@@ -11,7 +11,8 @@
         "classItems": "A romance novel or a letter never opened",
         "hopeFeature": {
             "name": "Make a Scene",
-            "description": "Spend 3 Hope to temporarily Distract a target within Close range, giving them a -2 penalty to their Difficulty."
+            "description": "Spend 3 Hope to temporarily Distract a target within Close range, giving them a -2 penalty to their Difficulty.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -46,7 +47,8 @@
         "classItems": "A small bag of rocks and bones or a strange pendant found in the dirt",
         "hopeFeature": {
             "name": "Evolution",
-            "description": "Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform."
+            "description": "Spend 3 Hope to transform into a Beastform without marking a Stress. When you do, choose one trait to raise by +1 until you drop out of that Beastform.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -85,7 +87,8 @@
         "classItems": "A totem from your mentor or a secret key",
         "hopeFeature": {
             "name": "Frontline Tank",
-            "description": "Spend 3 Hope to clear 2 Armor Slots."
+            "description": "Spend 3 Hope to clear 2 Armor Slots.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -124,7 +127,8 @@
         "classItems": "A trophy from your first kill or a seemingly broken compass",
         "hopeFeature": {
             "name": "Hold Them Off",
-            "description": "Spend 3 Hope when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack."
+            "description": "Spend 3 Hope when you succeed on an attack with a weapon to use that same roll against two additional adversaries within range of the attack.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -159,7 +163,8 @@
         "classItems": "A set of forgery tools or a grappling hook",
         "hopeFeature": {
             "name": "Rogue's Dodge",
-            "description": "Spend 3 Hope to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest."
+            "description": "Spend 3 Hope to gain a +2 bonus to your Evasion until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -198,7 +203,8 @@
         "classItems": "A bundle of offerings or a sigil of your god",
         "hopeFeature": {
             "name": "Life Support",
-            "description": "Spend 3 Hope to clear a Hit Point on an ally within Close range."
+            "description": "Spend 3 Hope to clear a Hit Point on an ally within Close range.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -233,7 +239,8 @@
         "classItems": "A whispering orb or a family heirloom",
         "hopeFeature": {
             "name": "Volatile Magic",
-            "description": "Spend 3 Hope to reroll any number of your damage dice on an attack that deals magic damage."
+            "description": "Spend 3 Hope to reroll any number of your damage dice on an attack that deals magic damage.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -276,7 +283,8 @@
         "classItems": "The drawing of a lover or a sharpening stone",
         "hopeFeature": {
             "name": "No Mercy",
-            "description": "Spend 3 Hope to gain a +1 bonus to your attack rolls until your next rest."
+            "description": "Spend 3 Hope to gain a +1 bonus to your attack rolls until your next rest.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {
@@ -315,7 +323,8 @@
         "classItems": "A book you're trying to translate or a tiny, harmless elemental pet",
         "hopeFeature": {
             "name": "Not This Time",
-            "description": "Spend 3 Hope to force an adversary within Far range to reroll an attack or damage roll."
+            "description": "Spend 3 Hope to force an adversary within Far range to reroll an attack or damage roll.",
+            "hopeCost": 3
         },
         "classFeatures": [
             {

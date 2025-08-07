@@ -1,6 +1,7 @@
 {
     "acid burrower": {
-        "name": "Acid burrower",
+        "key": "acid burrower",
+        "name": "Acid Burrower",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A horse-sized insect with digging claws and acidic blood.*",
@@ -57,7 +58,8 @@
         ]
     },
     "adult flickerfly": {
-        "name": "Adult flickerfly",
+        "key": "adult flickerfly",
+        "name": "Adult Flickerfly",
         "tier": 3,
         "type": "Solo",
         "appearance": "*A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*",
@@ -131,7 +133,8 @@
         ]
     },
     "apprentice assassin": {
-        "name": "Apprentice assassin",
+        "key": "apprentice assassin",
+        "name": "Apprentice Assassin",
         "tier": 2,
         "type": "Minion",
         "appearance": "*A young trainee eager to prove themselves.*",
@@ -169,7 +172,8 @@
             }
         ]
     },
-    "arch-necromancer": {
+    "archnecromancer": {
+        "key": "archnecromancer",
         "name": "Arch-necromancer",
         "tier": 4,
         "type": "Leader",
@@ -242,7 +246,8 @@
         ]
     },
     "archer guard": {
-        "name": "Archer guard",
+        "key": "archer guard",
+        "name": "Archer Guard",
         "tier": 1,
         "type": "Ranged",
         "appearance": "*A tall guard bearing a longbow and quiver with arrows fletched in the settlement's colors.*",
@@ -278,7 +283,8 @@
         ]
     },
     "archer squadron": {
-        "name": "Archer squadron",
+        "key": "archer squadron",
+        "name": "Archer Squadron",
         "tier": 2,
         "type": "Horde",
         "hordeHpEach": 2,
@@ -325,7 +331,8 @@
         ]
     },
     "assassin poisoner": {
-        "name": "Assassin poisoner",
+        "key": "assassin poisoner",
+        "name": "Assassin Poisoner",
         "tier": 2,
         "type": "Skulk",
         "appearance": "*A cunning scoundrel skilled in both poisons and ambushing.*",
@@ -375,7 +382,8 @@
         ]
     },
     "battle box": {
-        "name": "Battle box",
+        "key": "battle box",
+        "name": "Battle Box",
         "tier": 2,
         "type": "Solo",
         "appearance": "*A cube-shaped construct with a different rune on each of their six sides.*",
@@ -432,6 +440,7 @@
         ]
     },
     "bear": {
+        "key": "bear",
         "name": "Bear",
         "tier": 1,
         "type": "Bruiser",
@@ -486,7 +495,8 @@
         ]
     },
     "bladed guard": {
-        "name": "Bladed guard",
+        "key": "bladed guard",
+        "name": "Bladed Guard",
         "tier": 1,
         "type": "Standard",
         "appearance": "*An armored guard bearing a sword and shield painted in the settlement's colors.*",
@@ -529,7 +539,8 @@
         ]
     },
     "brawny zombie": {
-        "name": "Brawny zombie",
+        "key": "brawny zombie",
+        "name": "Brawny Zombie",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*A large corpse, decay-bloated and angry.*",
@@ -583,7 +594,8 @@
         ]
     },
     "cave ogre": {
-        "name": "Cave ogre",
+        "key": "cave ogre",
+        "name": "Cave Ogre",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A massive humanoid who sees all sapient life as food.*",
@@ -640,7 +652,8 @@
         ]
     },
     "chaos skull": {
-        "name": "Chaos skull",
+        "key": "chaos skull",
+        "name": "Chaos Skull",
         "tier": 2,
         "type": "Ranged",
         "appearance": "*A floating humanoid skull animated by scintillating magic.*",
@@ -693,6 +706,7 @@
         ]
     },
     "conscript": {
+        "key": "conscript",
         "name": "Conscript",
         "tier": 2,
         "type": "Minion",
@@ -728,6 +742,7 @@
         ]
     },
     "construct": {
+        "key": "construct",
         "name": "Construct",
         "tier": 1,
         "type": "Solo",
@@ -788,6 +803,7 @@
         ]
     },
     "courtesan": {
+        "key": "courtesan",
         "name": "Courtesan",
         "tier": 2,
         "type": "Social",
@@ -828,6 +844,7 @@
         ]
     },
     "courtier": {
+        "key": "courtier",
         "name": "Courtier",
         "tier": 1,
         "type": "Social",
@@ -871,7 +888,8 @@
         ]
     },
     "cult adept": {
-        "name": "Cult adept",
+        "key": "cult adept",
+        "name": "Cult Adept",
         "tier": 2,
         "type": "Support",
         "appearance": "*An experienced mage wielding shadow and fear.*",
@@ -932,7 +950,8 @@
         ]
     },
     "cult fang": {
-        "name": "Cult fang",
+        "key": "cult fang",
+        "name": "Cult Fang",
         "tier": 2,
         "type": "Skulk",
         "appearance": "*A professional killer-turned-cultist.*",
@@ -971,7 +990,8 @@
         ]
     },
     "cult initiate": {
-        "name": "Cult initiate",
+        "key": "cult initiate",
+        "name": "Cult Initiate",
         "tier": 2,
         "type": "Minion",
         "appearance": "*A low-ranking cultist in simple robes, eager to gain power.*",
@@ -1006,7 +1026,8 @@
         ]
     },
     "deeproot defender": {
-        "name": "Deeproot defender",
+        "key": "deeproot defender",
+        "name": "Deeproot Defender",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*A burly vegetable-person with grasping vines.*",
@@ -1049,7 +1070,8 @@
         ]
     },
     "demon of avarice": {
-        "name": "Demon of avarice",
+        "key": "demon of avarice",
+        "name": "Demon of Avarice",
         "tier": 3,
         "type": "Support",
         "appearance": "*A regal cloaked monstrosity with circular horns adorned with treasure.*",
@@ -1099,7 +1121,8 @@
         ]
     },
     "demon of despair": {
-        "name": "Demon of despair",
+        "key": "demon of despair",
+        "name": "Demon of Despair",
         "tier": 3,
         "type": "Skulk",
         "appearance": "*A cloaked one-creature with long limbs, seeping shadows.*",
@@ -1156,7 +1179,8 @@
         ]
     },
     "demon of hubris": {
-        "name": "Demon of hubris",
+        "key": "demon of hubris",
+        "name": "Demon of Hubris",
         "tier": 3,
         "type": "Leader",
         "appearance": "*A perfectly beautiful and infinitely cruel demon with a gleaming spear and elegant robes.*",
@@ -1220,7 +1244,8 @@
         ]
     },
     "demon of jealousy": {
-        "name": "Demon of jealousy",
+        "key": "demon of jealousy",
+        "name": "Demon of Jealousy",
         "tier": 3,
         "type": "Ranged",
         "appearance": "*A fickle creature of spindly limbs and insatiable desires.*",
@@ -1277,7 +1302,8 @@
         ]
     },
     "demon of wrath": {
-        "name": "Demon of wrath",
+        "key": "demon of wrath",
+        "name": "Demon of Wrath",
         "tier": 3,
         "type": "Bruiser",
         "appearance": "*A hulking demon with boulder-sized fists, driven by endless rage.*",
@@ -1334,7 +1360,8 @@
         ]
     },
     "demonic hound pack": {
-        "name": "Demonic hound pack",
+        "key": "demonic hound pack",
+        "name": "Demonic Hound Pack",
         "tier": 2,
         "type": "Horde",
         "hordeHpEach": 1,
@@ -1385,7 +1412,8 @@
         ]
     },
     "dire bat": {
-        "name": "Dire bat",
+        "key": "dire bat",
+        "name": "Dire Bat",
         "tier": 3,
         "type": "Skulk",
         "appearance": "*A winged pet endlessly loyal to their vampire owner.*",
@@ -1435,7 +1463,8 @@
         ]
     },
     "dire wolf": {
-        "name": "Dire wolf",
+        "key": "dire wolf",
+        "name": "Dire Wolf",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A large wolf with menacing teeth, seldom encountered alone.*",
@@ -1478,6 +1507,7 @@
         ]
     },
     "dryad": {
+        "key": "dryad",
         "name": "Dryad",
         "tier": 3,
         "type": "Leader",
@@ -1528,7 +1558,8 @@
         ]
     },
     "electric eels": {
-        "name": "Electric eels",
+        "key": "electric eels",
+        "name": "Electric Eels",
         "tier": 2,
         "type": "Horde",
         "hordeHpEach": 2,
@@ -1568,7 +1599,8 @@
         ]
     },
     "elemental spark": {
-        "name": "Elemental spark",
+        "key": "elemental spark",
+        "name": "Elemental Spark",
         "tier": 3,
         "type": "Minion",
         "appearance": "*A blazing mote of elemental fire.*",
@@ -1603,7 +1635,8 @@
         ]
     },
     "elite soldier": {
-        "name": "Elite soldier",
+        "key": "elite soldier",
+        "name": "Elite Soldier",
         "tier": 2,
         "type": "Standard",
         "appearance": "*An armored squire or experienced commoner looking to advance.*",
@@ -1642,7 +1675,8 @@
         ]
     },
     "failed experiment": {
-        "name": "Failed experiment",
+        "key": "failed experiment",
+        "name": "Failed Experiment",
         "tier": 2,
         "type": "Standard",
         "appearance": "*A magical necromantic experiment gone wrong, leaving them warped and ungainly.*",
@@ -1692,7 +1726,8 @@
         ]
     },
     "fallen shock troop": {
-        "name": "Fallen shock troop",
+        "key": "fallen shock troop",
+        "name": "Fallen Shock Troop",
         "tier": 4,
         "type": "Minion",
         "appearance": "*A cursed soul bound to the Fallen's will.*",
@@ -1734,7 +1769,8 @@
         ]
     },
     "fallen sorcerer": {
-        "name": "Fallen sorcerer",
+        "key": "fallen sorcerer",
+        "name": "Fallen Sorcerer",
         "tier": 4,
         "type": "Support",
         "appearance": "*Warped mage bound by the bargains they made in life.*",
@@ -1790,8 +1826,9 @@
             }
         ]
     },
-    "fallen warlord realm-breaker": {
-        "name": "Fallen warlord: realm-breaker",
+    "fallen warlord realmbreaker": {
+        "key": "fallen warlord realmbreaker",
+        "name": "Fallen Warlord: Realm-breaker",
         "tier": 4,
         "type": "Solo",
         "appearance": "*A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes' spirits.*",
@@ -1870,7 +1907,8 @@
         ]
     },
     "fallen warlord undefeated champion": {
-        "name": "Fallen warlord: undefeated champion",
+        "key": "fallen warlord undefeated champion",
+        "name": "Fallen Warlord: Undefeated Champion",
         "tier": 4,
         "type": "Solo",
         "appearance": "*That which only the most feared have a chance to fear.*",
@@ -1960,7 +1998,8 @@
         ]
     },
     "giant beastmaster": {
-        "name": "Giant beastmaster",
+        "key": "giant beastmaster",
+        "name": "Giant Beastmaster",
         "tier": 2,
         "type": "Leader",
         "appearance": "*A leather-clad warrior bearing a whip and massive bow.*",
@@ -2010,7 +2049,8 @@
         ]
     },
     "giant brawler": {
-        "name": "Giant brawler",
+        "key": "giant brawler",
+        "name": "Giant Brawler",
         "tier": 2,
         "type": "Bruiser",
         "appearance": "*An especially muscular giant wielding a warhammer larger than a human.*",
@@ -2060,7 +2100,8 @@
         ]
     },
     "giant eagle": {
-        "name": "Giant eagle",
+        "key": "giant eagle",
+        "name": "Giant Eagle",
         "tier": 2,
         "type": "Skulk",
         "appearance": "*A giant bird of prey with blood-stained talons.*",
@@ -2113,7 +2154,8 @@
         ]
     },
     "giant mosquitoes": {
-        "name": "Giant mosquitoes",
+        "key": "giant mosquitoes",
+        "name": "Giant Mosquitoes",
         "tier": 1,
         "type": "Horde",
         "hordeHpEach": 5,
@@ -2164,7 +2206,8 @@
         ]
     },
     "giant rat": {
-        "name": "Giant rat",
+        "key": "giant rat",
+        "name": "Giant Rat",
         "tier": 1,
         "type": "Minion",
         "appearance": "*A cat-sized rodent skilled at scavenging and survival.*",
@@ -2203,7 +2246,8 @@
         ]
     },
     "giant recruit": {
-        "name": "Giant recruit",
+        "key": "giant recruit",
+        "name": "Giant Recruit",
         "tier": 2,
         "type": "Minion",
         "appearance": "*A giant fighter undergoing borrowed armor.*",
@@ -2238,7 +2282,8 @@
         ]
     },
     "giant scorpion": {
-        "name": "Giant scorpion",
+        "key": "giant scorpion",
+        "name": "Giant Scorpion",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*A human-sized insect with tearing claws and a stinging tail.*",
@@ -2288,7 +2333,8 @@
         ]
     },
     "glass snake": {
-        "name": "Glass snake",
+        "key": "glass snake",
+        "name": "Glass Snake",
         "tier": 1,
         "type": "Standard",
         "appearance": "*A clear serpent with a massive head that leaves behind a glass shard trail wherever they go.*",
@@ -2334,6 +2380,7 @@
         ]
     },
     "gorgon": {
+        "key": "gorgon",
         "name": "Gorgon",
         "tier": 2,
         "type": "Solo",
@@ -2398,7 +2445,8 @@
         ]
     },
     "greater earth elemental": {
-        "name": "Greater earth elemental",
+        "key": "greater earth elemental",
+        "name": "Greater Earth Elemental",
         "tier": 3,
         "type": "Bruiser",
         "appearance": "*A living landslide of boulders and dust, as large as a house.*",
@@ -2458,7 +2506,8 @@
         ]
     },
     "greater water elemental": {
-        "name": "Greater water elemental",
+        "key": "greater water elemental",
+        "name": "Greater Water Elemental",
         "tier": 3,
         "type": "Support",
         "appearance": "*A huge living wave that crashes down upon enemies.*",
@@ -2504,7 +2553,8 @@
         ]
     },
     "green ooze": {
-        "name": "Green ooze",
+        "key": "green ooze",
+        "name": "Green Ooze",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A moving mound of translucent green slime.*",
@@ -2561,7 +2611,8 @@
         ]
     },
     "hallowed archer": {
-        "name": "Hallowed archer",
+        "key": "hallowed archer",
+        "name": "Hallowed Archer",
         "tier": 4,
         "type": "Ranged",
         "appearance": "*Spirit soldiers with sanctified bows.*",
@@ -2600,7 +2651,8 @@
         ]
     },
     "hallowed soldier": {
-        "name": "Hallowed soldier",
+        "key": "hallowed soldier",
+        "name": "Hallowed Soldier",
         "tier": 4,
         "type": "Minion",
         "appearance": "*Souls of the faithful, lifted up with divine weaponry.*",
@@ -2642,6 +2694,7 @@
         ]
     },
     "harrier": {
+        "key": "harrier",
         "name": "Harrier",
         "tier": 1,
         "type": "Standard",
@@ -2685,7 +2738,8 @@
         ]
     },
     "head guard": {
-        "name": "Head guard",
+        "key": "head guard",
+        "name": "Head Guard",
         "tier": 1,
         "type": "Leader",
         "appearance": "*A seasoned guard with a mace, a whistle, and a bellowing voice.*",
@@ -2739,7 +2793,8 @@
         ]
     },
     "head vampire": {
-        "name": "Head vampire",
+        "key": "head vampire",
+        "name": "Head Vampire",
         "tier": 3,
         "type": "Leader",
         "appearance": "*A captivating undead dressed in aristocratic finery.*",
@@ -2803,7 +2858,8 @@
         ]
     },
     "high seraph": {
-        "name": "High seraph",
+        "key": "high seraph",
+        "name": "High Seraph",
         "tier": 4,
         "type": "Leader",
         "appearance": "*A divine champion, head of a hallowed host of warriors who enforce their god's will.*",
@@ -2867,7 +2923,8 @@
         ]
     },
     "huge green ooze": {
-        "name": "Huge green ooze",
+        "key": "huge green ooze",
+        "name": "Huge Green Ooze",
         "tier": 3,
         "type": "Skulk",
         "appearance": "*A translucent green mound of acid taller than most humans.*",
@@ -2924,6 +2981,7 @@
         ]
     },
     "hydra": {
+        "key": "hydra",
         "name": "Hydra",
         "tier": 3,
         "type": "Solo",
@@ -2984,7 +3042,8 @@
         ]
     },
     "jagged knife bandit": {
-        "name": "Jagged knife bandit",
+        "key": "jagged knife bandit",
+        "name": "Jagged Knife Bandit",
         "tier": 1,
         "type": "Standard",
         "appearance": "*A cunning criminal in a cloak bearing one of the gang's iconic knives.*",
@@ -3027,7 +3086,8 @@
         ]
     },
     "jagged knife hexer": {
-        "name": "Jagged knife hexer",
+        "key": "jagged knife hexer",
+        "name": "Jagged Knife Hexer",
         "tier": 1,
         "type": "Support",
         "appearance": "*A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*",
@@ -3070,7 +3130,8 @@
         ]
     },
     "jagged knife kneebreaker": {
-        "name": "Jagged knife kneebreaker",
+        "key": "jagged knife kneebreaker",
+        "name": "Jagged Knife Kneebreaker",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*An imposing brawler carrying a large club.*",
@@ -3117,7 +3178,8 @@
         ]
     },
     "jagged knife lackey": {
-        "name": "Jagged knife lackey",
+        "key": "jagged knife lackey",
+        "name": "Jagged Knife Lackey",
         "tier": 1,
         "type": "Minion",
         "appearance": "*A thief with simple clothes and small daggers, eager to prove themselves.*",
@@ -3156,7 +3218,8 @@
         ]
     },
     "jagged knife lieutenant": {
-        "name": "Jagged knife lieutenant",
+        "key": "jagged knife lieutenant",
+        "name": "Jagged Knife Lieutenant",
         "tier": 1,
         "type": "Leader",
         "appearance": "*A seasoned bandit in quality leathers with a strong voice and cunning eyes.*",
@@ -3213,7 +3276,8 @@
         ]
     },
     "jagged knife shadow": {
-        "name": "Jagged knife shadow",
+        "key": "jagged knife shadow",
+        "name": "Jagged Knife Shadow",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.*",
@@ -3256,7 +3320,8 @@
         ]
     },
     "jagged knife sniper": {
-        "name": "Jagged knife sniper",
+        "key": "jagged knife sniper",
+        "name": "Jagged Knife Sniper",
         "tier": 1,
         "type": "Ranged",
         "appearance": "*A lanky bandit striking from cover with a shortbow.*",
@@ -3292,7 +3357,8 @@
         ]
     },
     "juvenile flickerfly": {
-        "name": "Juvenile flickerfly",
+        "key": "juvenile flickerfly",
+        "name": "Juvenile Flickerfly",
         "tier": 2,
         "type": "Solo",
         "appearance": "*A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*",
@@ -3345,7 +3411,8 @@
         ]
     },
     "knight of the realm": {
-        "name": "Knight of the realm",
+        "key": "knight of the realm",
+        "name": "Knight of the Realm",
         "tier": 2,
         "type": "Leader",
         "appearance": "*A decorated soldier with heavy armor and a powerful steed.*",
@@ -3410,6 +3477,7 @@
         ]
     },
     "kraken": {
+        "key": "kraken",
         "name": "Kraken",
         "tier": 4,
         "type": "Solo",
@@ -3474,7 +3542,8 @@
         ]
     },
     "masked thief": {
-        "name": "Masked thief",
+        "key": "masked thief",
+        "name": "Masked Thief",
         "tier": 2,
         "type": "Skulk",
         "appearance": "*A cunning thief with acrobatic skill and a flair for the dramatic.*",
@@ -3517,7 +3586,8 @@
         ]
     },
     "master assassin": {
-        "name": "Master assassin",
+        "key": "master assassin",
+        "name": "Master Assassin",
         "tier": 2,
         "type": "Leader",
         "appearance": "*A seasoned killer with a threatening voice and a deadly blade.*",
@@ -3578,7 +3648,8 @@
         ]
     },
     "merchant baron": {
-        "name": "Merchant baron",
+        "key": "merchant baron",
+        "name": "Merchant Baron",
         "tier": 2,
         "type": "Social",
         "appearance": "*An accomplished merchant with a large operation under their command.*",
@@ -3625,6 +3696,7 @@
         ]
     },
     "merchant": {
+        "key": "merchant",
         "name": "Merchant",
         "tier": 1,
         "type": "Social",
@@ -3668,7 +3740,8 @@
         ]
     },
     "minor chaos elemental": {
-        "name": "Minor chaos elemental",
+        "key": "minor chaos elemental",
+        "name": "Minor Chaos Elemental",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A coruscating mass of uncontrollable magic.*",
@@ -3728,7 +3801,8 @@
         ]
     },
     "minor demon": {
-        "name": "Minor demon",
+        "key": "minor demon",
+        "name": "Minor Demon",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*",
@@ -3788,7 +3862,8 @@
         ]
     },
     "minor fire elemental": {
-        "name": "Minor fire elemental",
+        "key": "minor fire elemental",
+        "name": "Minor Fire Elemental",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A living flame the size of a large bonfire.*",
@@ -3848,7 +3923,8 @@
         ]
     },
     "minor treant": {
-        "name": "Minor treant",
+        "key": "minor treant",
+        "name": "Minor Treant",
         "tier": 1,
         "type": "Minion",
         "appearance": "*An ambulatory sapling rising up to defend their forest.*",
@@ -3883,7 +3959,8 @@
         ]
     },
     "minotaur wrecker": {
-        "name": "Minotaur wrecker",
+        "key": "minotaur wrecker",
+        "name": "Minotaur Wrecker",
         "tier": 2,
         "type": "Bruiser",
         "appearance": "*A massive bull-headed hybrid with a quick temper.*",
@@ -3933,6 +4010,7 @@
         ]
     },
     "monarch": {
+        "key": "monarch",
         "name": "Monarch",
         "tier": 3,
         "type": "Social",
@@ -3987,7 +4065,8 @@
         ]
     },
     "mortal hunter": {
-        "name": "Mortal hunter",
+        "key": "mortal hunter",
+        "name": "Mortal Hunter",
         "tier": 2,
         "type": "Leader",
         "appearance": "*An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*",
@@ -4044,7 +4123,8 @@
         ]
     },
     "oak treant": {
-        "name": "Oak treant",
+        "key": "oak treant",
+        "name": "Oak Treant",
         "tier": 3,
         "type": "Bruiser",
         "appearance": "*A sturdy animated old-growth tree.*",
@@ -4094,7 +4174,8 @@
         ]
     },
     "oracle of doom": {
-        "name": "Oracle of doom",
+        "key": "oracle of doom",
+        "name": "Oracle of Doom",
         "tier": 4,
         "type": "Solo",
         "appearance": "*A towering immortal and incarnation of fate, cursed to only see bad outcomes.*",
@@ -4165,7 +4246,8 @@
         ]
     },
     "outer realms abomination": {
-        "name": "Outer realms abomination",
+        "key": "outer realms abomination",
+        "name": "Outer Realms Abomination",
         "tier": 4,
         "type": "Bruiser",
         "appearance": "*A chaotic mockery of life, constantly in flux.*",
@@ -4218,7 +4300,8 @@
         ]
     },
     "outer realms corrupter": {
-        "name": "Outer realms corrupter",
+        "key": "outer realms corrupter",
+        "name": "Outer Realms Corrupter",
         "tier": 4,
         "type": "Support",
         "appearance": "*A shifting, formless mass seemingly made of chromatic light.*",
@@ -4257,7 +4340,8 @@
         ]
     },
     "outer realms thrall": {
-        "name": "Outer realms thrall",
+        "key": "outer realms thrall",
+        "name": "Outer Realms Thrall",
         "tier": 4,
         "type": "Minion",
         "appearance": "*A vaguely humanoid form stripped of memory and identity.*",
@@ -4292,7 +4376,8 @@
         ]
     },
     "patchwork zombie hulk": {
-        "name": "Patchwork zombie hulk",
+        "key": "patchwork zombie hulk",
+        "name": "Patchwork Zombie Hulk",
         "tier": 1,
         "type": "Solo",
         "appearance": "*A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*",
@@ -4353,7 +4438,8 @@
         ]
     },
     "perfected zombie": {
-        "name": "Perfected zombie",
+        "key": "perfected zombie",
+        "name": "Perfected Zombie",
         "tier": 4,
         "type": "Bruiser",
         "appearance": "*A towering, muscular zombie with magically infused strength and skill.*",
@@ -4406,7 +4492,8 @@
         ]
     },
     "petty noble": {
-        "name": "Petty noble",
+        "key": "petty noble",
+        "name": "Petty Noble",
         "tier": 1,
         "type": "Social",
         "appearance": "*A richly dressed and adorned aristocrat brimming with hubris.*",
@@ -4456,7 +4543,8 @@
         ]
     },
     "pirate captain": {
-        "name": "Pirate captain",
+        "key": "pirate captain",
+        "name": "Pirate Captain",
         "tier": 1,
         "type": "Leader",
         "appearance": "*A charismatic sea dog with an impressive hat, eager to raid and plunder.*",
@@ -4517,7 +4605,8 @@
         ]
     },
     "pirate raiders": {
-        "name": "Pirate raiders",
+        "key": "pirate raiders",
+        "name": "Pirate Raiders",
         "tier": 1,
         "type": "Horde",
         "hordeHpEach": 3,
@@ -4561,7 +4650,8 @@
         ]
     },
     "pirate tough": {
-        "name": "Pirate tough",
+        "key": "pirate tough",
+        "name": "Pirate Tough",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*A thickly muscled and tattooed pirate with melon-sized fists.*",
@@ -4604,7 +4694,8 @@
         ]
     },
     "red ooze": {
-        "name": "Red ooze",
+        "key": "red ooze",
+        "name": "Red Ooze",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A moving mound of translucent flaming red slime.*",
@@ -4654,7 +4745,8 @@
         ]
     },
     "rotted zombie": {
-        "name": "Rotted zombie",
+        "key": "rotted zombie",
+        "name": "Rotted Zombie",
         "tier": 1,
         "type": "Minion",
         "appearance": "*A decaying corpse ambling toward their prey.*",
@@ -4689,7 +4781,8 @@
         ]
     },
     "royal advisor": {
-        "name": "Royal advisor",
+        "key": "royal advisor",
+        "name": "Royal Advisor",
         "tier": 2,
         "type": "Social",
         "appearance": "*A high-ranking courtier with the ear of the local nobility.*",
@@ -4742,7 +4835,8 @@
             }
         ]
     },
-    "secret-keeper": {
+    "secretkeeper": {
+        "key": "secretkeeper",
         "name": "Secret-keeper",
         "tier": 2,
         "type": "Leader",
@@ -4804,6 +4898,7 @@
         ]
     },
     "sellsword": {
+        "key": "sellsword",
         "name": "Sellsword",
         "tier": 1,
         "type": "Minion",
@@ -4839,7 +4934,8 @@
         ]
     },
     "shambling zombie": {
-        "name": "Shambling zombie",
+        "key": "shambling zombie",
+        "name": "Shambling Zombie",
         "tier": 1,
         "type": "Standard",
         "appearance": "*An animated corpse that moves shakily, driven only by hunger.*",
@@ -4878,6 +4974,7 @@
         ]
     },
     "shark": {
+        "key": "shark",
         "name": "Shark",
         "tier": 2,
         "type": "Bruiser",
@@ -4928,6 +5025,7 @@
         ]
     },
     "siren": {
+        "key": "siren",
         "name": "Siren",
         "tier": 2,
         "type": "Skulk",
@@ -4971,7 +5069,8 @@
         ]
     },
     "skeleton archer": {
-        "name": "Skeleton archer",
+        "key": "skeleton archer",
+        "name": "Skeleton Archer",
         "tier": 1,
         "type": "Ranged",
         "appearance": "*A fragile skeleton with a shortbow and arrows.*",
@@ -5010,7 +5109,8 @@
         ]
     },
     "skeleton dredge": {
-        "name": "Skeleton dredge",
+        "key": "skeleton dredge",
+        "name": "Skeleton Dredge",
         "tier": 1,
         "type": "Minion",
         "appearance": "*A clattering pile of bones.*",
@@ -5045,7 +5145,8 @@
         ]
     },
     "skeleton knight": {
-        "name": "Skeleton knight",
+        "key": "skeleton knight",
+        "name": "Skeleton Knight",
         "tier": 1,
         "type": "Bruiser",
         "appearance": "*A large armored skeleton with a huge blade.*",
@@ -5091,7 +5192,8 @@
         ]
     },
     "skeleton warrior": {
-        "name": "Skeleton warrior",
+        "key": "skeleton warrior",
+        "name": "Skeleton Warrior",
         "tier": 1,
         "type": "Standard",
         "appearance": "*A dirt-covered skeleton armed with a rusted blade.*",
@@ -5130,7 +5232,8 @@
         ]
     },
     "spectral archer": {
-        "name": "Spectral archer",
+        "key": "spectral archer",
+        "name": "Spectral Archer",
         "tier": 2,
         "type": "Ranged",
         "appearance": "*A ghostly fighter with an ethereal bow, unable to move on while their charge is vulnerable.*",
@@ -5173,7 +5276,8 @@
         ]
     },
     "spectral captain": {
-        "name": "Spectral captain",
+        "key": "spectral captain",
+        "name": "Spectral Captain",
         "tier": 2,
         "type": "Leader",
         "appearance": "*A ghostly commander leading their troops beyond death.*",
@@ -5230,7 +5334,8 @@
         ]
     },
     "spectral guardian": {
-        "name": "Spectral guardian",
+        "key": "spectral guardian",
+        "name": "Spectral Guardian",
         "tier": 2,
         "type": "Standard",
         "appearance": "*A ghostly fighter with spears and swords, anchored by duty.*",
@@ -5273,6 +5378,7 @@
         ]
     },
     "spellblade": {
+        "key": "spellblade",
         "name": "Spellblade",
         "tier": 1,
         "type": "Leader",
@@ -5330,6 +5436,7 @@
         ]
     },
     "spy": {
+        "key": "spy",
         "name": "Spy",
         "tier": 2,
         "type": "Social",
@@ -5373,7 +5480,8 @@
         ]
     },
     "stag knight": {
-        "name": "Stag knight",
+        "key": "stag knight",
+        "name": "Stag Knight",
         "tier": 3,
         "type": "Standard",
         "appearance": "*A knight with huge, majestic antlers wearing armor made of dangerous thorns.*",
@@ -5423,6 +5531,7 @@
         ]
     },
     "stonewraith": {
+        "key": "stonewraith",
         "name": "Stonewraith",
         "tier": 2,
         "type": "Skulk",
@@ -5480,7 +5589,8 @@
         ]
     },
     "swarm of rats": {
-        "name": "Swarm of rats",
+        "key": "swarm of rats",
+        "name": "Swarm of Rats",
         "tier": 1,
         "type": "Horde",
         "hordeHpEach": 10,
@@ -5520,7 +5630,8 @@
         ]
     },
     "sylvan soldier": {
-        "name": "Sylvan soldier",
+        "key": "sylvan soldier",
+        "name": "Sylvan Soldier",
         "tier": 1,
         "type": "Standard",
         "appearance": "*A faerie warrior adorned in armor made of leaves and bark.*",
@@ -5570,7 +5681,8 @@
         ]
     },
     "tangle bramble swarm": {
-        "name": "Tangle bramble swarm",
+        "key": "tangle bramble swarm",
+        "name": "Tangle Bramble Swarm",
         "tier": 1,
         "type": "Horde",
         "hordeHpEach": 3,
@@ -5621,7 +5733,8 @@
         ]
     },
     "tangle bramble": {
-        "name": "Tangle bramble",
+        "key": "tangle bramble",
+        "name": "Tangle Bramble",
         "tier": 1,
         "type": "Minion",
         "appearance": "*An animate, blood-drinking tumbleweed.*",
@@ -5663,7 +5776,8 @@
         ]
     },
     "tiny green ooze": {
-        "name": "Tiny green ooze",
+        "key": "tiny green ooze",
+        "name": "Tiny Green Ooze",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A small moving mound of translucent green slime.*",
@@ -5694,7 +5808,8 @@
         ]
     },
     "tiny red ooze": {
-        "name": "Tiny red ooze",
+        "key": "tiny red ooze",
+        "name": "Tiny Red Ooze",
         "tier": 1,
         "type": "Skulk",
         "appearance": "*A small moving mound of translucent flaming red slime.*",
@@ -5725,7 +5840,8 @@
         ]
     },
     "treant sapling": {
-        "name": "Treant sapling",
+        "key": "treant sapling",
+        "name": "Treant Sapling",
         "tier": 3,
         "type": "Minion",
         "appearance": "*A small, sentient tree sapling.*",
@@ -5760,6 +5876,7 @@
         ]
     },
     "vampire": {
+        "key": "vampire",
         "name": "Vampire",
         "tier": 3,
         "type": "Standard",
@@ -5803,7 +5920,8 @@
         ]
     },
     "vault guardian gaoler": {
-        "name": "Vault guardian gaoler",
+        "key": "vault guardian gaoler",
+        "name": "Vault Guardian Gaoler",
         "tier": 3,
         "type": "Support",
         "appearance": "*A boxy, dust-covered construct with thick metallic swinging doors on their torso.*",
@@ -5842,7 +5960,8 @@
         ]
     },
     "vault guardian sentinel": {
-        "name": "Vault guardian sentinel",
+        "key": "vault guardian sentinel",
+        "name": "Vault Guardian Sentinel",
         "tier": 3,
         "type": "Bruiser",
         "appearance": "*A dust-covered golden construct with boxy limbs and a huge mace for a hand.*",
@@ -5895,7 +6014,8 @@
         ]
     },
     "vault guardian turret": {
-        "name": "Vault guardian turret",
+        "key": "vault guardian turret",
+        "name": "Vault Guardian Turret",
         "tier": 3,
         "type": "Ranged",
         "appearance": "*A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*",
@@ -5948,7 +6068,8 @@
         ]
     },
     "volcanic dragon ashen tyrant": {
-        "name": "Volcanic dragon: ashen tyrant",
+        "key": "volcanic dragon ashen tyrant",
+        "name": "Volcanic Dragon: Ashen Tyrant",
         "tier": 4,
         "type": "Solo",
         "appearance": "*A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.*",
@@ -6023,7 +6144,8 @@
         ]
     },
     "volcanic dragon molten scourge": {
-        "name": "Volcanic dragon: molten scourge",
+        "key": "volcanic dragon molten scourge",
+        "name": "Volcanic Dragon: Molten Scourge",
         "tier": 4,
         "type": "Solo",
         "appearance": "*Engaged by their wounds, the dragon bursts into molten lava.*",
@@ -6087,7 +6209,8 @@
         ]
     },
     "volcanic dragon obsidian predator": {
-        "name": "Volcanic dragon: obsidian predator",
+        "key": "volcanic dragon obsidian predator",
+        "name": "Volcanic Dragon: Obsidian Predator",
         "tier": 4,
         "type": "Solo",
         "appearance": "*A massive winged creature with obsidian scales and impossibly sharp claws.*",
@@ -6158,7 +6281,8 @@
         ]
     },
     "war wizard": {
-        "name": "War wizard",
+        "key": "war wizard",
+        "name": "War Wizard",
         "tier": 2,
         "type": "Ranged",
         "appearance": "*A battle-hardened mage trained in destructive magic.*",
@@ -6226,6 +6350,7 @@
         ]
     },
     "weaponmaster": {
+        "key": "weaponmaster",
         "name": "Weaponmaster",
         "tier": 1,
         "type": "Bruiser",
@@ -6272,7 +6397,8 @@
         ]
     },
     "young dryad": {
-        "name": "Young dryad",
+        "key": "young dryad",
+        "name": "Young Dryad",
         "tier": 1,
         "type": "Leader",
         "appearance": "*An imperious tree-person leading their forest's defenses.*",
@@ -6322,7 +6448,8 @@
         ]
     },
     "young ice dragon": {
-        "name": "Young ice dragon",
+        "key": "young ice dragon",
+        "name": "Young Ice Dragon",
         "tier": 3,
         "type": "Solo",
         "appearance": "*A glacier-blue dragon with four powerful limbs and frost-tinged wings.*",
@@ -6400,7 +6527,8 @@
         ]
     },
     "zombie legion": {
-        "name": "Zombie legion",
+        "key": "zombie legion",
+        "name": "Zombie Legion",
         "tier": 4,
         "type": "Horde",
         "hordeHpEach": 3,
@@ -6454,7 +6582,8 @@
         ]
     },
     "zombie pack": {
-        "name": "Zombie pack",
+        "key": "zombie pack",
+        "name": "Zombie Pack",
         "tier": 1,
         "type": "Horde",
         "hordeHpEach": 2,

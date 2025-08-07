@@ -1,6 +1,7 @@
 {
     "a soldiers bond": {
-        "name": "A soldier's bond",
+        "key": "a soldiers bond",
+        "name": "A Soldier's Bond",
         "domain": "blade",
         "level": 2,
         "type": "Ability",
@@ -10,7 +11,8 @@
         ]
     },
     "adjust reality": {
-        "name": "Adjust reality",
+        "key": "adjust reality",
+        "name": "Adjust Reality",
         "domain": "arcana",
         "level": 10,
         "type": "Spell",
@@ -19,7 +21,8 @@
             "After you or a willing ally make any roll, you can spend 5 Hope to change the numerical result of that roll to a result of your choice instead. The result must be plausible within the range of the dice."
         ]
     },
-    "arcana-touched": {
+    "arcanatouched": {
+        "key": "arcanatouched",
         "name": "Arcana-touched",
         "domain": "arcana",
         "level": 7,
@@ -32,7 +35,8 @@
         ]
     },
     "arcane reflection": {
-        "name": "Arcane reflection",
+        "key": "arcane reflection",
+        "name": "Arcane Reflection",
         "domain": "arcana",
         "level": 8,
         "type": "Spell",
@@ -42,6 +46,7 @@
         ]
     },
     "armorer": {
+        "key": "armorer",
         "name": "Armorer",
         "domain": "valor",
         "level": 5,
@@ -53,7 +58,8 @@
         ]
     },
     "astral projection": {
-        "name": "Astral projection",
+        "key": "astral projection",
+        "name": "Astral Projection",
         "domain": "grace",
         "level": 8,
         "type": "Spell",
@@ -64,6 +70,7 @@
         ]
     },
     "banish": {
+        "key": "banish",
         "name": "Banish",
         "domain": "codex",
         "level": 6,
@@ -75,7 +82,8 @@
         ]
     },
     "bare bones": {
-        "name": "Bare bones",
+        "key": "bare bones",
+        "name": "Bare Bones",
         "domain": "valor",
         "level": 1,
         "type": "Ability",
@@ -89,7 +97,8 @@
         ]
     },
     "battle cry": {
-        "name": "Battle cry",
+        "key": "battle cry",
+        "name": "Battle Cry",
         "domain": "blade",
         "level": 8,
         "type": "Ability",
@@ -99,7 +108,8 @@
         ]
     },
     "battle monster": {
-        "name": "Battle monster",
+        "key": "battle monster",
+        "name": "Battle Monster",
         "domain": "blade",
         "level": 10,
         "type": "Ability",
@@ -108,7 +118,8 @@
             "When you make a successful attack against an adversary, you can mark 4 Stress to force the target to mark a number of Hit Points equal to the number of Hit Points you currently have marked instead of rolling for damage."
         ]
     },
-    "battle-hardened": {
+    "battlehardened": {
+        "key": "battlehardened",
         "name": "Battle-hardened",
         "domain": "blade",
         "level": 6,
@@ -118,7 +129,8 @@
             "Once per long rest when you would make a Death Move, you can spend a Hope to clear a Hit Point instead."
         ]
     },
-    "blade-touched": {
+    "bladetouched": {
+        "key": "bladetouched",
         "name": "Blade-touched",
         "domain": "blade",
         "level": 7,
@@ -131,7 +143,8 @@
         ]
     },
     "blink out": {
-        "name": "Blink out",
+        "key": "blink out",
+        "name": "Blink Out",
         "domain": "arcana",
         "level": 4,
         "type": "Spell",
@@ -141,7 +154,8 @@
         ]
     },
     "body basher": {
-        "name": "Body basher",
+        "key": "body basher",
+        "name": "Body Basher",
         "domain": "valor",
         "level": 2,
         "type": "Ability",
@@ -151,7 +165,8 @@
         ]
     },
     "bold presence": {
-        "name": "Bold presence",
+        "key": "bold presence",
+        "name": "Bold Presence",
         "domain": "valor",
         "level": 2,
         "type": "Ability",
@@ -162,7 +177,8 @@
         ]
     },
     "bolt beacon": {
-        "name": "Bolt beacon",
+        "key": "bolt beacon",
+        "name": "Bolt Beacon",
         "domain": "splendor",
         "level": 1,
         "type": "Spell",
@@ -171,7 +187,8 @@
             "Make a Spellcast Roll against a target within Far range. On a success, spend a Hope to send a bolt of shimmering light toward them, dealing 6d8+2 magic damage using your Proficiency. The target becomes temporarily Vulnerable and glows brightly until this condition is cleared."
         ]
     },
-    "bone-touched": {
+    "bonetouched": {
+        "key": "bonetouched",
         "name": "Bone-touched",
         "domain": "bone",
         "level": 7,
@@ -184,7 +201,8 @@
         ]
     },
     "book of ava": {
-        "name": "Book of ava",
+        "key": "book of ava",
+        "name": "Book of Ava",
         "domain": "codex",
         "level": 1,
         "type": "Grimoire",
@@ -197,7 +215,8 @@
         ]
     },
     "book of exota": {
-        "name": "Book of exota",
+        "key": "book of exota",
+        "name": "Book of Exota",
         "domain": "codex",
         "level": 4,
         "type": "Grimoire",
@@ -208,7 +227,8 @@
         ]
     },
     "book of grynn": {
-        "name": "Book of grynn",
+        "key": "book of grynn",
+        "name": "Book of Grynn",
         "domain": "codex",
         "level": 4,
         "type": "Grimoire",
@@ -220,7 +240,8 @@
         ]
     },
     "book of homet": {
-        "name": "Book of homet",
+        "key": "book of homet",
+        "name": "Book of Homet",
         "domain": "codex",
         "level": 7,
         "type": "Grimoire",
@@ -231,7 +252,8 @@
         ]
     },
     "book of illiat": {
-        "name": "Book of illiat",
+        "key": "book of illiat",
+        "name": "Book of Illiat",
         "domain": "codex",
         "level": 1,
         "type": "Grimoire",
@@ -243,7 +265,8 @@
         ]
     },
     "book of korvax": {
-        "name": "Book of korvax",
+        "key": "book of korvax",
+        "name": "Book of Korvax",
         "domain": "codex",
         "level": 3,
         "type": "Grimoire",
@@ -255,7 +278,8 @@
         ]
     },
     "book of norai": {
-        "name": "Book of norai",
+        "key": "book of norai",
+        "name": "Book of Norai",
         "domain": "codex",
         "level": 3,
         "type": "Grimoire",
@@ -266,7 +290,8 @@
         ]
     },
     "book of ronin": {
-        "name": "Book of ronin",
+        "key": "book of ronin",
+        "name": "Book of Ronin",
         "domain": "codex",
         "level": 9,
         "type": "Grimoire",
@@ -277,7 +302,8 @@
         ]
     },
     "book of sitil": {
-        "name": "Book of sitil",
+        "key": "book of sitil",
+        "name": "Book of Sitil",
         "domain": "codex",
         "level": 2,
         "type": "Grimoire",
@@ -290,7 +316,8 @@
         ]
     },
     "book of tyfar": {
-        "name": "Book of tyfar",
+        "key": "book of tyfar",
+        "name": "Book of Tyfar",
         "domain": "codex",
         "level": 1,
         "type": "Grimoire",
@@ -302,7 +329,8 @@
         ]
     },
     "book of vagras": {
-        "name": "Book of vagras",
+        "key": "book of vagras",
+        "name": "Book of Vagras",
         "domain": "codex",
         "level": 2,
         "type": "Grimoire",
@@ -314,7 +342,8 @@
         ]
     },
     "book of vyola": {
-        "name": "Book of vyola",
+        "key": "book of vyola",
+        "name": "Book of Vyola",
         "domain": "codex",
         "level": 8,
         "type": "Grimoire",
@@ -325,7 +354,8 @@
         ]
     },
     "book of yarrow": {
-        "name": "Book of yarrow",
+        "key": "book of yarrow",
+        "name": "Book of Yarrow",
         "domain": "codex",
         "level": 10,
         "type": "Grimoire",
@@ -336,6 +366,7 @@
         ]
     },
     "boost": {
+        "key": "boost",
         "name": "Boost",
         "domain": "bone",
         "level": 4,
@@ -346,6 +377,7 @@
         ]
     },
     "brace": {
+        "key": "brace",
         "name": "Brace",
         "domain": "bone",
         "level": 3,
@@ -356,7 +388,8 @@
         ]
     },
     "breaking blow": {
-        "name": "Breaking blow",
+        "key": "breaking blow",
+        "name": "Breaking Blow",
         "domain": "bone",
         "level": 8,
         "type": "Ability",
@@ -366,7 +399,8 @@
         ]
     },
     "chain lightning": {
-        "name": "Chain lightning",
+        "key": "chain lightning",
+        "name": "Chain Lightning",
         "domain": "arcana",
         "level": 5,
         "type": "Spell",
@@ -376,7 +410,8 @@
         ]
     },
     "champions edge": {
-        "name": "Champion's edge",
+        "key": "champions edge",
+        "name": "Champion's Edge",
         "domain": "blade",
         "level": 5,
         "type": "Ability",
@@ -390,6 +425,7 @@
         ]
     },
     "chokehold": {
+        "key": "chokehold",
         "name": "Chokehold",
         "domain": "midnight",
         "level": 3,
@@ -401,7 +437,8 @@
         ]
     },
     "cinder grasp": {
-        "name": "Cinder grasp",
+        "key": "cinder grasp",
+        "name": "Cinder Grasp",
         "domain": "arcana",
         "level": 2,
         "type": "Spell",
@@ -412,7 +449,8 @@
         ]
     },
     "cloaking blast": {
-        "name": "Cloaking blast",
+        "key": "cloaking blast",
+        "name": "Cloaking Blast",
         "domain": "arcana",
         "level": 7,
         "type": "Spell",
@@ -421,7 +459,8 @@
             "When you make a successful Spellcast Roll to cast a different spell, you can spend a Hope to become Cloaked. While Cloaked, you remain unseen if you are stationary when an adversary moves to where they would normally see you. When you move into or within an adversary's line of sight or make an attack, you are no longer Cloaked."
         ]
     },
-    "codex-touched": {
+    "codextouched": {
+        "key": "codextouched",
         "name": "Codex-touched",
         "domain": "codex",
         "level": 7,
@@ -434,7 +473,8 @@
         ]
     },
     "confusing aura": {
-        "name": "Confusing aura",
+        "key": "confusing aura",
+        "name": "Confusing Aura",
         "domain": "arcana",
         "level": 8,
         "type": "Spell",
@@ -444,7 +484,8 @@
         ]
     },
     "conjure swarm": {
-        "name": "Conjure swarm",
+        "key": "conjure swarm",
+        "name": "Conjure Swarm",
         "domain": "sage",
         "level": 2,
         "type": "Spell",
@@ -455,7 +496,8 @@
         ]
     },
     "conjured steeds": {
-        "name": "Conjured steeds",
+        "key": "conjured steeds",
+        "name": "Conjured Steeds",
         "domain": "sage",
         "level": 6,
         "type": "Spell",
@@ -465,6 +507,7 @@
         ]
     },
     "copycat": {
+        "key": "copycat",
         "name": "Copycat",
         "domain": "grace",
         "level": 9,
@@ -475,7 +518,8 @@
         ]
     },
     "corrosive projectile": {
-        "name": "Corrosive projectile",
+        "key": "corrosive projectile",
+        "name": "Corrosive Projectile",
         "domain": "sage",
         "level": 3,
         "type": "Spell",
@@ -485,6 +529,7 @@
         ]
     },
     "counterspell": {
+        "key": "counterspell",
         "name": "Counterspell",
         "domain": "arcana",
         "level": 3,
@@ -495,7 +540,8 @@
         ]
     },
     "critical inspiration": {
-        "name": "Critical inspiration",
+        "key": "critical inspiration",
+        "name": "Critical Inspiration",
         "domain": "valor",
         "level": 3,
         "type": "Ability",
@@ -505,7 +551,8 @@
         ]
     },
     "cruel precision": {
-        "name": "Cruel precision",
+        "key": "cruel precision",
+        "name": "Cruel Precision",
         "domain": "bone",
         "level": 7,
         "type": "Ability",
@@ -515,7 +562,8 @@
         ]
     },
     "dark whispers": {
-        "name": "Dark whispers",
+        "key": "dark whispers",
+        "name": "Dark Whispers",
         "domain": "midnight",
         "level": 6,
         "type": "Spell",
@@ -529,7 +577,8 @@
         ]
     },
     "deadly focus": {
-        "name": "Deadly focus",
+        "key": "deadly focus",
+        "name": "Deadly Focus",
         "domain": "blade",
         "level": 4,
         "type": "Ability",
@@ -539,7 +588,8 @@
         ]
     },
     "death grip": {
-        "name": "Death grip",
+        "key": "death grip",
+        "name": "Death Grip",
         "domain": "sage",
         "level": 4,
         "type": "Spell",
@@ -553,6 +603,7 @@
         ]
     },
     "deathrun": {
+        "key": "deathrun",
         "name": "Deathrun",
         "domain": "bone",
         "level": 10,
@@ -564,7 +615,8 @@
         ]
     },
     "deft deceiver": {
-        "name": "Deft deceiver",
+        "key": "deft deceiver",
+        "name": "Deft Deceiver",
         "domain": "grace",
         "level": 1,
         "type": "Ability",
@@ -574,7 +626,8 @@
         ]
     },
     "deft maneuvers": {
-        "name": "Deft maneuvers",
+        "key": "deft maneuvers",
+        "name": "Deft Maneuvers",
         "domain": "bone",
         "level": 1,
         "type": "Ability",
@@ -585,7 +638,8 @@
         ]
     },
     "disintegration wave": {
-        "name": "Disintegration wave",
+        "key": "disintegration wave",
+        "name": "Disintegration Wave",
         "domain": "codex",
         "level": 9,
         "type": "Spell",
@@ -595,6 +649,7 @@
         ]
     },
     "divination": {
+        "key": "divination",
         "name": "Divination",
         "domain": "splendor",
         "level": 4,
@@ -605,6 +660,7 @@
         ]
     },
     "earthquake": {
+        "key": "earthquake",
         "name": "Earthquake",
         "domain": "arcana",
         "level": 9,
@@ -616,6 +672,7 @@
         ]
     },
     "eclipse": {
+        "key": "eclipse",
         "name": "Eclipse",
         "domain": "midnight",
         "level": 10,
@@ -628,6 +685,7 @@
         ]
     },
     "encore": {
+        "key": "encore",
         "name": "Encore",
         "domain": "grace",
         "level": 10,
@@ -638,7 +696,8 @@
         ]
     },
     "endless charisma": {
-        "name": "Endless charisma",
+        "key": "endless charisma",
+        "name": "Endless Charisma",
         "domain": "grace",
         "level": 7,
         "type": "Ability",
@@ -648,6 +707,7 @@
         ]
     },
     "enrapture": {
+        "key": "enrapture",
         "name": "Enrapture",
         "domain": "grace",
         "level": 1,
@@ -658,7 +718,8 @@
         ]
     },
     "falling sky": {
-        "name": "Falling sky",
+        "key": "falling sky",
+        "name": "Falling Sky",
         "domain": "arcana",
         "level": 10,
         "type": "Spell",
@@ -668,7 +729,8 @@
         ]
     },
     "fane of the wilds": {
-        "name": "Fane of the wilds",
+        "key": "fane of the wilds",
+        "name": "Fane of the Wilds",
         "domain": "sage",
         "level": 9,
         "type": "Ability",
@@ -681,6 +743,7 @@
         ]
     },
     "ferocity": {
+        "key": "ferocity",
         "name": "Ferocity",
         "domain": "bone",
         "level": 2,
@@ -691,7 +754,8 @@
         ]
     },
     "final words": {
-        "name": "Final words",
+        "key": "final words",
+        "name": "Final Words",
         "domain": "splendor",
         "level": 2,
         "type": "Spell",
@@ -701,6 +765,7 @@
         ]
     },
     "flight": {
+        "key": "flight",
         "name": "Flight",
         "domain": "arcana",
         "level": 3,
@@ -711,7 +776,8 @@
         ]
     },
     "floating eye": {
-        "name": "Floating eye",
+        "key": "floating eye",
+        "name": "Floating Eye",
         "domain": "arcana",
         "level": 2,
         "type": "Spell",
@@ -721,6 +787,7 @@
         ]
     },
     "forager": {
+        "key": "forager",
         "name": "Forager",
         "domain": "sage",
         "level": 6,
@@ -737,7 +804,8 @@
         ]
     },
     "force of nature": {
-        "name": "Force of nature",
+        "key": "force of nature",
+        "name": "Force of Nature",
         "domain": "sage",
         "level": 10,
         "type": "Spell",
@@ -751,7 +819,8 @@
         ]
     },
     "forceful push": {
-        "name": "Forceful push",
+        "key": "forceful push",
+        "name": "Forceful Push",
         "domain": "valor",
         "level": 1,
         "type": "Ability",
@@ -762,7 +831,8 @@
         ]
     },
     "forest sprites": {
-        "name": "Forest sprites",
+        "key": "forest sprites",
+        "name": "Forest Sprites",
         "domain": "sage",
         "level": 8,
         "type": "Spell",
@@ -775,7 +845,8 @@
         ]
     },
     "fortified armor": {
-        "name": "Fortified armor",
+        "key": "fortified armor",
+        "name": "Fortified Armor",
         "domain": "blade",
         "level": 4,
         "type": "Ability",
@@ -785,6 +856,7 @@
         ]
     },
     "frenzy": {
+        "key": "frenzy",
         "name": "Frenzy",
         "domain": "blade",
         "level": 8,
@@ -796,7 +868,8 @@
         ]
     },
     "full surge": {
-        "name": "Full surge",
+        "key": "full surge",
+        "name": "Full Surge",
         "domain": "valor",
         "level": 8,
         "type": "Ability",
@@ -806,7 +879,8 @@
         ]
     },
     "get back up": {
-        "name": "Get back up",
+        "key": "get back up",
+        "name": "Get Back Up",
         "domain": "blade",
         "level": 1,
         "type": "Ability",
@@ -816,7 +890,8 @@
         ]
     },
     "gifted tracker": {
-        "name": "Gifted tracker",
+        "key": "gifted tracker",
+        "name": "Gifted Tracker",
         "domain": "sage",
         "level": 1,
         "type": "Ability",
@@ -831,7 +906,8 @@
         ]
     },
     "glancing blow": {
-        "name": "Glancing blow",
+        "key": "glancing blow",
+        "name": "Glancing Blow",
         "domain": "blade",
         "level": 7,
         "type": "Ability",
@@ -841,7 +917,8 @@
         ]
     },
     "glyph of nightfall": {
-        "name": "Glyph of nightfall",
+        "key": "glyph of nightfall",
+        "name": "Glyph of Nightfall",
         "domain": "midnight",
         "level": 4,
         "type": "Spell",
@@ -851,7 +928,8 @@
         ]
     },
     "goad them on": {
-        "name": "Goad them on",
+        "key": "goad them on",
+        "name": "Goad Them On",
         "domain": "valor",
         "level": 4,
         "type": "Ability",
@@ -861,7 +939,8 @@
         ]
     },
     "gore and glory": {
-        "name": "Gore and glory",
+        "key": "gore and glory",
+        "name": "Gore And Glory",
         "domain": "blade",
         "level": 9,
         "type": "Ability",
@@ -871,7 +950,8 @@
             "Additionally, when you deal enough damage to defeat an enemy, gain a Hope or clear a Stress."
         ]
     },
-    "grace-touched": {
+    "gracetouched": {
+        "key": "gracetouched",
         "name": "Grace-touched",
         "domain": "grace",
         "level": 7,
@@ -884,7 +964,8 @@
         ]
     },
     "ground pound": {
-        "name": "Ground pound",
+        "key": "ground pound",
+        "name": "Ground Pound",
         "domain": "valor",
         "level": 8,
         "type": "Ability",
@@ -894,7 +975,8 @@
         ]
     },
     "healing field": {
-        "name": "Healing field",
+        "key": "healing field",
+        "name": "Healing Field",
         "domain": "sage",
         "level": 4,
         "type": "Spell",
@@ -905,7 +987,8 @@
         ]
     },
     "healing hands": {
-        "name": "Healing hands",
+        "key": "healing hands",
+        "name": "Healing Hands",
         "domain": "splendor",
         "level": 2,
         "type": "Spell",
@@ -915,7 +998,8 @@
         ]
     },
     "healing strike": {
-        "name": "Healing strike",
+        "key": "healing strike",
+        "name": "Healing Strike",
         "domain": "splendor",
         "level": 7,
         "type": "Spell",
@@ -925,7 +1009,8 @@
         ]
     },
     "hold the line": {
-        "name": "Hold the line",
+        "key": "hold the line",
+        "name": "Hold the Line",
         "domain": "valor",
         "level": 9,
         "type": "Ability",
@@ -936,6 +1021,7 @@
         ]
     },
     "hush": {
+        "key": "hush",
         "name": "Hush",
         "domain": "midnight",
         "level": 5,
@@ -947,7 +1033,8 @@
         ]
     },
     "hypnotic shimmer": {
-        "name": "Hypnotic shimmer",
+        "key": "hypnotic shimmer",
+        "name": "Hypnotic Shimmer",
         "domain": "grace",
         "level": 3,
         "type": "Spell",
@@ -957,7 +1044,8 @@
         ]
     },
     "i am your shield": {
-        "name": "I am your shield",
+        "key": "i am your shield",
+        "name": "I Am Your Shield",
         "domain": "valor",
         "level": 1,
         "type": "Ability",
@@ -967,7 +1055,8 @@
         ]
     },
     "i see it coming": {
-        "name": "I see it coming",
+        "key": "i see it coming",
+        "name": "I See It Coming",
         "domain": "bone",
         "level": 1,
         "type": "Ability",
@@ -977,6 +1066,7 @@
         ]
     },
     "inevitable": {
+        "key": "inevitable",
         "name": "Inevitable",
         "domain": "valor",
         "level": 6,
@@ -987,7 +1077,8 @@
         ]
     },
     "inspirational words": {
-        "name": "Inspirational words",
+        "key": "inspirational words",
+        "name": "Inspirational Words",
         "domain": "grace",
         "level": 1,
         "type": "Ability",
@@ -1001,6 +1092,7 @@
         ]
     },
     "invigoration": {
+        "key": "invigoration",
         "name": "Invigoration",
         "domain": "splendor",
         "level": 10,
@@ -1011,6 +1103,7 @@
         ]
     },
     "invisibility": {
+        "key": "invisibility",
         "name": "Invisibility",
         "domain": "grace",
         "level": 3,
@@ -1022,7 +1115,8 @@
         ]
     },
     "know thy enemy": {
-        "name": "Know thy enemy",
+        "key": "know thy enemy",
+        "name": "Know Thy Enemy",
         "domain": "bone",
         "level": 5,
         "type": "Ability",
@@ -1037,7 +1131,8 @@
         ]
     },
     "lead by example": {
-        "name": "Lead by example",
+        "key": "lead by example",
+        "name": "Lead By Example",
         "domain": "valor",
         "level": 9,
         "type": "Ability",
@@ -1047,7 +1142,8 @@
         ]
     },
     "lean on me": {
-        "name": "Lean on me",
+        "key": "lean on me",
+        "name": "Lean On Me",
         "domain": "valor",
         "level": 3,
         "type": "Ability",
@@ -1057,7 +1153,8 @@
         ]
     },
     "life ward": {
-        "name": "Life ward",
+        "key": "life ward",
+        "name": "Life Ward",
         "domain": "splendor",
         "level": 4,
         "type": "Spell",
@@ -1068,7 +1165,8 @@
         ]
     },
     "manifest wall": {
-        "name": "Manifest wall",
+        "key": "manifest wall",
+        "name": "Manifest Wall",
         "domain": "codex",
         "level": 5,
         "type": "Spell",
@@ -1078,7 +1176,8 @@
         ]
     },
     "mass disguise": {
-        "name": "Mass disguise",
+        "key": "mass disguise",
+        "name": "Mass Disguise",
         "domain": "midnight",
         "level": 6,
         "type": "Spell",
@@ -1089,7 +1188,8 @@
         ]
     },
     "mass enrapture": {
-        "name": "Mass enrapture",
+        "key": "mass enrapture",
+        "name": "Mass Enrapture",
         "domain": "grace",
         "level": 8,
         "type": "Spell",
@@ -1099,7 +1199,8 @@
         ]
     },
     "master of the craft": {
-        "name": "Master of the craft",
+        "key": "master of the craft",
+        "name": "Master of the Craft",
         "domain": "grace",
         "level": 9,
         "type": "Ability",
@@ -1109,7 +1210,8 @@
         ]
     },
     "mending touch": {
-        "name": "Mending touch",
+        "key": "mending touch",
+        "name": "Mending Touch",
         "domain": "splendor",
         "level": 1,
         "type": "Spell",
@@ -1120,7 +1222,8 @@
         ]
     },
     "midnight spirit": {
-        "name": "Midnight spirit",
+        "key": "midnight spirit",
+        "name": "Midnight Spirit",
         "domain": "midnight",
         "level": 2,
         "type": "Spell",
@@ -1130,7 +1233,8 @@
             "You can also send it to attack an adversary. When you do, make a Spellcast Roll against a target within Very Far range. On a success, the spirit moves into Melee range with that target. Roll a number of d6s equal to your Spellcast trait and deal that much magic damage to the target. The spirit then dissipates. You can only have one spirit at a time."
         ]
     },
-    "midnight-touched": {
+    "midnighttouched": {
+        "key": "midnighttouched",
         "name": "Midnight-touched",
         "domain": "midnight",
         "level": 7,
@@ -1143,7 +1247,8 @@
         ]
     },
     "natural familiar": {
-        "name": "Natural familiar",
+        "key": "natural familiar",
+        "name": "Natural Familiar",
         "domain": "sage",
         "level": 2,
         "type": "Spell",
@@ -1154,7 +1259,8 @@
         ]
     },
     "natures tongue": {
-        "name": "Nature's tongue",
+        "key": "natures tongue",
+        "name": "Nature's Tongue",
         "domain": "sage",
         "level": 1,
         "type": "Ability",
@@ -1165,7 +1271,8 @@
         ]
     },
     "never upstaged": {
-        "name": "Never upstaged",
+        "key": "never upstaged",
+        "name": "Never Upstaged",
         "domain": "grace",
         "level": 6,
         "type": "Ability",
@@ -1175,7 +1282,8 @@
         ]
     },
     "night terror": {
-        "name": "Night terror",
+        "key": "night terror",
+        "name": "Night Terror",
         "domain": "midnight",
         "level": 9,
         "type": "Spell",
@@ -1185,7 +1293,8 @@
         ]
     },
     "not good enough": {
-        "name": "Not good enough",
+        "key": "not good enough",
+        "name": "Not Good Enough",
         "domain": "blade",
         "level": 1,
         "type": "Ability",
@@ -1195,6 +1304,7 @@
         ]
     },
     "notorious": {
+        "key": "notorious",
         "name": "Notorious",
         "domain": "grace",
         "level": 10,
@@ -1206,7 +1316,8 @@
         ]
     },
     "on the brink": {
-        "name": "On the brink",
+        "key": "on the brink",
+        "name": "On the Brink",
         "domain": "bone",
         "level": 9,
         "type": "Ability",
@@ -1216,6 +1327,7 @@
         ]
     },
     "onslaught": {
+        "key": "onslaught",
         "name": "Onslaught",
         "domain": "blade",
         "level": 10,
@@ -1227,7 +1339,8 @@
         ]
     },
     "overwhelming aura": {
-        "name": "Overwhelming aura",
+        "key": "overwhelming aura",
+        "name": "Overwhelming Aura",
         "domain": "splendor",
         "level": 9,
         "type": "Spell",
@@ -1238,7 +1351,8 @@
         ]
     },
     "phantom retreat": {
-        "name": "Phantom retreat",
+        "key": "phantom retreat",
+        "name": "Phantom Retreat",
         "domain": "midnight",
         "level": 5,
         "type": "Spell",
@@ -1248,7 +1362,8 @@
         ]
     },
     "pick and pull": {
-        "name": "Pick and pull",
+        "key": "pick and pull",
+        "name": "Pick And Pull",
         "domain": "midnight",
         "level": 1,
         "type": "Ability",
@@ -1258,7 +1373,8 @@
         ]
     },
     "plant dominion": {
-        "name": "Plant dominion",
+        "key": "plant dominion",
+        "name": "Plant Dominion",
         "domain": "sage",
         "level": 9,
         "type": "Spell",
@@ -1268,6 +1384,7 @@
         ]
     },
     "premonition": {
+        "key": "premonition",
         "name": "Premonition",
         "domain": "arcana",
         "level": 5,
@@ -1278,7 +1395,8 @@
         ]
     },
     "preservation blast": {
-        "name": "Preservation blast",
+        "key": "preservation blast",
+        "name": "Preservation Blast",
         "domain": "arcana",
         "level": 4,
         "type": "Spell",
@@ -1288,7 +1406,8 @@
         ]
     },
     "rage up": {
-        "name": "Rage up",
+        "key": "rage up",
+        "name": "Rage Up",
         "domain": "blade",
         "level": 6,
         "type": "Ability",
@@ -1298,7 +1417,8 @@
         ]
     },
     "rain of blades": {
-        "name": "Rain of blades",
+        "key": "rain of blades",
+        "name": "Rain of Blades",
         "domain": "midnight",
         "level": 1,
         "type": "Spell",
@@ -1309,7 +1429,8 @@
         ]
     },
     "rapid riposte": {
-        "name": "Rapid riposte",
+        "key": "rapid riposte",
+        "name": "Rapid Riposte",
         "domain": "bone",
         "level": 6,
         "type": "Ability",
@@ -1319,7 +1440,8 @@
         ]
     },
     "reapers strike": {
-        "name": "Reaper's strike",
+        "key": "reapers strike",
+        "name": "Reaper's Strike",
         "domain": "blade",
         "level": 9,
         "type": "Ability",
@@ -1329,6 +1451,7 @@
         ]
     },
     "reassurance": {
+        "key": "reassurance",
         "name": "Reassurance",
         "domain": "splendor",
         "level": 1,
@@ -1339,6 +1462,7 @@
         ]
     },
     "reckless": {
+        "key": "reckless",
         "name": "Reckless",
         "domain": "blade",
         "level": 2,
@@ -1349,6 +1473,7 @@
         ]
     },
     "recovery": {
+        "key": "recovery",
         "name": "Recovery",
         "domain": "bone",
         "level": 6,
@@ -1359,6 +1484,7 @@
         ]
     },
     "redirect": {
+        "key": "redirect",
         "name": "Redirect",
         "domain": "bone",
         "level": 4,
@@ -1369,7 +1495,8 @@
         ]
     },
     "rejuvenation barrier": {
-        "name": "Rejuvenation barrier",
+        "key": "rejuvenation barrier",
+        "name": "Rejuvenation Barrier",
         "domain": "sage",
         "level": 8,
         "type": "Spell",
@@ -1380,6 +1507,7 @@
         ]
     },
     "restoration": {
+        "key": "restoration",
         "name": "Restoration",
         "domain": "splendor",
         "level": 6,
@@ -1392,6 +1520,7 @@
         ]
     },
     "resurrection": {
+        "key": "resurrection",
         "name": "Resurrection",
         "domain": "splendor",
         "level": 10,
@@ -1403,7 +1532,8 @@
         ]
     },
     "rift walker": {
-        "name": "Rift walker",
+        "key": "rift walker",
+        "name": "Rift Walker",
         "domain": "arcana",
         "level": 6,
         "type": "Spell",
@@ -1414,7 +1544,8 @@
         ]
     },
     "rise up": {
-        "name": "Rise up",
+        "key": "rise up",
+        "name": "Rise Up",
         "domain": "valor",
         "level": 6,
         "type": "Ability",
@@ -1425,7 +1556,8 @@
         ]
     },
     "rousing strike": {
-        "name": "Rousing strike",
+        "key": "rousing strike",
+        "name": "Rousing Strike",
         "domain": "valor",
         "level": 5,
         "type": "Ability",
@@ -1435,7 +1567,8 @@
         ]
     },
     "rune ward": {
-        "name": "Rune ward",
+        "key": "rune ward",
+        "name": "Rune Ward",
         "domain": "arcana",
         "level": 1,
         "type": "Spell",
@@ -1446,7 +1579,8 @@
         ]
     },
     "safe haven": {
-        "name": "Safe haven",
+        "key": "safe haven",
+        "name": "Safe Haven",
         "domain": "codex",
         "level": 8,
         "type": "Spell",
@@ -1456,7 +1590,8 @@
             "When you take a rest within your own Safe Haven, you can choose an additional downtime move."
         ]
     },
-    "sage-touched": {
+    "sagetouched": {
+        "key": "sagetouched",
         "name": "Sage-touched",
         "domain": "sage",
         "level": 7,
@@ -1469,7 +1604,8 @@
         ]
     },
     "salvation beam": {
-        "name": "Salvation beam",
+        "key": "salvation beam",
+        "name": "Salvation Beam",
         "domain": "splendor",
         "level": 9,
         "type": "Spell",
@@ -1479,6 +1615,7 @@
         ]
     },
     "scramble": {
+        "key": "scramble",
         "name": "Scramble",
         "domain": "blade",
         "level": 3,
@@ -1489,7 +1626,8 @@
         ]
     },
     "second wind": {
-        "name": "Second wind",
+        "key": "second wind",
+        "name": "Second Wind",
         "domain": "splendor",
         "level": 3,
         "type": "Ability",
@@ -1499,7 +1637,8 @@
         ]
     },
     "sensory projection": {
-        "name": "Sensory projection",
+        "key": "sensory projection",
+        "name": "Sensory Projection",
         "domain": "arcana",
         "level": 9,
         "type": "Spell",
@@ -1509,6 +1648,7 @@
         ]
     },
     "shadowbind": {
+        "key": "shadowbind",
         "name": "Shadowbind",
         "domain": "midnight",
         "level": 2,
@@ -1519,6 +1659,7 @@
         ]
     },
     "shadowhunter": {
+        "key": "shadowhunter",
         "name": "Shadowhunter",
         "domain": "midnight",
         "level": 8,
@@ -1529,7 +1670,8 @@
         ]
     },
     "shape material": {
-        "name": "Shape material",
+        "key": "shape material",
+        "name": "Shape Material",
         "domain": "splendor",
         "level": 5,
         "type": "Spell",
@@ -1540,7 +1682,8 @@
         ]
     },
     "share the burden": {
-        "name": "Share the burden",
+        "key": "share the burden",
+        "name": "Share the Burden",
         "domain": "grace",
         "level": 6,
         "type": "Spell",
@@ -1550,7 +1693,8 @@
         ]
     },
     "shield aura": {
-        "name": "Shield aura",
+        "key": "shield aura",
+        "name": "Shield Aura",
         "domain": "splendor",
         "level": 8,
         "type": "Spell",
@@ -1561,7 +1705,8 @@
         ]
     },
     "shrug it off": {
-        "name": "Shrug it off",
+        "key": "shrug it off",
+        "name": "Shrug It Off",
         "domain": "valor",
         "level": 7,
         "type": "Ability",
@@ -1571,7 +1716,8 @@
         ]
     },
     "sigil of retribution": {
-        "name": "Sigil of retribution",
+        "key": "sigil of retribution",
+        "name": "Sigil of Retribution",
         "domain": "codex",
         "level": 6,
         "type": "Spell",
@@ -1581,7 +1727,8 @@
         ]
     },
     "signature move": {
-        "name": "Signature move",
+        "key": "signature move",
+        "name": "Signature Move",
         "domain": "bone",
         "level": 5,
         "type": "Ability",
@@ -1591,6 +1738,7 @@
         ]
     },
     "smite": {
+        "key": "smite",
         "name": "Smite",
         "domain": "splendor",
         "level": 5,
@@ -1601,7 +1749,8 @@
         ]
     },
     "soothing speech": {
-        "name": "Soothing speech",
+        "key": "soothing speech",
+        "name": "Soothing Speech",
         "domain": "grace",
         "level": 4,
         "type": "Ability",
@@ -1611,7 +1760,8 @@
         ]
     },
     "specter of the dark": {
-        "name": "Specter of the dark",
+        "key": "specter of the dark",
+        "name": "Specter of the Dark",
         "domain": "midnight",
         "level": 10,
         "type": "Spell",
@@ -1621,6 +1771,7 @@
         ]
     },
     "spellcharge": {
+        "key": "spellcharge",
         "name": "Spellcharge",
         "domain": "midnight",
         "level": 8,
@@ -1631,7 +1782,8 @@
             "When you make a successful attack against a target, you can spend any number of tokens to add a d6 for each token spent to your damage roll."
         ]
     },
-    "splendor-touched": {
+    "splendortouched": {
+        "key": "splendortouched",
         "name": "Splendor-touched",
         "domain": "splendor",
         "level": 7,
@@ -1644,7 +1796,8 @@
         ]
     },
     "splintering strike": {
-        "name": "Splintering strike",
+        "key": "splintering strike",
+        "name": "Splintering Strike",
         "domain": "bone",
         "level": 9,
         "type": "Ability",
@@ -1654,7 +1807,8 @@
         ]
     },
     "stealth expertise": {
-        "name": "Stealth expertise",
+        "key": "stealth expertise",
+        "name": "Stealth Expertise",
         "domain": "midnight",
         "level": 4,
         "type": "Ability",
@@ -1665,7 +1819,8 @@
         ]
     },
     "strategic approach": {
-        "name": "Strategic approach",
+        "key": "strategic approach",
+        "name": "Strategic Approach",
         "domain": "bone",
         "level": 2,
         "type": "Ability",
@@ -1679,7 +1834,8 @@
         ]
     },
     "stunning sunlight": {
-        "name": "Stunning sunlight",
+        "key": "stunning sunlight",
+        "name": "Stunning Sunlight",
         "domain": "splendor",
         "level": 8,
         "type": "Spell",
@@ -1690,7 +1846,8 @@
         ]
     },
     "support tank": {
-        "name": "Support tank",
+        "key": "support tank",
+        "name": "Support Tank",
         "domain": "valor",
         "level": 4,
         "type": "Ability",
@@ -1700,7 +1857,8 @@
         ]
     },
     "swift step": {
-        "name": "Swift step",
+        "key": "swift step",
+        "name": "Swift Step",
         "domain": "bone",
         "level": 10,
         "type": "Ability",
@@ -1710,6 +1868,7 @@
         ]
     },
     "tactician": {
+        "key": "tactician",
         "name": "Tactician",
         "domain": "bone",
         "level": 3,
@@ -1721,6 +1880,7 @@
         ]
     },
     "telekinesis": {
+        "key": "telekinesis",
         "name": "Telekinesis",
         "domain": "arcana",
         "level": 6,
@@ -1731,6 +1891,7 @@
         ]
     },
     "teleport": {
+        "key": "teleport",
         "name": "Teleport",
         "domain": "codex",
         "level": 5,
@@ -1746,7 +1907,8 @@
         ]
     },
     "tell no lies": {
-        "name": "Tell no lies",
+        "key": "tell no lies",
+        "name": "Tell No Lies",
         "domain": "grace",
         "level": 2,
         "type": "Spell",
@@ -1756,6 +1918,7 @@
         ]
     },
     "tempest": {
+        "key": "tempest",
         "name": "Tempest",
         "domain": "sage",
         "level": 10,
@@ -1769,7 +1932,8 @@
         ]
     },
     "thorn skin": {
-        "name": "Thorn skin",
+        "key": "thorn skin",
+        "name": "Thorn Skin",
         "domain": "sage",
         "level": 5,
         "type": "Spell",
@@ -1780,7 +1944,8 @@
         ]
     },
     "thought delver": {
-        "name": "Thought delver",
+        "key": "thought delver",
+        "name": "Thought Delver",
         "domain": "grace",
         "level": 5,
         "type": "Spell",
@@ -1791,7 +1956,8 @@
         ]
     },
     "through your eyes": {
-        "name": "Through your eyes",
+        "key": "through your eyes",
+        "name": "Through Your Eyes",
         "domain": "grace",
         "level": 4,
         "type": "Spell",
@@ -1801,7 +1967,8 @@
         ]
     },
     "towering stalk": {
-        "name": "Towering stalk",
+        "key": "towering stalk",
+        "name": "Towering Stalk",
         "domain": "sage",
         "level": 3,
         "type": "Spell",
@@ -1812,7 +1979,8 @@
         ]
     },
     "transcendent union": {
-        "name": "Transcendent union",
+        "key": "transcendent union",
+        "name": "Transcendent Union",
         "domain": "codex",
         "level": 10,
         "type": "Spell",
@@ -1822,6 +1990,7 @@
         ]
     },
     "troublemaker": {
+        "key": "troublemaker",
         "name": "Troublemaker",
         "domain": "grace",
         "level": 2,
@@ -1832,7 +2001,8 @@
         ]
     },
     "twilight toll": {
-        "name": "Twilight toll",
+        "key": "twilight toll",
+        "name": "Twilight Toll",
         "domain": "midnight",
         "level": 9,
         "type": "Ability",
@@ -1843,6 +2013,7 @@
         ]
     },
     "unbreakable": {
+        "key": "unbreakable",
         "name": "Unbreakable",
         "domain": "valor",
         "level": 10,
@@ -1853,7 +2024,8 @@
         ]
     },
     "uncanny disguise": {
-        "name": "Uncanny disguise",
+        "key": "uncanny disguise",
+        "name": "Uncanny Disguise",
         "domain": "midnight",
         "level": 1,
         "type": "Spell",
@@ -1864,7 +2036,8 @@
         ]
     },
     "unleash chaos": {
-        "name": "Unleash chaos",
+        "key": "unleash chaos",
+        "name": "Unleash Chaos",
         "domain": "arcana",
         "level": 1,
         "type": "Spell",
@@ -1876,6 +2049,7 @@
         ]
     },
     "untouchable": {
+        "key": "untouchable",
         "name": "Untouchable",
         "domain": "bone",
         "level": 1,
@@ -1886,7 +2060,8 @@
         ]
     },
     "unyielding armor": {
-        "name": "Unyielding armor",
+        "key": "unyielding armor",
+        "name": "Unyielding Armor",
         "domain": "valor",
         "level": 10,
         "type": "Ability",
@@ -1895,7 +2070,8 @@
             "When you would mark an Armor Slot, roll a number of d6s equal to your Proficiency. If any roll a 6, reduce the severity by one threshold without marking an Armor Slot."
         ]
     },
-    "valor-touched": {
+    "valortouched": {
+        "key": "valortouched",
         "name": "Valor-touched",
         "domain": "valor",
         "level": 7,
@@ -1908,7 +2084,8 @@
         ]
     },
     "vanishing dodge": {
-        "name": "Vanishing dodge",
+        "key": "vanishing dodge",
+        "name": "Vanishing Dodge",
         "domain": "midnight",
         "level": 7,
         "type": "Spell",
@@ -1918,7 +2095,8 @@
         ]
     },
     "veil of night": {
-        "name": "Veil of night",
+        "key": "veil of night",
+        "name": "Veil of Night",
         "domain": "midnight",
         "level": 3,
         "type": "Spell",
@@ -1928,7 +2106,8 @@
         ]
     },
     "versatile fighter": {
-        "name": "Versatile fighter",
+        "key": "versatile fighter",
+        "name": "Versatile Fighter",
         "domain": "blade",
         "level": 3,
         "type": "Ability",
@@ -1939,7 +2118,8 @@
         ]
     },
     "vicious entangle": {
-        "name": "Vicious entangle",
+        "key": "vicious entangle",
+        "name": "Vicious Entangle",
         "domain": "sage",
         "level": 1,
         "type": "Spell",
@@ -1950,6 +2130,7 @@
         ]
     },
     "vitality": {
+        "key": "vitality",
         "name": "Vitality",
         "domain": "blade",
         "level": 5,
@@ -1964,7 +2145,8 @@
         ]
     },
     "voice of reason": {
-        "name": "Voice of reason",
+        "key": "voice of reason",
+        "name": "Voice of Reason",
         "domain": "splendor",
         "level": 3,
         "type": "Ability",
@@ -1975,7 +2157,8 @@
         ]
     },
     "wall walk": {
-        "name": "Wall walk",
+        "key": "wall walk",
+        "name": "Wall Walk",
         "domain": "arcana",
         "level": 1,
         "type": "Spell",
@@ -1985,6 +2168,7 @@
         ]
     },
     "whirlwind": {
+        "key": "whirlwind",
         "name": "Whirlwind",
         "domain": "blade",
         "level": 1,
@@ -1995,7 +2179,8 @@
         ]
     },
     "wild fortress": {
-        "name": "Wild fortress",
+        "key": "wild fortress",
+        "name": "Wild Fortress",
         "domain": "sage",
         "level": 5,
         "type": "Spell",
@@ -2006,7 +2191,8 @@
         ]
     },
     "wild surge": {
-        "name": "Wild surge",
+        "key": "wild surge",
+        "name": "Wild Surge",
         "domain": "sage",
         "level": 7,
         "type": "Spell",
@@ -2017,7 +2203,8 @@
         ]
     },
     "words of discord": {
-        "name": "Words of discord",
+        "key": "words of discord",
+        "name": "Words of Discord",
         "domain": "grace",
         "level": 5,
         "type": "Spell",
@@ -2028,6 +2215,7 @@
         ]
     },
     "wrangle": {
+        "key": "wrangle",
         "name": "Wrangle",
         "domain": "bone",
         "level": 8,
@@ -2038,7 +2226,8 @@
         ]
     },
     "zone of protection": {
-        "name": "Zone of protection",
+        "key": "zone of protection",
+        "name": "Zone of Protection",
         "domain": "splendor",
         "level": 6,
         "type": "Spell",

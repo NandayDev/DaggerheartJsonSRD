@@ -1,5 +1,5 @@
 {
-    "Acid Burrower": {
+    "acid burrower": {
         "name": "Acid burrower",
         "tier": 1,
         "type": "Solo",
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "Adult Flickerfly": {
+    "adult flickerfly": {
         "name": "Adult flickerfly",
         "tier": 3,
         "type": "Solo",
@@ -130,7 +130,7 @@
             }
         ]
     },
-    "Apprentice Assassin": {
+    "apprentice assassin": {
         "name": "Apprentice assassin",
         "tier": 2,
         "type": "Minion",
@@ -169,7 +169,7 @@
             }
         ]
     },
-    "Arch-Necromancer": {
+    "arch-necromancer": {
         "name": "Arch-necromancer",
         "tier": 4,
         "type": "Leader",
@@ -241,7 +241,7 @@
             }
         ]
     },
-    "Archer Guard": {
+    "archer guard": {
         "name": "Archer guard",
         "tier": 1,
         "type": "Ranged",
@@ -277,7 +277,7 @@
             }
         ]
     },
-    "Archer Squadron": {
+    "archer squadron": {
         "name": "Archer squadron",
         "tier": 2,
         "type": "Horde",
@@ -324,7 +324,7 @@
             }
         ]
     },
-    "Assassin Poisoner": {
+    "assassin poisoner": {
         "name": "Assassin poisoner",
         "tier": 2,
         "type": "Skulk",
@@ -374,7 +374,7 @@
             }
         ]
     },
-    "Battle Box": {
+    "battle box": {
         "name": "Battle box",
         "tier": 2,
         "type": "Solo",
@@ -431,7 +431,7 @@
             }
         ]
     },
-    "Bear": {
+    "bear": {
         "name": "Bear",
         "tier": 1,
         "type": "Bruiser",
@@ -485,7 +485,7 @@
             }
         ]
     },
-    "Bladed Guard": {
+    "bladed guard": {
         "name": "Bladed guard",
         "tier": 1,
         "type": "Standard",
@@ -528,7 +528,7 @@
             }
         ]
     },
-    "Brawny Zombie": {
+    "brawny zombie": {
         "name": "Brawny zombie",
         "tier": 1,
         "type": "Bruiser",
@@ -582,7 +582,7 @@
             }
         ]
     },
-    "Cave Ogre": {
+    "cave ogre": {
         "name": "Cave ogre",
         "tier": 1,
         "type": "Solo",
@@ -639,7 +639,7 @@
             }
         ]
     },
-    "Chaos Skull": {
+    "chaos skull": {
         "name": "Chaos skull",
         "tier": 2,
         "type": "Ranged",
@@ -692,7 +692,7 @@
             }
         ]
     },
-    "Conscript": {
+    "conscript": {
         "name": "Conscript",
         "tier": 2,
         "type": "Minion",
@@ -727,7 +727,7 @@
             }
         ]
     },
-    "Construct": {
+    "construct": {
         "name": "Construct",
         "tier": 1,
         "type": "Solo",
@@ -787,7 +787,7 @@
             }
         ]
     },
-    "Courtesan": {
+    "courtesan": {
         "name": "Courtesan",
         "tier": 2,
         "type": "Social",
@@ -827,7 +827,7 @@
             }
         ]
     },
-    "Courtier": {
+    "courtier": {
         "name": "Courtier",
         "tier": 1,
         "type": "Social",
@@ -870,7 +870,7 @@
             }
         ]
     },
-    "Cult Adept": {
+    "cult adept": {
         "name": "Cult adept",
         "tier": 2,
         "type": "Support",
@@ -931,7 +931,7 @@
             }
         ]
     },
-    "Cult Fang": {
+    "cult fang": {
         "name": "Cult fang",
         "tier": 2,
         "type": "Skulk",
@@ -970,7 +970,7 @@
             }
         ]
     },
-    "Cult Initiate": {
+    "cult initiate": {
         "name": "Cult initiate",
         "tier": 2,
         "type": "Minion",
@@ -1005,7 +1005,7 @@
             }
         ]
     },
-    "Deeproot Defender": {
+    "deeproot defender": {
         "name": "Deeproot defender",
         "tier": 1,
         "type": "Bruiser",
@@ -1048,7 +1048,7 @@
             }
         ]
     },
-    "Demon of Avarice": {
+    "demon of avarice": {
         "name": "Demon of avarice",
         "tier": 3,
         "type": "Support",
@@ -1098,7 +1098,7 @@
             }
         ]
     },
-    "Demon of Despair": {
+    "demon of despair": {
         "name": "Demon of despair",
         "tier": 3,
         "type": "Skulk",
@@ -1155,7 +1155,7 @@
             }
         ]
     },
-    "Demon of Hubris": {
+    "demon of hubris": {
         "name": "Demon of hubris",
         "tier": 3,
         "type": "Leader",
@@ -1219,7 +1219,7 @@
             }
         ]
     },
-    "Demon of Jealousy": {
+    "demon of jealousy": {
         "name": "Demon of jealousy",
         "tier": 3,
         "type": "Ranged",
@@ -1276,7 +1276,7 @@
             }
         ]
     },
-    "Demon of Wrath": {
+    "demon of wrath": {
         "name": "Demon of wrath",
         "tier": 3,
         "type": "Bruiser",
@@ -1333,7 +1333,7 @@
             }
         ]
     },
-    "Demonic Hound Pack": {
+    "demonic hound pack": {
         "name": "Demonic hound pack",
         "tier": 2,
         "type": "Horde",
@@ -1384,7 +1384,7 @@
             }
         ]
     },
-    "Dire Bat": {
+    "dire bat": {
         "name": "Dire bat",
         "tier": 3,
         "type": "Skulk",
@@ -1434,7 +1434,7 @@
             }
         ]
     },
-    "Dire Wolf": {
+    "dire wolf": {
         "name": "Dire wolf",
         "tier": 1,
         "type": "Skulk",
@@ -1477,7 +1477,7 @@
             }
         ]
     },
-    "Dryad": {
+    "dryad": {
         "name": "Dryad",
         "tier": 3,
         "type": "Leader",
@@ -1527,7 +1527,7 @@
             }
         ]
     },
-    "Electric Eels": {
+    "electric eels": {
         "name": "Electric eels",
         "tier": 2,
         "type": "Horde",
@@ -1567,7 +1567,7 @@
             }
         ]
     },
-    "Elemental Spark": {
+    "elemental spark": {
         "name": "Elemental spark",
         "tier": 3,
         "type": "Minion",
@@ -1602,7 +1602,7 @@
             }
         ]
     },
-    "Elite Soldier": {
+    "elite soldier": {
         "name": "Elite soldier",
         "tier": 2,
         "type": "Standard",
@@ -1641,7 +1641,7 @@
             }
         ]
     },
-    "Failed Experiment": {
+    "failed experiment": {
         "name": "Failed experiment",
         "tier": 2,
         "type": "Standard",
@@ -1691,7 +1691,7 @@
             }
         ]
     },
-    "Fallen Shock Troop": {
+    "fallen shock troop": {
         "name": "Fallen shock troop",
         "tier": 4,
         "type": "Minion",
@@ -1733,7 +1733,7 @@
             }
         ]
     },
-    "Fallen Sorcerer": {
+    "fallen sorcerer": {
         "name": "Fallen sorcerer",
         "tier": 4,
         "type": "Support",
@@ -1790,7 +1790,7 @@
             }
         ]
     },
-    "Fallen Warlord Realm-Breaker": {
+    "fallen warlord realm-breaker": {
         "name": "Fallen warlord: realm-breaker",
         "tier": 4,
         "type": "Solo",
@@ -1869,7 +1869,7 @@
             }
         ]
     },
-    "Fallen Warlord Undefeated Champion": {
+    "fallen warlord undefeated champion": {
         "name": "Fallen warlord: undefeated champion",
         "tier": 4,
         "type": "Solo",
@@ -1959,7 +1959,7 @@
             }
         ]
     },
-    "Giant Beastmaster": {
+    "giant beastmaster": {
         "name": "Giant beastmaster",
         "tier": 2,
         "type": "Leader",
@@ -2009,7 +2009,7 @@
             }
         ]
     },
-    "Giant Brawler": {
+    "giant brawler": {
         "name": "Giant brawler",
         "tier": 2,
         "type": "Bruiser",
@@ -2059,7 +2059,7 @@
             }
         ]
     },
-    "Giant Eagle": {
+    "giant eagle": {
         "name": "Giant eagle",
         "tier": 2,
         "type": "Skulk",
@@ -2112,7 +2112,7 @@
             }
         ]
     },
-    "Giant Mosquitoes": {
+    "giant mosquitoes": {
         "name": "Giant mosquitoes",
         "tier": 1,
         "type": "Horde",
@@ -2163,7 +2163,7 @@
             }
         ]
     },
-    "Giant Rat": {
+    "giant rat": {
         "name": "Giant rat",
         "tier": 1,
         "type": "Minion",
@@ -2202,7 +2202,7 @@
             }
         ]
     },
-    "Giant Recruit": {
+    "giant recruit": {
         "name": "Giant recruit",
         "tier": 2,
         "type": "Minion",
@@ -2237,7 +2237,7 @@
             }
         ]
     },
-    "Giant Scorpion": {
+    "giant scorpion": {
         "name": "Giant scorpion",
         "tier": 1,
         "type": "Bruiser",
@@ -2287,7 +2287,7 @@
             }
         ]
     },
-    "Glass Snake": {
+    "glass snake": {
         "name": "Glass snake",
         "tier": 1,
         "type": "Standard",
@@ -2333,7 +2333,7 @@
             }
         ]
     },
-    "Gorgon": {
+    "gorgon": {
         "name": "Gorgon",
         "tier": 2,
         "type": "Solo",
@@ -2397,7 +2397,7 @@
             }
         ]
     },
-    "Greater Earth Elemental": {
+    "greater earth elemental": {
         "name": "Greater earth elemental",
         "tier": 3,
         "type": "Bruiser",
@@ -2457,7 +2457,7 @@
             }
         ]
     },
-    "Greater Water Elemental": {
+    "greater water elemental": {
         "name": "Greater water elemental",
         "tier": 3,
         "type": "Support",
@@ -2503,7 +2503,7 @@
             }
         ]
     },
-    "Green Ooze": {
+    "green ooze": {
         "name": "Green ooze",
         "tier": 1,
         "type": "Skulk",
@@ -2560,7 +2560,7 @@
             }
         ]
     },
-    "Hallowed Archer": {
+    "hallowed archer": {
         "name": "Hallowed archer",
         "tier": 4,
         "type": "Ranged",
@@ -2599,7 +2599,7 @@
             }
         ]
     },
-    "Hallowed Soldier": {
+    "hallowed soldier": {
         "name": "Hallowed soldier",
         "tier": 4,
         "type": "Minion",
@@ -2641,7 +2641,7 @@
             }
         ]
     },
-    "Harrier": {
+    "harrier": {
         "name": "Harrier",
         "tier": 1,
         "type": "Standard",
@@ -2684,7 +2684,7 @@
             }
         ]
     },
-    "Head Guard": {
+    "head guard": {
         "name": "Head guard",
         "tier": 1,
         "type": "Leader",
@@ -2738,7 +2738,7 @@
             }
         ]
     },
-    "Head Vampire": {
+    "head vampire": {
         "name": "Head vampire",
         "tier": 3,
         "type": "Leader",
@@ -2802,7 +2802,7 @@
             }
         ]
     },
-    "High Seraph": {
+    "high seraph": {
         "name": "High seraph",
         "tier": 4,
         "type": "Leader",
@@ -2866,7 +2866,7 @@
             }
         ]
     },
-    "Huge Green Ooze": {
+    "huge green ooze": {
         "name": "Huge green ooze",
         "tier": 3,
         "type": "Skulk",
@@ -2923,7 +2923,7 @@
             }
         ]
     },
-    "Hydra": {
+    "hydra": {
         "name": "Hydra",
         "tier": 3,
         "type": "Solo",
@@ -2983,7 +2983,7 @@
             }
         ]
     },
-    "Jagged Knife Bandit": {
+    "jagged knife bandit": {
         "name": "Jagged knife bandit",
         "tier": 1,
         "type": "Standard",
@@ -3026,7 +3026,7 @@
             }
         ]
     },
-    "Jagged Knife Hexer": {
+    "jagged knife hexer": {
         "name": "Jagged knife hexer",
         "tier": 1,
         "type": "Support",
@@ -3069,7 +3069,7 @@
             }
         ]
     },
-    "Jagged Knife Kneebreaker": {
+    "jagged knife kneebreaker": {
         "name": "Jagged knife kneebreaker",
         "tier": 1,
         "type": "Bruiser",
@@ -3116,7 +3116,7 @@
             }
         ]
     },
-    "Jagged Knife Lackey": {
+    "jagged knife lackey": {
         "name": "Jagged knife lackey",
         "tier": 1,
         "type": "Minion",
@@ -3155,7 +3155,7 @@
             }
         ]
     },
-    "Jagged Knife Lieutenant": {
+    "jagged knife lieutenant": {
         "name": "Jagged knife lieutenant",
         "tier": 1,
         "type": "Leader",
@@ -3212,7 +3212,7 @@
             }
         ]
     },
-    "Jagged Knife Shadow": {
+    "jagged knife shadow": {
         "name": "Jagged knife shadow",
         "tier": 1,
         "type": "Skulk",
@@ -3255,7 +3255,7 @@
             }
         ]
     },
-    "Jagged Knife Sniper": {
+    "jagged knife sniper": {
         "name": "Jagged knife sniper",
         "tier": 1,
         "type": "Ranged",
@@ -3291,7 +3291,7 @@
             }
         ]
     },
-    "Juvenile Flickerfly": {
+    "juvenile flickerfly": {
         "name": "Juvenile flickerfly",
         "tier": 2,
         "type": "Solo",
@@ -3344,7 +3344,7 @@
             }
         ]
     },
-    "Knight of the Realm": {
+    "knight of the realm": {
         "name": "Knight of the realm",
         "tier": 2,
         "type": "Leader",
@@ -3409,7 +3409,7 @@
             }
         ]
     },
-    "Kraken": {
+    "kraken": {
         "name": "Kraken",
         "tier": 4,
         "type": "Solo",
@@ -3473,7 +3473,7 @@
             }
         ]
     },
-    "Masked Thief": {
+    "masked thief": {
         "name": "Masked thief",
         "tier": 2,
         "type": "Skulk",
@@ -3516,7 +3516,7 @@
             }
         ]
     },
-    "Master Assassin": {
+    "master assassin": {
         "name": "Master assassin",
         "tier": 2,
         "type": "Leader",
@@ -3577,7 +3577,7 @@
             }
         ]
     },
-    "Merchant Baron": {
+    "merchant baron": {
         "name": "Merchant baron",
         "tier": 2,
         "type": "Social",
@@ -3624,7 +3624,7 @@
             }
         ]
     },
-    "Merchant": {
+    "merchant": {
         "name": "Merchant",
         "tier": 1,
         "type": "Social",
@@ -3667,7 +3667,7 @@
             }
         ]
     },
-    "Minor Chaos Elemental": {
+    "minor chaos elemental": {
         "name": "Minor chaos elemental",
         "tier": 1,
         "type": "Solo",
@@ -3727,7 +3727,7 @@
             }
         ]
     },
-    "Minor Demon": {
+    "minor demon": {
         "name": "Minor demon",
         "tier": 1,
         "type": "Solo",
@@ -3787,7 +3787,7 @@
             }
         ]
     },
-    "Minor Fire Elemental": {
+    "minor fire elemental": {
         "name": "Minor fire elemental",
         "tier": 1,
         "type": "Solo",
@@ -3847,7 +3847,7 @@
             }
         ]
     },
-    "Minor Treant": {
+    "minor treant": {
         "name": "Minor treant",
         "tier": 1,
         "type": "Minion",
@@ -3882,7 +3882,7 @@
             }
         ]
     },
-    "Minotaur Wrecker": {
+    "minotaur wrecker": {
         "name": "Minotaur wrecker",
         "tier": 2,
         "type": "Bruiser",
@@ -3932,7 +3932,7 @@
             }
         ]
     },
-    "Monarch": {
+    "monarch": {
         "name": "Monarch",
         "tier": 3,
         "type": "Social",
@@ -3986,7 +3986,7 @@
             }
         ]
     },
-    "Mortal Hunter": {
+    "mortal hunter": {
         "name": "Mortal hunter",
         "tier": 2,
         "type": "Leader",
@@ -4043,7 +4043,7 @@
             }
         ]
     },
-    "Oak Treant": {
+    "oak treant": {
         "name": "Oak treant",
         "tier": 3,
         "type": "Bruiser",
@@ -4093,7 +4093,7 @@
             }
         ]
     },
-    "Oracle of Doom": {
+    "oracle of doom": {
         "name": "Oracle of doom",
         "tier": 4,
         "type": "Solo",
@@ -4164,7 +4164,7 @@
             }
         ]
     },
-    "Outer Realms Abomination": {
+    "outer realms abomination": {
         "name": "Outer realms abomination",
         "tier": 4,
         "type": "Bruiser",
@@ -4217,7 +4217,7 @@
             }
         ]
     },
-    "Outer Realms Corrupter": {
+    "outer realms corrupter": {
         "name": "Outer realms corrupter",
         "tier": 4,
         "type": "Support",
@@ -4256,7 +4256,7 @@
             }
         ]
     },
-    "Outer Realms Thrall": {
+    "outer realms thrall": {
         "name": "Outer realms thrall",
         "tier": 4,
         "type": "Minion",
@@ -4291,7 +4291,7 @@
             }
         ]
     },
-    "Patchwork Zombie Hulk": {
+    "patchwork zombie hulk": {
         "name": "Patchwork zombie hulk",
         "tier": 1,
         "type": "Solo",
@@ -4352,7 +4352,7 @@
             }
         ]
     },
-    "Perfected Zombie": {
+    "perfected zombie": {
         "name": "Perfected zombie",
         "tier": 4,
         "type": "Bruiser",
@@ -4405,7 +4405,7 @@
             }
         ]
     },
-    "Petty Noble": {
+    "petty noble": {
         "name": "Petty noble",
         "tier": 1,
         "type": "Social",
@@ -4455,7 +4455,7 @@
             }
         ]
     },
-    "Pirate Captain": {
+    "pirate captain": {
         "name": "Pirate captain",
         "tier": 1,
         "type": "Leader",
@@ -4516,7 +4516,7 @@
             }
         ]
     },
-    "Pirate Raiders": {
+    "pirate raiders": {
         "name": "Pirate raiders",
         "tier": 1,
         "type": "Horde",
@@ -4560,7 +4560,7 @@
             }
         ]
     },
-    "Pirate Tough": {
+    "pirate tough": {
         "name": "Pirate tough",
         "tier": 1,
         "type": "Bruiser",
@@ -4603,7 +4603,7 @@
             }
         ]
     },
-    "Red Ooze": {
+    "red ooze": {
         "name": "Red ooze",
         "tier": 1,
         "type": "Skulk",
@@ -4653,7 +4653,7 @@
             }
         ]
     },
-    "Rotted Zombie": {
+    "rotted zombie": {
         "name": "Rotted zombie",
         "tier": 1,
         "type": "Minion",
@@ -4688,7 +4688,7 @@
             }
         ]
     },
-    "Royal Advisor": {
+    "royal advisor": {
         "name": "Royal advisor",
         "tier": 2,
         "type": "Social",
@@ -4742,7 +4742,7 @@
             }
         ]
     },
-    "Secret-Keeper": {
+    "secret-keeper": {
         "name": "Secret-keeper",
         "tier": 2,
         "type": "Leader",
@@ -4803,7 +4803,7 @@
             }
         ]
     },
-    "Sellsword": {
+    "sellsword": {
         "name": "Sellsword",
         "tier": 1,
         "type": "Minion",
@@ -4838,7 +4838,7 @@
             }
         ]
     },
-    "Shambling Zombie": {
+    "shambling zombie": {
         "name": "Shambling zombie",
         "tier": 1,
         "type": "Standard",
@@ -4877,7 +4877,7 @@
             }
         ]
     },
-    "Shark": {
+    "shark": {
         "name": "Shark",
         "tier": 2,
         "type": "Bruiser",
@@ -4927,7 +4927,7 @@
             }
         ]
     },
-    "Siren": {
+    "siren": {
         "name": "Siren",
         "tier": 2,
         "type": "Skulk",
@@ -4970,7 +4970,7 @@
             }
         ]
     },
-    "Skeleton Archer": {
+    "skeleton archer": {
         "name": "Skeleton archer",
         "tier": 1,
         "type": "Ranged",
@@ -5009,7 +5009,7 @@
             }
         ]
     },
-    "Skeleton Dredge": {
+    "skeleton dredge": {
         "name": "Skeleton dredge",
         "tier": 1,
         "type": "Minion",
@@ -5044,7 +5044,7 @@
             }
         ]
     },
-    "Skeleton Knight": {
+    "skeleton knight": {
         "name": "Skeleton knight",
         "tier": 1,
         "type": "Bruiser",
@@ -5090,7 +5090,7 @@
             }
         ]
     },
-    "Skeleton Warrior": {
+    "skeleton warrior": {
         "name": "Skeleton warrior",
         "tier": 1,
         "type": "Standard",
@@ -5129,7 +5129,7 @@
             }
         ]
     },
-    "Spectral Archer": {
+    "spectral archer": {
         "name": "Spectral archer",
         "tier": 2,
         "type": "Ranged",
@@ -5172,7 +5172,7 @@
             }
         ]
     },
-    "Spectral Captain": {
+    "spectral captain": {
         "name": "Spectral captain",
         "tier": 2,
         "type": "Leader",
@@ -5229,7 +5229,7 @@
             }
         ]
     },
-    "Spectral Guardian": {
+    "spectral guardian": {
         "name": "Spectral guardian",
         "tier": 2,
         "type": "Standard",
@@ -5272,7 +5272,7 @@
             }
         ]
     },
-    "Spellblade": {
+    "spellblade": {
         "name": "Spellblade",
         "tier": 1,
         "type": "Leader",
@@ -5329,7 +5329,7 @@
             }
         ]
     },
-    "Spy": {
+    "spy": {
         "name": "Spy",
         "tier": 2,
         "type": "Social",
@@ -5372,7 +5372,7 @@
             }
         ]
     },
-    "Stag Knight": {
+    "stag knight": {
         "name": "Stag knight",
         "tier": 3,
         "type": "Standard",
@@ -5422,7 +5422,7 @@
             }
         ]
     },
-    "Stonewraith": {
+    "stonewraith": {
         "name": "Stonewraith",
         "tier": 2,
         "type": "Skulk",
@@ -5479,7 +5479,7 @@
             }
         ]
     },
-    "Swarm of Rats": {
+    "swarm of rats": {
         "name": "Swarm of rats",
         "tier": 1,
         "type": "Horde",
@@ -5519,7 +5519,7 @@
             }
         ]
     },
-    "Sylvan Soldier": {
+    "sylvan soldier": {
         "name": "Sylvan soldier",
         "tier": 1,
         "type": "Standard",
@@ -5569,7 +5569,7 @@
             }
         ]
     },
-    "Tangle Bramble Swarm": {
+    "tangle bramble swarm": {
         "name": "Tangle bramble swarm",
         "tier": 1,
         "type": "Horde",
@@ -5620,7 +5620,7 @@
             }
         ]
     },
-    "Tangle Bramble": {
+    "tangle bramble": {
         "name": "Tangle bramble",
         "tier": 1,
         "type": "Minion",
@@ -5662,7 +5662,7 @@
             }
         ]
     },
-    "Tiny Green Ooze": {
+    "tiny green ooze": {
         "name": "Tiny green ooze",
         "tier": 1,
         "type": "Skulk",
@@ -5693,7 +5693,7 @@
             }
         ]
     },
-    "Tiny Red Ooze": {
+    "tiny red ooze": {
         "name": "Tiny red ooze",
         "tier": 1,
         "type": "Skulk",
@@ -5724,7 +5724,7 @@
             }
         ]
     },
-    "Treant Sapling": {
+    "treant sapling": {
         "name": "Treant sapling",
         "tier": 3,
         "type": "Minion",
@@ -5759,7 +5759,7 @@
             }
         ]
     },
-    "Vampire": {
+    "vampire": {
         "name": "Vampire",
         "tier": 3,
         "type": "Standard",
@@ -5802,7 +5802,7 @@
             }
         ]
     },
-    "Vault Guardian Gaoler": {
+    "vault guardian gaoler": {
         "name": "Vault guardian gaoler",
         "tier": 3,
         "type": "Support",
@@ -5841,7 +5841,7 @@
             }
         ]
     },
-    "Vault Guardian Sentinel": {
+    "vault guardian sentinel": {
         "name": "Vault guardian sentinel",
         "tier": 3,
         "type": "Bruiser",
@@ -5894,7 +5894,7 @@
             }
         ]
     },
-    "Vault Guardian Turret": {
+    "vault guardian turret": {
         "name": "Vault guardian turret",
         "tier": 3,
         "type": "Ranged",
@@ -5947,7 +5947,7 @@
             }
         ]
     },
-    "Volcanic Dragon Ashen Tyrant": {
+    "volcanic dragon ashen tyrant": {
         "name": "Volcanic dragon: ashen tyrant",
         "tier": 4,
         "type": "Solo",
@@ -6022,7 +6022,7 @@
             }
         ]
     },
-    "Volcanic Dragon Molten Scourge": {
+    "volcanic dragon molten scourge": {
         "name": "Volcanic dragon: molten scourge",
         "tier": 4,
         "type": "Solo",
@@ -6086,7 +6086,7 @@
             }
         ]
     },
-    "Volcanic Dragon Obsidian Predator": {
+    "volcanic dragon obsidian predator": {
         "name": "Volcanic dragon: obsidian predator",
         "tier": 4,
         "type": "Solo",
@@ -6157,7 +6157,7 @@
             }
         ]
     },
-    "War Wizard": {
+    "war wizard": {
         "name": "War wizard",
         "tier": 2,
         "type": "Ranged",
@@ -6225,7 +6225,7 @@
             }
         ]
     },
-    "Weaponmaster": {
+    "weaponmaster": {
         "name": "Weaponmaster",
         "tier": 1,
         "type": "Bruiser",
@@ -6271,7 +6271,7 @@
             }
         ]
     },
-    "Young Dryad": {
+    "young dryad": {
         "name": "Young dryad",
         "tier": 1,
         "type": "Leader",
@@ -6321,7 +6321,7 @@
             }
         ]
     },
-    "Young Ice Dragon": {
+    "young ice dragon": {
         "name": "Young ice dragon",
         "tier": 3,
         "type": "Solo",
@@ -6399,7 +6399,7 @@
             }
         ]
     },
-    "Zombie Legion": {
+    "zombie legion": {
         "name": "Zombie legion",
         "tier": 4,
         "type": "Horde",
@@ -6453,7 +6453,7 @@
             }
         ]
     },
-    "Zombie Pack": {
+    "zombie pack": {
         "name": "Zombie pack",
         "tier": 1,
         "type": "Horde",

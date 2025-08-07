@@ -1,5 +1,5 @@
 {
-    "Beastbound": {
+    "beastbound": {
         "name": "Beastbound",
         "description": "Play the Beastbound if you want to form a deep bond with an animal ally.",
         "spellcastTrait": "Agility",
@@ -30,7 +30,7 @@
             }
         ]
     },
-    "Call of the Brave": {
+    "call of the brave": {
         "name": "Call of the brave",
         "description": "Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.",
         "foundationFeatures": [
@@ -57,7 +57,7 @@
             }
         ]
     },
-    "Call of the Slayer": {
+    "call of the slayer": {
         "name": "Call of the slayer",
         "description": "Play the Call of the Slayer if you want to strike down adversaries with immense force.",
         "foundationFeatures": [
@@ -80,7 +80,7 @@
             }
         ]
     },
-    "Divine Wielder": {
+    "divine wielder": {
         "name": "Divine wielder",
         "description": "Play the Divine Wielder if you want to dominate the battlefield with a legendary weapon.",
         "spellcastTrait": "Strength",
@@ -108,7 +108,7 @@
             }
         ]
     },
-    "Elemental Origin": {
+    "elemental origin": {
         "name": "Elemental origin",
         "description": "Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.",
         "spellcastTrait": "Instinct",
@@ -133,7 +133,7 @@
             }
         ]
     },
-    "Nightwalker": {
+    "nightwalker": {
         "name": "Nightwalker",
         "description": "Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.",
         "spellcastTrait": "Finesse",
@@ -166,7 +166,7 @@
             }
         ]
     },
-    "Primal Origin": {
+    "primal origin": {
         "name": "Primal origin",
         "description": "Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.",
         "spellcastTrait": "Instinct",
@@ -191,7 +191,7 @@
             }
         ]
     },
-    "School of Knowledge": {
+    "school of knowledge": {
         "name": "School of knowledge",
         "description": "Play the School of Knowledge if you want a keen understanding of the world around you.",
         "spellcastTrait": "Knowledge",
@@ -227,7 +227,7 @@
             }
         ]
     },
-    "School of War": {
+    "school of war": {
         "name": "School of war",
         "description": "Play the School of War if you want to utilize trained magic for violence.",
         "spellcastTrait": "Knowledge",
@@ -263,7 +263,7 @@
             }
         ]
     },
-    "Stalwart": {
+    "stalwart": {
         "name": "Stalwart",
         "description": "Play the Stalwart if you want to take heavy blows and keep fighting.",
         "foundationFeatures": [
@@ -298,7 +298,7 @@
             }
         ]
     },
-    "Syndicate": {
+    "syndicate": {
         "name": "Syndicate",
         "description": "Play the Syndicate if you want to have a web of contacts everywhere you go.",
         "spellcastTrait": "Finesse",
@@ -321,7 +321,7 @@
             }
         ]
     },
-    "Troubadour": {
+    "troubadour": {
         "name": "Troubadour",
         "description": "Play the Troubadour if you want to play music to bolster your allies.",
         "spellcastTrait": "Presence",
@@ -344,7 +344,7 @@
             }
         ]
     },
-    "Vengeance": {
+    "vengeance": {
         "name": "Vengeance",
         "description": "Play the Vengeance if you want to strike down enemies who harm you or your allies.",
         "foundationFeatures": [
@@ -372,7 +372,7 @@
             }
         ]
     },
-    "Warden of Renewal": {
+    "warden of renewal": {
         "name": "Warden of renewal",
         "description": "Play the Warden of Renewal if you want to use powerful magic to heal your party.",
         "spellcastTrait": "Instinct",
@@ -406,7 +406,7 @@
             }
         ]
     },
-    "Warden of the Elements": {
+    "warden of the elements": {
         "name": "Warden of the elements",
         "description": "Play the Warden of the Elements if you want to embody the natural elements of the wild.",
         "spellcastTrait": "Instinct",
@@ -432,7 +432,7 @@
             }
         ]
     },
-    "Wayfinder": {
+    "wayfinder": {
         "name": "Wayfinder",
         "description": "Play the Wayfinder if you want to hunt your prey and strike with deadly force.",
         "spellcastTrait": "Agility",
@@ -461,7 +461,7 @@
             }
         ]
     },
-    "Winged Sentinel": {
+    "winged sentinel": {
         "name": "Winged sentinel",
         "description": "Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.",
         "spellcastTrait": "Strength",
@@ -490,7 +490,7 @@
             }
         ]
     },
-    "Wordsmith": {
+    "wordsmith": {
         "name": "Wordsmith",
         "description": "Play the Wordsmith if you want to use clever wordplay and captivate crowds.",
         "spellcastTrait": "Presence",

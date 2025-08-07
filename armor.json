@@ -1,5 +1,5 @@
 {
-    "Advanced Chainmail Armor": {
+    "advanced chainmail armor": {
         "name": "Advanced chainmail armor",
         "baseThresholds": {
             "lower": 13,
@@ -12,7 +12,7 @@
         },
         "tier": 3
     },
-    "Advanced Full Plate Armor": {
+    "advanced full plate armor": {
         "name": "Advanced full plate armor",
         "baseThresholds": {
             "lower": 15,
@@ -25,7 +25,7 @@
         },
         "tier": 3
     },
-    "Advanced Gambeson Armor": {
+    "advanced gambeson armor": {
         "name": "Advanced gambeson armor",
         "baseThresholds": {
             "lower": 9,
@@ -38,7 +38,7 @@
         },
         "tier": 3
     },
-    "Advanced Leather Armor": {
+    "advanced leather armor": {
         "name": "Advanced leather armor",
         "baseThresholds": {
             "lower": 11,
@@ -47,7 +47,7 @@
         "baseScore": 5,
         "tier": 3
     },
-    "Bellamie Fine Armor": {
+    "bellamie fine armor": {
         "name": "Bellamie fine armor",
         "baseThresholds": {
             "lower": 11,
@@ -60,7 +60,7 @@
         },
         "tier": 3
     },
-    "Bladefare Armor": {
+    "bladefare armor": {
         "name": "Bladefare armor",
         "baseThresholds": {
             "lower": 16,
@@ -73,7 +73,7 @@
         },
         "tier": 3
     },
-    "Chainmail Armor": {
+    "chainmail armor": {
         "name": "Chainmail armor",
         "baseThresholds": {
             "lower": 7,
@@ -86,7 +86,7 @@
         },
         "tier": 1
     },
-    "Channeling Armor": {
+    "channeling armor": {
         "name": "Channeling armor",
         "baseThresholds": {
             "lower": 13,
@@ -99,7 +99,7 @@
         },
         "tier": 4
     },
-    "Dragonscale Armor": {
+    "dragonscale armor": {
         "name": "Dragonscale armor",
         "baseThresholds": {
             "lower": 11,
@@ -112,7 +112,7 @@
         },
         "tier": 3
     },
-    "Dunamis Silkchain": {
+    "dunamis silkchain": {
         "name": "Dunamis silkchain",
         "baseThresholds": {
             "lower": 13,
@@ -125,7 +125,7 @@
         },
         "tier": 4
     },
-    "Elundrian Chain Armor": {
+    "elundrian chain armor": {
         "name": "Elundrian chain armor",
         "baseThresholds": {
             "lower": 9,
@@ -138,7 +138,7 @@
         },
         "tier": 2
     },
-    "Emberwoven Armor": {
+    "emberwoven armor": {
         "name": "Emberwoven armor",
         "baseThresholds": {
             "lower": 13,
@@ -151,7 +151,7 @@
         },
         "tier": 4
     },
-    "Full Fortified Armor": {
+    "full fortified armor": {
         "name": "Full fortified armor",
         "baseThresholds": {
             "lower": 15,
@@ -164,7 +164,7 @@
         },
         "tier": 4
     },
-    "Full Plate Armor": {
+    "full plate armor": {
         "name": "Full plate armor",
         "baseThresholds": {
             "lower": 8,
@@ -177,7 +177,7 @@
         },
         "tier": 1
     },
-    "Gambeson Armor": {
+    "gambeson armor": {
         "name": "Gambeson armor",
         "baseThresholds": {
             "lower": 5,
@@ -190,7 +190,7 @@
         },
         "tier": 1
     },
-    "Harrowbone Armor": {
+    "harrowbone armor": {
         "name": "Harrowbone armor",
         "baseThresholds": {
             "lower": 9,
@@ -203,7 +203,7 @@
         },
         "tier": 2
     },
-    "Improved Chainmail Armor": {
+    "improved chainmail armor": {
         "name": "Improved chainmail armor",
         "baseThresholds": {
             "lower": 11,
@@ -216,7 +216,7 @@
         },
         "tier": 2
     },
-    "Improved Full Plate Armor": {
+    "improved full plate armor": {
         "name": "Improved full plate armor",
         "baseThresholds": {
             "lower": 13,
@@ -229,7 +229,7 @@
         },
         "tier": 2
     },
-    "Improved Gambeson Armor": {
+    "improved gambeson armor": {
         "name": "Improved gambeson armor",
         "baseThresholds": {
             "lower": 7,
@@ -242,7 +242,7 @@
         },
         "tier": 2
     },
-    "Improved Leather Armor": {
+    "improved leather armor": {
         "name": "Improved leather armor",
         "baseThresholds": {
             "lower": 9,
@@ -251,7 +251,7 @@
         "baseScore": 4,
         "tier": 2
     },
-    "Irontree Breastplate Armor": {
+    "irontree breastplate armor": {
         "name": "Irontree breastplate armor",
         "baseThresholds": {
             "lower": 9,
@@ -264,7 +264,7 @@
         },
         "tier": 2
     },
-    "Leather Armor": {
+    "leather armor": {
         "name": "Leather armor",
         "baseThresholds": {
             "lower": 6,
@@ -273,7 +273,7 @@
         "baseScore": 3,
         "tier": 1
     },
-    "Legendary Chainmail Armor": {
+    "legendary chainmail armor": {
         "name": "Legendary chainmail armor",
         "baseThresholds": {
             "lower": 15,
@@ -286,7 +286,7 @@
         },
         "tier": 4
     },
-    "Legendary Full Plate Armor": {
+    "legendary full plate armor": {
         "name": "Legendary full plate armor",
         "baseThresholds": {
             "lower": 17,
@@ -299,7 +299,7 @@
         },
         "tier": 4
     },
-    "Legendary Gambeson Armor": {
+    "legendary gambeson armor": {
         "name": "Legendary gambeson armor",
         "baseThresholds": {
             "lower": 11,
@@ -312,7 +312,7 @@
         },
         "tier": 4
     },
-    "Legendary Leather Armor": {
+    "legendary leather armor": {
         "name": "Legendary leather armor",
         "baseThresholds": {
             "lower": 13,
@@ -321,7 +321,7 @@
         "baseScore": 6,
         "tier": 4
     },
-    "Monetts Cloak": {
+    "monetts cloak": {
         "name": "Monett's cloak",
         "baseThresholds": {
             "lower": 16,
@@ -334,7 +334,7 @@
         },
         "tier": 3
     },
-    "Rosewild Armor": {
+    "rosewild armor": {
         "name": "Rosewild armor",
         "baseThresholds": {
             "lower": 11,
@@ -347,7 +347,7 @@
         },
         "tier": 2
     },
-    "Runes of Fortification": {
+    "runes of fortification": {
         "name": "Runes of fortification",
         "baseThresholds": {
             "lower": 17,
@@ -360,7 +360,7 @@
         },
         "tier": 3
     },
-    "Runetan Floating Armor": {
+    "runetan floating armor": {
         "name": "Runetan floating armor",
         "baseThresholds": {
             "lower": 9,
@@ -373,7 +373,7 @@
         },
         "tier": 2
     },
-    "Savior Chainmail": {
+    "savior chainmail": {
         "name": "Savior chainmail",
         "baseThresholds": {
             "lower": 18,
@@ -386,7 +386,7 @@
         },
         "tier": 4
     },
-    "Spiked Plate Armor": {
+    "spiked plate armor": {
         "name": "Spiked plate armor",
         "baseThresholds": {
             "lower": 10,
@@ -399,7 +399,7 @@
         },
         "tier": 3
     },
-    "Tyris Soft Armor": {
+    "tyris soft armor": {
         "name": "Tyris soft armor",
         "baseThresholds": {
             "lower": 8,
@@ -412,7 +412,7 @@
         },
         "tier": 2
     },
-    "Veritas Opal Armor": {
+    "veritas opal armor": {
         "name": "Veritas opal armor",
         "baseThresholds": {
             "lower": 13,

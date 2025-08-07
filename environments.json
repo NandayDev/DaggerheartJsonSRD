@@ -1,5 +1,5 @@
 {
-    "Abandoned Grove": {
+    "abandoned grove": {
         "name": "Abandoned grove",
         "tier": 1,
         "type": "Exploration",
@@ -7,12 +7,12 @@
         "impulses": "Draw in the curious, echo the past",
         "difficulty": "11",
         "potentialAdversaries": [
-            "Bear",
-            "Dire Wolf",
-            "Glass Snake",
-            "Minor Treant",
-            "Sylvan Soldier",
-            "Young Dryad"
+            "bear",
+            "dire wolf",
+            "glass snake",
+            "minor treant",
+            "sylvan soldier",
+            "young dryad"
         ],
         "features": [
             {
@@ -41,7 +41,7 @@
             }
         ]
     },
-    "Ambushed": {
+    "ambushed": {
         "name": "Ambushed",
         "tier": 1,
         "type": "Event",
@@ -49,7 +49,7 @@
         "impulses": "Overwhelm, scatter, surround",
         "difficulty": "Special (see “Relative Strength”)",
         "potentialAdversaries": [
-            "Any"
+            "any"
         ],
         "features": [
             {
@@ -66,7 +66,7 @@
             }
         ]
     },
-    "Ambushers": {
+    "ambushers": {
         "name": "Ambushers",
         "tier": 1,
         "type": "Event",
@@ -74,7 +74,7 @@
         "impulses": "Escape, group up, protect the most vulnerable",
         "difficulty": "Special (see “Relative Strength”)",
         "potentialAdversaries": [
-            "Any"
+            "any"
         ],
         "features": [
             {
@@ -91,7 +91,7 @@
             }
         ]
     },
-    "Burning Heart of the Woods": {
+    "burning heart of the woods": {
         "name": "Burning heart of the woods",
         "tier": 3,
         "type": "Exploration",
@@ -99,12 +99,12 @@
         "impulses": "Beat out an uncanny rhythm for all to follow, corrupt the woods",
         "difficulty": "16",
         "potentialAdversaries": [
-            "Bear",
-            "Glass Snake",
-            "Elemental Spark",
-            "Dryad",
-            "Oak Treant",
-            "Stag Knight"
+            "bear",
+            "glass snake",
+            "elemental spark",
+            "dryad",
+            "oak treant",
+            "stag knight"
         ],
         "features": [
             {
@@ -147,7 +147,7 @@
             }
         ]
     },
-    "Bustling Marketplace": {
+    "bustling marketplace": {
         "name": "Bustling marketplace",
         "tier": 1,
         "type": "Social",
@@ -155,10 +155,10 @@
         "impulses": "Buy low, sell high, tempt and tantalize with wares from near and far",
         "difficulty": "10",
         "potentialAdversaries": [
-            "Bladed Guard",
-            "Head Guard",
-            "Masked Thief",
-            "Merchant"
+            "bladed guard",
+            "head guard",
+            "masked thief",
+            "merchant"
         ],
         "features": [
             {
@@ -191,7 +191,7 @@
             }
         ]
     },
-    "Castle Siege": {
+    "castle siege": {
         "name": "Castle siege",
         "tier": 3,
         "type": "Event",
@@ -199,14 +199,14 @@
         "impulses": "Bleed out the will to fight, breach the walls, build tension",
         "difficulty": "17",
         "potentialAdversaries": [
-            "Harrier",
-            "Sellsword",
-            "Spellblade",
-            "Weaponmaster",
-            "Archer Squadron",
-            "Conscript",
-            "Elite Soldier",
-            "Knight of the Realm"
+            "harrier",
+            "sellsword",
+            "spellblade",
+            "weaponmaster",
+            "archer squadron",
+            "conscript",
+            "elite soldier",
+            "knight of the realm"
         ],
         "features": [
             {
@@ -239,7 +239,7 @@
             }
         ]
     },
-    "Chaos Realm": {
+    "chaos realm": {
         "name": "Chaos realm",
         "tier": 4,
         "type": "Traversal",
@@ -247,9 +247,9 @@
         "impulses": "Annihilate certainty, consume power, defy logic",
         "difficulty": "20",
         "potentialAdversaries": [
-            "Abomination",
-            "Corruptor",
-            "Thrall"
+            "abomination",
+            "corruptor",
+            "thrall"
         ],
         "features": [
             {
@@ -292,7 +292,7 @@
             }
         ]
     },
-    "Cliffside Ascent": {
+    "cliffside ascent": {
         "name": "Cliffside ascent",
         "tier": 1,
         "type": "Traversal",
@@ -300,10 +300,10 @@
         "impulses": "Cast the unwary down to a rocky doom, draw people in with promise of what lies at the top",
         "difficulty": "12",
         "potentialAdversaries": [
-            "Construct",
-            "Deeproot Defender",
-            "Giant Scorpion",
-            "Glass Snake"
+            "construct",
+            "deeproot defender",
+            "giant scorpion",
+            "glass snake"
         ],
         "features": [
             {
@@ -330,7 +330,7 @@
             }
         ]
     },
-    "Cult Ritual": {
+    "cult ritual": {
         "name": "Cult ritual",
         "tier": 2,
         "type": "Event",
@@ -338,10 +338,10 @@
         "impulses": "Profane the land, unite the Mortal Realm with the Circles Below",
         "difficulty": "14",
         "potentialAdversaries": [
-            "Cult Adept",
-            "Cult Fang",
-            "Cult Initiate",
-            "Secret-Keeper"
+            "cult adept",
+            "cult fang",
+            "cult initiate",
+            "secret-keeper"
         ],
         "features": [
             {
@@ -378,7 +378,7 @@
             }
         ]
     },
-    "Divine Usurpation": {
+    "divine usurpation": {
         "name": "Divine usurpation",
         "tier": 4,
         "type": "Event",
@@ -386,11 +386,11 @@
         "impulses": "Collect power, overawe, silence dissent",
         "difficulty": "20",
         "potentialAdversaries": [
-            "Arch-Necromancer",
-            "Fallen Shock Troops",
-            "Mortal Hunter",
-            "Oracle of Doom",
-            "Perfected Zombie"
+            "arch-necromancer",
+            "fallen shock troops",
+            "mortal hunter",
+            "oracle of doom",
+            "perfected zombie"
         ],
         "features": [
             {
@@ -439,7 +439,7 @@
             }
         ]
     },
-    "Hallowed Temple": {
+    "hallowed temple": {
         "name": "Hallowed temple",
         "tier": 2,
         "type": "Social",
@@ -447,9 +447,9 @@
         "impulses": "Connect the Mortal Realm with the Hallows Above, display the power of the divine, provide aid and succor to the faithful",
         "difficulty": "13",
         "potentialAdversaries": [
-            "Archer Guard",
-            "Bladed Guard",
-            "Head Guard"
+            "archer guard",
+            "bladed guard",
+            "head guard"
         ],
         "features": [
             {
@@ -478,7 +478,7 @@
             }
         ]
     },
-    "Haunted City": {
+    "haunted city": {
         "name": "Haunted city",
         "tier": 2,
         "type": "Exploration",
@@ -486,10 +486,10 @@
         "impulses": "Misdirect and disorient, replay apocalypses both public and personal",
         "difficulty": "14",
         "potentialAdversaries": [
-            "Spectral Archer",
-            "Spectral Captain",
-            "Spectral Guardian",
-            "ghostly versions of other adversaries (see “Ghostly Form”"
+            "spectral archer",
+            "spectral captain",
+            "spectral guardian",
+            "ghostly versions of other adversaries (see “ghostly form”"
         ],
         "features": [
             {
@@ -522,7 +522,7 @@
             }
         ]
     },
-    "Imperial Court": {
+    "imperial court": {
         "name": "Imperial court",
         "tier": 4,
         "type": "Social",
@@ -530,11 +530,11 @@
         "impulses": "Justify and perpetuate imperial rule, seduce rivals with promises of power and comfort",
         "difficulty": "20",
         "potentialAdversaries": [
-            "Bladed Guard",
-            "Courtesan",
-            "Knight of the Realm",
-            "Monarch",
-            "Spy"
+            "bladed guard",
+            "courtesan",
+            "knight of the realm",
+            "monarch",
+            "spy"
         ],
         "features": [
             {
@@ -569,7 +569,7 @@
             }
         ]
     },
-    "Local Tavern": {
+    "local tavern": {
         "name": "Local tavern",
         "tier": 1,
         "type": "Social",
@@ -577,13 +577,13 @@
         "impulses": "Provide opportunities for adventurers, nurture community",
         "difficulty": "10",
         "potentialAdversaries": [
-            "Bladed Guard",
-            "Head Guard",
-            "Harrier",
-            "Sellsword",
-            "Spellblade",
-            "Weaponmaster",
-            "Merchant"
+            "bladed guard",
+            "head guard",
+            "harrier",
+            "sellsword",
+            "spellblade",
+            "weaponmaster",
+            "merchant"
         ],
         "features": [
             {
@@ -618,7 +618,7 @@
             }
         ]
     },
-    "Mountain Pass": {
+    "mountain pass": {
         "name": "Mountain pass",
         "tier": 2,
         "type": "Traversal",
@@ -626,12 +626,12 @@
         "impulses": "Exact a chilling toll in supplies and stamina, reveal magical slumber, slow down travel",
         "difficulty": "15",
         "potentialAdversaries": [
-            "Bear",
-            "Giant Eagle",
-            "Glass Snake",
-            "Chaos Skull",
-            "Minotaur Wrecker",
-            "Mortal Hunter"
+            "bear",
+            "giant eagle",
+            "glass snake",
+            "chaos skull",
+            "minotaur wrecker",
+            "mortal hunter"
         ],
         "features": [
             {
@@ -664,7 +664,7 @@
             }
         ]
     },
-    "Necromancers Ossuary": {
+    "necromancers ossuary": {
         "name": "Necromancer's ossuary",
         "tier": 4,
         "type": "Exploration",
@@ -672,8 +672,8 @@
         "impulses": "Confound intruders, delve into secrets best left buried, manifest unlife, unleash a tide of undead",
         "difficulty": "19",
         "potentialAdversaries": [
-            "Perfected Zombie",
-            "Zombie Legion"
+            "perfected zombie",
+            "zombie legion"
         ],
         "features": [
             {
@@ -708,7 +708,7 @@
             }
         ]
     },
-    "Outpost Town": {
+    "outpost town": {
         "name": "Outpost town",
         "tier": 1,
         "type": "Social",
@@ -716,14 +716,14 @@
         "impulses": "Drive the desperate to certain doom, profit off of ragged hope",
         "difficulty": "12",
         "potentialAdversaries": [
-            "Hexer",
-            "Kneebreaker",
-            "Lackey",
-            "Lieutenant",
-            "Shadow",
-            "Sniper",
-            "Masked Thief",
-            "Merchant"
+            "hexer",
+            "kneebreaker",
+            "lackey",
+            "lieutenant",
+            "shadow",
+            "sniper",
+            "masked thief",
+            "merchant"
         ],
         "features": [
             {
@@ -758,7 +758,7 @@
             }
         ]
     },
-    "Pitched Battle": {
+    "pitched battle": {
         "name": "Pitched battle",
         "tier": 3,
         "type": "Event",
@@ -766,14 +766,14 @@
         "impulses": "Seize people, land, and wealth, spill blood for greed and glory",
         "difficulty": "17",
         "potentialAdversaries": [
-            "Sellsword",
-            "Harrier",
-            "Spellblade",
-            "Weaponmaster",
-            "Archer Squadron",
-            "Conscript",
-            "Elite Soldier",
-            "Knight of the Realm"
+            "sellsword",
+            "harrier",
+            "spellblade",
+            "weaponmaster",
+            "archer squadron",
+            "conscript",
+            "elite soldier",
+            "knight of the realm"
         ],
         "features": [
             {
@@ -802,7 +802,7 @@
             }
         ]
     },
-    "Raging River": {
+    "raging river": {
         "name": "Raging river",
         "tier": 1,
         "type": "Traversal",
@@ -810,14 +810,14 @@
         "impulses": "Bar crossing, carry away the unready, divide the land",
         "difficulty": "10",
         "potentialAdversaries": [
-            "Bear",
-            "Glass Snake",
-            "Hexer",
-            "Kneebreaker",
-            "Lackey",
-            "Lieutenant",
-            "Shadow",
-            "Sniper"
+            "bear",
+            "glass snake",
+            "hexer",
+            "kneebreaker",
+            "lackey",
+            "lieutenant",
+            "shadow",
+            "sniper"
         ],
         "features": [
             {
